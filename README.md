@@ -26,3 +26,12 @@ Suppress is used to merge two duplicate listings the Suppressed listing is point
 Reviews is used to pull user reviews of businesses from n49.ca. Reviews can be filtered by property or date and are specific to a business listing. Reviews are not to be published on third party sites without explicit written permission from N49.ca. Any violation of this can result in API access being revoked.
 
 
+#Refererences
+
+[**Fields:**](https://github.com/n49ryan/N49-Data-Api-Documentation/blob/master/FIELDS/Documentation%20n49.ca%20listing%20format%20-%20FieldNames.csv)
+This is the list of the main listing fields that are associated with a Business listing on the site.
+
+[**Categories:**](https://github.com/n49ryan/N49-Data-Api-Documentation/blob/master/CATEGORIES/listingcategories.csv)
+This is list of Categories that can be attached to a business listing. Every Business listing needs at least one category.
+
+
