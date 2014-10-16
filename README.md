@@ -1,6 +1,15 @@
 #N49-Data-Api-Documentation
 
-Documentation for Integrating with The N49.ca Data-API
+##About
+
+**Documentation for Integrating with The N49.ca Data-API**
+
+The API allows trusted partners of N49.ca to publish, update, and delete listings in our network of local business directories. This includes adding photos, phone numbers, videos, updating business hours, address, etc.
+
+### How do I get started?
+
+Start by sending an email to [Ryan Marr](mailto:ryan@n49.com?Subject=Hey%20Let%20me%20at%20that%20sweet%20n49.ca%20API), head of product at n49. He will hook you up with an API key.
+
 
 ##Actions
 
