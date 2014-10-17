@@ -37,8 +37,8 @@ Reviews is used to pull user reviews of businesses from n49.ca. Reviews can be f
 
 #References
 
-[**Fields:**](https://github.com/n49ryan/N49-Data-Api-Documentation/blob/master/FIELDS/Documentation%20n49.ca%20listing%20format%20-%20FieldNames.csv)
-This is the list of the main listing fields that are associated with a Business listing on the site.
+[**Fields:**](https://github.com/n49/N49-Data-Api-Documentation/blob/master/FIELDS/FieldsJSON.md)
+This is the list of the main listing fields that are associated with a Business listing on the site displayed in JSON. This includes formatting for how images should be handled to differentiate between logos, storefronts, and gallery images.
 
 [**Categories:**](https://github.com/n49ryan/N49-Data-Api-Documentation/blob/master/CATEGORIES/listingcategories.csv)
 This is list of Categories that can be attached to a business listing. Every Business listing needs at least one category.
