@@ -24,7 +24,6 @@ cid,cName,cparentId,cparentName,selectable
 131,Other Vehicles,75,Automotive,N
 141,Business to Business,0,NULL,N
 142,Lawyers,1656,Legal and Financial Services,N
-171,Landlord & Tenant Law,142,Lawyers,N
 172,Landlord & Tenant Law Professionals,142,Lawyers,N
 173,Landlord & Tenant Law Firms,142,Lawyers,N
 185,Insurance,1656,Legal and Financial Services,N
@@ -326,7 +325,6 @@ cid,cName,cparentId,cparentName,selectable
 1739,Vegetarian and Vegan Foods Wholesalers,1271,Food and Beverage Suppliers,N
 1740,Vegetarian and Vegan Foods Associations,1271,Food and Beverage Suppliers,N
 1741,Vegetarian and Vegan Foods Retailers,1271,Food and Beverage Suppliers,N
-1752,Tax Law,142,Lawyers,N
 1753,Tax Law Professionals,142,Lawyers,N
 1792,Pontiac Dealers Dealers,121,New Cars,N
 1793,Pontiac Dealers Manufacturers,121,New Cars,N
@@ -341,7 +339,6 @@ cid,cName,cparentId,cparentName,selectable
 1880,Home Care Products Retailers,1086,Home Care,N
 1881,Home Care Products Distributors,1086,Home Care,N
 1882,Appliances Repairs,770,Home and Garden,N
-1883,Appliances,770,Home and Garden,N
 1884,Appliances Retailers,770,Home and Garden,N
 1885,Appliances Equipment and Supplies,770,Home and Garden,N
 1886,Appliances Rentals,770,Home and Garden,N
@@ -584,7 +581,6 @@ cid,cName,cparentId,cparentName,selectable
 73,Editors Service providers,71,"Literature, Books and Writing",Y
 74,Book Publishing Publishers,71,"Literature, Books and Writing",Y
 77,Auto Glass Service providers,76,Auto Parts & Services,Y
-78,Auto Glass,76,Auto Parts & Services,Y
 79,Auto Glass Resources,76,Auto Parts & Services,Y
 80,Auto Glass Associations,76,Auto Parts & Services,Y
 81,Auto Glass Manufacturers,76,Auto Parts & Services,Y
@@ -644,43 +640,30 @@ cid,cName,cparentId,cparentName,selectable
 139,Recreational Vehicles Rentals,131,Other Vehicles,Y
 140,Recreational Vehicles Manufacturers,131,Other Vehicles,Y
 143,Civil Litigation Firms,142,Lawyers,Y
-144,Civil Litigation,142,Lawyers,Y
 145,Civil Litigation Professionals,142,Lawyers,Y
 146,Corporate Law Firms,142,Lawyers,Y
-147,Corporate Law,142,Lawyers,Y
 148,Corporate Law Professionals,142,Lawyers,Y
-149,Criminal Lawyers,142,Lawyers,Y
 150,Criminal Lawyers Professionals,142,Lawyers,Y
 151,Criminal Lawyers Firms,142,Lawyers,Y
-152,Employment Law,142,Lawyers,Y
 153,Employment Law Professionals,142,Lawyers,Y
 154,Employment Law Firms,142,Lawyers,Y
-155,Entertainment & Media Law,142,Lawyers,Y
 156,Entertainment & Media Law Professionals,142,Lawyers,Y
 157,Entertainment & Media Law Firms,142,Lawyers,Y
 158,Family & Divorce Law Firms,142,Lawyers,Y
-159,Family & Divorce Law,142,Lawyers,Y
 160,Family & Divorce Law Professionals,142,Lawyers,Y
-161,General Practice,142,Lawyers,Y
 162,General Practice Firms,142,Lawyers,Y
 163,General Practice Resources,142,Lawyers,Y
 164,General Practice Professionals,142,Lawyers,Y
 165,Immigration & Citizenship Law Firms,142,Lawyers,Y
-166,Immigration & Citizenship Law,142,Lawyers,Y
 167,Immigration & Citizenship Law Professionals,142,Lawyers,Y
 168,Intellectual Property Law Professionals,142,Lawyers,Y
 169,Intellectual Property Law Firms,142,Lawyers,Y
-170,Intellectual Property Law,142,Lawyers,Y
 174,Legal Services Service providers,142,Lawyers,Y
-175,Legal Services,142,Lawyers,Y
-176,Personal Injury Lawyers,142,Lawyers,Y
 177,Personal Injury Lawyers Professionals,142,Lawyers,Y
 178,Personal Injury Lawyers Firms,142,Lawyers,Y
-179,Real Estate Law,142,Lawyers,Y
 180,Real Estate Law Professionals,142,Lawyers,Y
 181,Real Estate Law Firms,142,Lawyers,Y
 182,Will & Estate Law Firms,142,Lawyers,Y
-183,Will & Estate Law,142,Lawyers,Y
 184,Will & Estate Law Professionals,142,Lawyers,Y
 186,Insurance Agents Firms,185,Insurance,Y
 187,Insurance Agents Publishers,185,Insurance,Y
@@ -1133,7 +1116,6 @@ cid,cName,cparentId,cparentName,selectable
 793,Bathrooms Manufacturers,770,Home and Garden,Y
 794,Bathrooms Retailers,770,Home and Garden,Y
 795,Bathrooms Designers,770,Home and Garden,Y
-796,Bathrooms,770,Home and Garden,Y
 797,Bathrooms Wholesalers,770,Home and Garden,Y
 798,Bathrooms Contractors,770,Home and Garden,Y
 799,Carpet Repairs,770,Home and Garden,Y
@@ -1271,7 +1253,6 @@ cid,cName,cparentId,cparentName,selectable
 931,Plumbers Manufacturers,770,Home and Garden,Y
 932,Plumbers Wholesalers,770,Home and Garden,Y
 933,Plumbers Distributors,770,Home and Garden,Y
-934,Pools,770,Home and Garden,Y
 935,Pools Wholesalers,770,Home and Garden,Y
 936,Pools Contractors,770,Home and Garden,Y
 937,Pools Manufacturers,770,Home and Garden,Y
@@ -1603,7 +1584,6 @@ cid,cName,cparentId,cparentName,selectable
 1379,Electronics Stores Wholesalers,413,Electronics,Y
 1380,Electronics Stores Rentals,413,Electronics,Y
 1381,Electronics Stores Retailers,413,Electronics,Y
-1384,Notaries Public,142,Lawyers,Y
 1385,Notaries Public Professionals,142,Lawyers,Y
 1386,Notaries Public Associations,142,Lawyers,Y
 1387,Notaries Public Publishers,142,Lawyers,Y
@@ -1629,7 +1609,6 @@ cid,cName,cparentId,cparentName,selectable
 1420,Art Supply Stores Retailers,2921,Sewing and Crafts,Y
 1421,Art Supply Stores Manufacturers,2921,Sewing and Crafts,Y
 1422,Art Supply Stores Wholesalers,2921,Sewing and Crafts,Y
-1423,Book Stores,13,Shopping and Specialty Stores,Y
 1424,Book Stores Wholesalers,13,Shopping and Specialty Stores,Y
 1425,Book Stores Online Retailers,13,Shopping and Specialty Stores,Y
 1426,Book Stores Retailers,13,Shopping and Specialty Stores,Y
@@ -1763,7 +1742,6 @@ cid,cName,cparentId,cparentName,selectable
 1620,Website Design Consultants,2807,Marketing,Y
 1622,Adult Video Retailers,1621,Adult Entertainment,Y
 1623,Adult Video Associations,1621,Adult Entertainment,Y
-1624,Adult Video,1621,Adult Entertainment,Y
 1625,Adult Video Studios,1621,Adult Entertainment,Y
 1626,Adult Video Online Retailers,1621,Adult Entertainment,Y
 1631,Boat Rentals Service providers,1629,Boating,Y
@@ -1846,7 +1824,6 @@ cid,cName,cparentId,cparentName,selectable
 1748,Homeopathy Place,1070,Alternative Medicine,Y
 1749,Businesss Law Professionals,142,Lawyers,Y
 1750,Businesss Law Firms,142,Lawyers,Y
-1751,Businesss Law,142,Lawyers,Y
 1754,Acura Dealers Dealers,121,New Cars,Y
 1755,Acura Dealers Manufacturers,121,New Cars,Y
 1756,Audi Dealers Dealers,121,New Cars,Y
@@ -2005,7 +1982,7 @@ cid,cName,cparentId,cparentName,selectable
 1988,Pilates Studios Studios,1630,Fitness,Y
 1989,Balloon Tours Service providers,1184,Tourism,Y
 1992,Fashion Consultants Consultants,13,Shopping and Specialty Stores,Y
-1993,Boat Charters Service providers,1629,Boating,Y
+1993,Boat Charters Service providers,1629,Boating,N
 1994,Bingo Retailers,30,Amusement,Y
 1995,Bingo Place,30,Amusement,Y
 1998,Modeling Agencies Associations,1996,Talent,Y
@@ -2769,9 +2746,9 @@ cid,cName,cparentId,cparentName,selectable
 2998,First Aid Service Instructors,2509,Municipal Services,Y
 2999,First Aid Service Equipment and Supplies,2509,Municipal Services,Y
 3000,First Aid Service Service providers,2509,Municipal Services,Y
-3001,Grocery Stores Place,13,Shopping and Specialty Stores,Y
-3002,Grocery Stores Wholesalers,13,Shopping and Specialty Stores,Y
-3003,Grocery Stores Retailers,13,Shopping and Specialty Stores,Y
+3001,Grocery Stores Place,13,Shopping and Specialty Stores,N
+3002,Grocery Stores Wholesalers,13,Shopping and Specialty Stores,N
+3003,Grocery Stores Retailers,13,Shopping and Specialty Stores,N
 3004,Trade Shows and Expos Events,337,Meetings and Conventions,Y
 3005,Factory Outlet Stores Wholesalers,13,Shopping and Specialty Stores,Y
 3006,Factory Outlet Stores Retailers,13,Shopping and Specialty Stores,Y
