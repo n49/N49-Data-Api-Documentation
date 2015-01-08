@@ -1,4 +1,4 @@
-Default Field names for partners,Type,Required,,
+Default Field names for partners,Type,Required,Notes,
 address1,String,Y,,
 address2,String,N,,
 associations      ,Array,N,,
