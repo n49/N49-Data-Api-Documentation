@@ -38,7 +38,7 @@ services          ,Array,N,,
 specialOffer      ,Array,N,,
 specialties       ,Array,N,,
 state,String,Y,,
-status,true/false,only for suppress,,this is for suppressed and unsuppressed
+status,true/false,only for suppress,this is for suppressed and unsuppressed,
 tollFree,10 digit phone number,N,,
 TTY,10 digit phone number,N,,
 twitterHandle     ,String,N,,
