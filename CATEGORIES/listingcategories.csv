@@ -611,7 +611,7 @@ cid,cName,cparentId,cparentName,selectable
 106,Transmission Services Service providers,76,Auto Parts & Services,Y
 107,Transmission Services Manufacturers,76,Auto Parts & Services,Y
 108,Transmission Services Wholesalers,76,Auto Parts & Services,Y
-109,Car Customizing,75,Automotive,Y
+109,Car Customizing,75,Automotive,N
 110,Auto Interiors Retailers,76,Auto Parts & Services,Y
 111,Auto Interiors Service providers,76,Auto Parts & Services,Y
 112,Car Alarms Retailers,76,Auto Parts & Services,Y
@@ -1769,26 +1769,26 @@ cid,cName,cparentId,cparentName,selectable
 1662,Certified Management Accountants (CMAs) Professionals,1657,Accountants,Y
 1663,Chartered Accountants (CAs) Service providers,1657,Accountants,Y
 1664,Chartered Accountants (CAs) Associations,1657,Accountants,Y
-1666,Appraisers,1665,Business Financial Services,Y
-1667,Asset Management,1665,Business Financial Services,Y
-1668,Banking,1665,Business Financial Services,Y
-1669,Bookkeeping Services,1665,Business Financial Services,Y
-1670,Business Brokerages,1665,Business Financial Services,Y
-1671,Business Credit,1665,Business Financial Services,Y
-1672,Business Loans,1665,Business Financial Services,Y
-1673,Business Valuation Techniques,1665,Business Financial Services,Y
-1674,Collections,1665,Business Financial Services,Y
-1675,Credit Reporting,1665,Business Financial Services,Y
-1676,Currency Exchange,1665,Business Financial Services,Y
-1677,Electronic Funds Transfer,1665,Business Financial Services,Y
-1678,Financing,1665,Business Financial Services,Y
-1679,Mergers and Acquisitions,1665,Business Financial Services,Y
-1682,Payroll Accounting,1665,Business Financial Services,Y
-1683,Small Business Finance,1665,Business Financial Services,Y
-1684,Tax Return Preparation,1665,Business Financial Services,Y
-1685,Trust Companies,1665,Business Financial Services,Y
-1686,Trustees,1665,Business Financial Services,Y
-1687,Venture Capital,1665,Business Financial Services,Y
+1666,Appraisers,1665,Business Financial Services,N
+1667,Asset Management,1665,Business Financial Services,N
+1668,Banking,1665,Business Financial Services,N
+1669,Bookkeeping Services,1665,Business Financial Services,N
+1670,Business Brokerages,1665,Business Financial Services,N
+1671,Business Credit,1665,Business Financial Services,N
+1672,Business Loans,1665,Business Financial Services,N
+1673,Business Valuation Techniques,1665,Business Financial Services,N
+1674,Collections,1665,Business Financial Services,N
+1675,Credit Reporting,1665,Business Financial Services,N
+1676,Currency Exchange,1665,Business Financial Services,N
+1677,Electronic Funds Transfer,1665,Business Financial Services,N
+1678,Financing,1665,Business Financial Services,N
+1679,Mergers and Acquisitions,1665,Business Financial Services,N
+1682,Payroll Accounting,1665,Business Financial Services,N
+1683,Small Business Finance,1665,Business Financial Services,N
+1684,Tax Return Preparation,1665,Business Financial Services,N
+1685,Trust Companies,1665,Business Financial Services,N
+1686,Trustees,1665,Business Financial Services,N
+1687,Venture Capital,1665,Business Financial Services,N
 1695,Long Distance Telephone Service Service providers,452,Communications,Y
 1696,Paging and Signaling Systems Service providers,1689,Communications,Y
 1697,Phone Systems Repairs,1689,Communications,Y
