@@ -15,7 +15,7 @@ There are two primary endpoints, a developement and production endpoint. The dat
 
 PRODUCTION   = data-api.n49.com
 
-DEVELOPEMENT = ata-api-staging.n49.ca
+DEVELOPEMENT = data-api-staging.n49.ca
 
 Please see the individual action articles for specific action endpoints and functionality.
 
