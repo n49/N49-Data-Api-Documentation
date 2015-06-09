@@ -10,6 +10,14 @@ The API allows trusted partners of N49.ca to publish, update, and delete listing
 
 Start by sending an email to [Ryan Marr](mailto:ryan@n49.com?Subject=Hey%20Let%20me%20at%20that%20sweet%20n49.ca%20API), head of product at n49. He will hook you up with an API key.
 
+## Endpoints
+There are two primary endpoints, a developement and production endpoint. The data on the development endpoint is wiped every night and replaced with the latest production data. Anything pushed to the development environment will be lost after 24 hours.
+
+PRODUCTION   = data-api.n49.com
+
+DEVELOPEMENT = ata-api-staging.n49.ca
+
+Please see the individual action articles for specific action endpoints and functionality.
 
 ##Actions
 
