@@ -127,5 +127,15 @@
 			"MasterCard",
 			"Traveler's Check"
 		],
-		"paidBusiness": "true"
-	}
+		"paidBusiness": "true",
+		"attribution": {
+   			"image":{  
+      				"width":143,
+      				"description":"Yext PowerListings",
+      				"url":"http:\/\/www.yextstatic.com\/cms\/pl-synced\/pl-synced.png",
+      				"height":20
+   				},
+   			"attributionUrl":"http:\/\/www.yext.com"
+		}
+	}	
+}
