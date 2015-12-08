@@ -13,7 +13,7 @@ Start by sending an email to [Ryan Marr](mailto:ryan@n49.com?Subject=Hey%20Let%2
 ## Endpoints
 There are two primary endpoints, a developement and production endpoint. The data on the development endpoint is wiped every night and replaced with the latest production data. Anything pushed to the development environment will be lost after 24 hours.
 
-**PRODUCTION**   = data-api.n49.com
+**PRODUCTION**   = data-api.n49.ca
 
 **DEVELOPEMENT** = data-api-staging.n49.ca
 
