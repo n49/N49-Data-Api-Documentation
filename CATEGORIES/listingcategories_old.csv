@@ -1,0 +1,2868 @@
+cid,cName,cparentId,cparentName,selectable
+13,Shopping and Specialty Stores,0,NULL,N
+14,Apparel,13,Shopping and Specialty Stores,N
+15,Footwear,13,Shopping and Specialty Stores,N
+29,Arts and Entertainment,0,NULL,N
+30,Amusement,29,Arts and Entertainment,N
+42,Art,29,Arts and Entertainment,N
+45,Art Dealers Associations,42,Art,N
+46,Art Dealers Retailers,42,Art,N
+47,Art Dealers Wholesalers,42,Art,N
+48,Art Dealers Distributors,42,Art,N
+49,Art Dealers Service providers,42,Art,N
+56,Performing Arts,29,Arts and Entertainment,N
+63,Ticket Sales Retailers,56,Performing Arts,N
+64,Ticket Sales Online Retailers,56,Performing Arts,N
+67,Movies,29,Arts and Entertainment,N
+69,Film Festivals Associations,67,Movies,N
+70,Film Festivals Events,67,Movies,N
+71,"Literature, Books and Writing ",29,Arts and Entertainment,N
+75,Automotive,0,NULL,N
+76,Auto Parts & Services,75,Automotive,N
+121,New Cars,75,Automotive,N
+123,Trucks,75,Automotive,N
+131,Other Vehicles,75,Automotive,N
+141,Business to Business,0,NULL,N
+142,Lawyers,1656,Legal and Financial Services,N
+172,Landlord & Tenant Law Professionals,142,Lawyers,N
+173,Landlord & Tenant Law Firms,142,Lawyers,N
+185,Insurance,1656,Legal and Financial Services,N
+190,Insurance Claims Service providers,185,Insurance,N
+191,Insurance Claims Firms,185,Insurance,N
+207,Engineers,462,Construction and Engineers,N
+211,Systems Engineers Professionals,207,Engineers,N
+212,Systems Engineers Firms,207,Engineers,N
+235,Business Services,141,Business to Business,N
+261,Security & Safety,141,Business to Business,N
+275,Financial Services,1656,Legal and Financial Services,N
+305,Business Financial Services,141,Business to Business,N
+306,Waste Reduction and Recycling Equipment and Supplies,2490,Waste Management,N
+307,Waste Reduction and Recycling Service providers,2490,Waste Management,N
+310,Business Credit Service providers,305,Business Financial Services,N
+311,Online Banking Software Service providers,305,Business Financial Services,N
+315,Financing Consultants,305,Business Financial Services,N
+316,Financing Service providers,305,Business Financial Services,N
+318,Currency Services Brokers,305,Business Financial Services,N
+319,Currency Services Service providers,305,Business Financial Services,N
+323,Advertising,141,Business to Business,N
+325,Corporate Branding and Identity Service providers,2807,Marketing,N
+337,Meetings and Conventions,141,Business to Business,N
+338,Meeting and Convention Venues Place,337,Meetings and Conventions,N
+339,Meeting Consultants Service providers,337,Meetings and Conventions,N
+340,Convention Bureaus Associations,337,Meetings and Conventions,N
+343,Staffing Service providers,337,Meetings and Conventions,N
+344,Ticketing Service providers,337,Meetings and Conventions,N
+348,Associations Associations,2740,"Organizations, Associations & Unions",N
+350,Logistics,141,Business to Business,N
+359,Consultants,141,Business to Business,N
+362,Financial Consultants Consultants,359,Consultants,N
+363,Engineering Consultants Consultants,359,Consultants,N
+364,Transportation Consultants Consultants,359,Consultants,N
+366,Strategic Planning Consultants,359,Consultants,N
+368,Research Consultants Consultants,359,Consultants,N
+370,Integration of New Technology Consultants,359,Consultants,N
+376,Retailers' Equipment and Supplies,141,Business to Business,N
+392,Labelling Manufacturers,235,Business Services,N
+393,Labelling Service providers,235,Business Services,N
+394,Labelling Retailers,235,Business Services,N
+395,Retailers Software Retailers,376,Retailers' Equipment and Supplies,N
+396,Garment Racks Retailers,376,Retailers' Equipment and Supplies,N
+397,Currency Handling Equipment Retailers,376,Retailers' Equipment and Supplies,N
+398,Packaging Service providers,2807,Marketing,N
+399,Packaging Retailers,2807,Marketing,N
+400,Computers and Electronics,0,NULL,N
+401,Computers,400,Computers and Electronics,N
+413,Electronics,400,Computers and Electronics,N
+427,Internet,400,Computers and Electronics,N
+429,VOIP Services Service providers,427,Internet,N
+430,VOIP Services Retailers,427,Internet,N
+434,Media Services,29,Arts and Entertainment,N
+444,Multimedia Services,141,Business to Business,N
+452,Communications,400,Computers and Electronics,N
+460,Telephone Service Service providers,452,Communications,N
+462,Construction and Engineers,0,NULL,N
+463,Construction,462,Construction and Engineers,N
+464,Builders Consultants,463,Construction,N
+465,Builders Publishers,463,Construction,N
+466,Builders Associations,463,Construction,N
+467,Builders Contractors,463,Construction,N
+487,Floor Coverings Manufacturers,463,Construction,N
+488,Floor Coverings Contractors,463,Construction,N
+489,Floor Coverings Dealers,463,Construction,N
+494,HVAC Contractors,463,Construction,N
+495,HVAC Manufacturers,463,Construction,N
+496,HVAC Distributors,463,Construction,N
+519,Property Maintenance,1112,Real Estate and Rentals,N
+528,Specialty Schools and Instruction,1391,Education and Employment,N
+541,Flower Arranging Instruction Schools,528,Specialty Schools and Instruction,N
+549,Public Speaking Instruction Schools,528,Specialty Schools and Instruction,N
+550,Modelling Schools Schools,528,Specialty Schools and Instruction,N
+559,Career Services,1391,Education and Employment,N
+564,Job Banks and Websites Service providers,559,Career Services,N
+566,Family and Community,0,NULL,N
+567,Camps,566,Family and Community,N
+573,Pets,566,Family and Community,N
+590,Family and Social Services,566,Family and Community,N
+598,Religious Establishments,566,Family and Community,N
+609,Food and Dining,0,NULL,N
+612,Restaurants,609,Food and Dining,N
+636,Irish Restaurants Place,612,Restaurants,N
+637,Italian Restaurants Place,612,Restaurants,N
+651,South American Restaurants Place,612,Restaurants,N
+652,Southwestern Restaurants Place,612,Restaurants,N
+656,Swiss Restaurants Place,612,Restaurants,N
+658,Tex-Mex Restaurants Place,612,Restaurants,N
+663,Fast Food,609,Food and Dining,N
+672,"Coffee, Tea and Juices ",609,Food and Dining,N
+673,Bakeries and Desserts,609,Food and Dining,N
+680,Jewellery,13,Shopping and Specialty Stores,N
+702,Music,13,Shopping and Specialty Stores,N
+725,Nutrition,999,Health and Personal Care,N
+726,Fitness Clubs Place,1630,Fitness,N
+727,Fitness Clubs Associations,1630,Fitness,N
+728,Fitness Equipment Retailers,1630,Fitness,N
+737,Beauty,999,Health and Personal Care,N
+770,Home and Garden,0,NULL,N
+945,Renovations Retailers,770,Home and Garden,N
+946,Renovations Associations,770,Home and Garden,N
+947,Renovations Manufacturers,770,Home and Garden,N
+948,Renovations Publishers,770,Home and Garden,N
+949,Renovations Contractors,770,Home and Garden,N
+999,Health and Personal Care,0,NULL,N
+1000,Physicians and Surgeons,999,Health and Personal Care,N
+1024,Urologists Professionals,1000,Physicians and Surgeons,N
+1025,Urologists Place,1000,Physicians and Surgeons,N
+1026,Urologists Associations,1000,Physicians and Surgeons,N
+1030,Hospitals and Clinics,999,Health and Personal Care,N
+1050,Eye Care,999,Health and Personal Care,N
+1064,Dental Services,999,Health and Personal Care,N
+1070,Alternative Medicine,999,Health and Personal Care,N
+1086,Home Care,999,Health and Personal Care,N
+1092,Senior Services,999,Health and Personal Care,N
+1094,"Mental Health, Therapists and Counselors ",999,Health and Personal Care,N
+1112,Real Estate and Rentals,0,NULL,N
+1113,Real Estate Services,1112,Real Estate and Rentals,N
+1115,Real Estate,1112,Real Estate and Rentals,N
+1118,Resale Homes Brokers,1115,Real Estate,N
+1120,Townhouses Brokers,1115,Real Estate,N
+1121,Commercial Property Associations,1115,Real Estate,N
+1122,Commercial Property Firms,1115,Real Estate,N
+1123,Commercial Property Brokers,1115,Real Estate,N
+1127,"Cottages, Chalets, Summer Homes etc. Brokers",1115,Real Estate,N
+1128,Rental Listings,1112,Real Estate and Rentals,N
+1132,Houses Rentals,1128,Rental Listings,N
+1133,"Cottages, Chalets, Summer Homes etc. Rentals",1128,Rental Listings,N
+1135,Sports and Recreation,0,NULL,N
+1137,Lessons and Instruction,1135,Sports and Recreation,N
+1151,Sailing Instruction Service providers,1137,Lessons and Instruction,N
+1154,Leagues,1135,Sports and Recreation,N
+1158,Lacrosse Organizations,1154,Leagues,N
+1161,Volleyball Organizations,1154,Leagues,N
+1162,Golf,1135,Sports and Recreation,N
+1172,Pools,1135,Sports and Recreation,N
+1175,Camping,1135,Sports and Recreation,N
+1183,Boat Charters Service providers,1520,Transportation,N
+1184,Tourism,1491,Travel and Transportation,N
+1193,Weddings and Events,0,NULL,N
+1223,Limos Service providers,1193,Weddings and Events,N
+1224,Wedding Musicians Service providers,1193,Weddings and Events,N
+1245,Funerals,566,Family and Community,N
+1248,Sex Clubs Place,1621,Adult Entertainment,N
+1249,Tennis,1135,Sports and Recreation,N
+1263,Specialty Shops,609,Food and Dining,N
+1271,Food and Beverage Suppliers,141,Business to Business,N
+1272,Food Services and Consultants,141,Business to Business,N
+1273,"Restaurant Equipment, Furnishings and Supplies ",141,Business to Business,N
+1274,Appetizers and Hors d'Oeuvres Wholesalers,1271,Food and Beverage Suppliers,N
+1275,Appetizers and Hors d'Oeuvres Associations,1271,Food and Beverage Suppliers,N
+1276,Appetizers and Hors d'Oeuvres Retailers,1271,Food and Beverage Suppliers,N
+1277,Appetizers and Hors d'Oeuvres Publishers,1271,Food and Beverage Suppliers,N
+1278,Appetizers and Hors d'Oeuvres Distributors,1271,Food and Beverage Suppliers,N
+1279,Beverage - Alcoholic Wholesalers,1271,Food and Beverage Suppliers,N
+1280,Beverage - Alcoholic Associations,1271,Food and Beverage Suppliers,N
+1281,Beverage - Alcoholic Retailers,1271,Food and Beverage Suppliers,N
+1282,Beverage - Alcoholic Publishers,1271,Food and Beverage Suppliers,N
+1283,Beverage - Alcoholic Distributors,1271,Food and Beverage Suppliers,N
+1287,Wine Retailers,1271,Food and Beverage Suppliers,N
+1288,Wine Distributors,1271,Food and Beverage Suppliers,N
+1289,Wine Wholesalers,1271,Food and Beverage Suppliers,N
+1290,"Coffee, Tea and Hot Chocolate Wholesalers",1271,Food and Beverage Suppliers,N
+1291,"Coffee, Tea and Hot Chocolate Distributors",1271,Food and Beverage Suppliers,N
+1292,"Coffee, Tea and Hot Chocolate Retailers",1271,Food and Beverage Suppliers,N
+1293,"Coffee, Tea and Hot Chocolate Equipment and Supplies",1271,Food and Beverage Suppliers,N
+1294,"Coffee, Tea and Hot Chocolate Manufacturers",1271,Food and Beverage Suppliers,N
+1310,Alternative and Specialty Foods Retailers,1271,Food and Beverage Suppliers,N
+1311,Alternative and Specialty Foods Publishers,1271,Food and Beverage Suppliers,N
+1312,Alternative and Specialty Foods Associations,1271,Food and Beverage Suppliers,N
+1313,Alternative and Specialty Foods Manufacturers,1271,Food and Beverage Suppliers,N
+1314,Alternative and Specialty Foods Wholesalers,1271,Food and Beverage Suppliers,N
+1315,Alternative and Specialty Foods Distributors,1271,Food and Beverage Suppliers,N
+1316,Poultry Associations,1271,Food and Beverage Suppliers,N
+1317,Poultry Retailers,1271,Food and Beverage Suppliers,N
+1318,Poultry Distributors,1271,Food and Beverage Suppliers,N
+1319,Poultry Wholesalers,1271,Food and Beverage Suppliers,N
+1320,Food Merchandising and Marketing Service providers,1272,Food Services and Consultants,N
+1321,Advertising and Sales Promotion Service providers,1272,Food Services and Consultants,N
+1322,Education and Training Service providers,1272,Food Services and Consultants,N
+1323,Accounting Systems and Equipment Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1324,Accounting Systems and Equipment Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1325,Accounting Systems and Equipment Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1341,Restaurant Management Software Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1342,Restaurant Management Software Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1343,Restaurant Management Software Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1346,"Sanitation Equipment, Chemicals and Supplies Service providers",1273,"Restaurant Equipment, Furnishings and Supplies",N
+1347,"Sanitation Equipment, Chemicals and Supplies Manufacturers",1273,"Restaurant Equipment, Furnishings and Supplies",N
+1348,"Sanitation Equipment, Chemicals and Supplies Wholesalers",1273,"Restaurant Equipment, Furnishings and Supplies",N
+1349,Plastic Products Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1350,Plastic Products Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1351,Restaurant Tables Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1352,Restaurant Tables Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1353,Restaurant Tables Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1358,Custom Foodservice Equipment Manufacturing Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1359,Custom Foodservice Equipment Manufacturing Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1360,Blenders and Mixers Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1361,Blenders and Mixers Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1362,Blenders and Mixers Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1363,Used Restaurant Equipment Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1364,Used Restaurant Equipment Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+1382,Authors and Writers Service providers,71,"Literature, Books and Writing",N
+1391,Education and Employment,0,NULL,N
+1392,"Adult, Career and Continuing Education ",1391,Education and Employment,N
+1400,Real Estate Training Schools,1392,"Adult, Career and Continuing Education",N
+1401,Real Estate Training Instructors,1392,"Adult, Career and Continuing Education",N
+1403,Nursery and K-12 Schools,1391,Education and Employment,N
+1405,Post Secondary Studies,1391,Education and Employment,N
+1409,Apprenticeships Schools,1405,Post Secondary Studies,N
+1414,Student Resources,1391,Education and Employment,N
+1432,Cardiothoracic Surgeons Associations,1000,Physicians and Surgeons,N
+1433,Cardiothoracic Surgeons Professionals,1000,Physicians and Surgeons,N
+1434,Cardiothoracic Surgeons Place,1000,Physicians and Surgeons,N
+1435,Colorectal Surgeons Place,1000,Physicians and Surgeons,N
+1436,Colorectal Surgeons Associations,1000,Physicians and Surgeons,N
+1437,Colorectal Surgeons Professionals,1000,Physicians and Surgeons,N
+1440,Endocrinologists Professionals,1000,Physicians and Surgeons,N
+1441,Endocrinologists Place,1000,Physicians and Surgeons,N
+1442,Endocrinologists Associations,1000,Physicians and Surgeons,N
+1443,Gastro-Intestinal Surgeons Associations,1000,Physicians and Surgeons,N
+1444,Gastro-Intestinal Surgeons Professionals,1000,Physicians and Surgeons,N
+1445,Gastro-Intestinal Surgeons Place,1000,Physicians and Surgeons,N
+1446,Neonatal Surgeons Place,1000,Physicians and Surgeons,N
+1447,Neonatal Surgeons Associations,1000,Physicians and Surgeons,N
+1448,Neonatal Surgeons Professionals,1000,Physicians and Surgeons,N
+1460,Urological Surgeons Associations,1000,Physicians and Surgeons,N
+1461,Urological Surgeons Professionals,1000,Physicians and Surgeons,N
+1462,Urological Surgeons Place,1000,Physicians and Surgeons,N
+1463,Vascular Surgeons Place,1000,Physicians and Surgeons,N
+1464,Vascular Surgeons Associations,1000,Physicians and Surgeons,N
+1465,Vascular Surgeons Professionals,1000,Physicians and Surgeons,N
+1477,Care Givers Associations,1086,Home Care,N
+1478,Care Givers Service providers,1086,Home Care,N
+1479,Crisis Centres Place,1094,"Mental Health, Therapists and Counselors",N
+1484,Venues,1135,Sports and Recreation,N
+1485,Extreme Sports,1135,Sports and Recreation,N
+1486,Fishing,1135,Sports and Recreation,N
+1487,Fishing Licenses Organizations,1486,Fishing,N
+1491,Travel and Transportation,0,NULL,N
+1492,Trip Planning,1491,Travel and Transportation,N
+1497,Accommodations,1491,Travel and Transportation,N
+1506,Hunting Lodges Place,1497,Accommodations,N
+1510,Resorts,1491,Travel and Transportation,N
+1511,All Inclusive Resorts Place,1510,Resorts,N
+1512,Beach Resorts Place,1510,Resorts,N
+1520,Transportation,1491,Travel and Transportation,N
+1532,Limos Service providers,1520,Transportation,N
+1539,Honeymoons Service providers,1193,Weddings and Events,N
+1572,Candy and Chocolate Shops Retailers,13,Shopping and Specialty Stores,N
+1573,Candy and Chocolate Shops Equipment and Supplies,13,Shopping and Specialty Stores,N
+1574,Candy and Chocolate Shops Manufacturers,13,Shopping and Specialty Stores,N
+1575,Candy and Chocolate Shops Wholesalers,13,Shopping and Specialty Stores,N
+1576,Wine and Liquor Stores,13,Shopping and Specialty Stores,N
+1589,Baseball Diamonds Place,1484,Venues,N
+1591,Football Fields Place,1484,Venues,N
+1592,Basketball Courts Place,1484,Venues,N
+1596,Tennis and Badminton Courts Place,1484,Venues,N
+1597,Tennis and Badminton Courts Contractors,1484,Venues,N
+1600,Freestyle BMX Retailers,1485,Extreme Sports,N
+1601,MotoX Retailers,1485,Extreme Sports,N
+1604,Wakeboarding Retailers,1485,Extreme Sports,N
+1605,Snowboarding Retailers,1485,Extreme Sports,N
+1606,In-Line Skating Retailers,1485,Extreme Sports,N
+1621,Adult Entertainment,29,Arts and Entertainment,N
+1627,Nightlife,29,Arts and Entertainment,N
+1628,Clothing Services,13,Shopping and Specialty Stores,N
+1629,Boating,1135,Sports and Recreation,N
+1630,Fitness,999,Health and Personal Care,N
+1635,Boating Licenses Associations,1629,Boating,N
+1638,Kids and Teens,566,Family and Community,N
+1656,Legal and Financial Services,0,NULL,N
+1657,Accountants,1656,Legal and Financial Services,N
+1658,Auditors Service providers,1657,Accountants,N
+1665,Business Financial Services,141,Business to Business,N
+1680,Money Transfer Services,1665,Business Financial Services,N
+1681,Online Banking Software,1665,Business Financial Services,N
+1689,Communications,141,Business to Business,N
+1690,Mobile Communications Service providers,1689,Communications,N
+1691,Mobile Communications Manufacturers,1689,Communications,N
+1692,Mobile Communications Wholesalers,1689,Communications,N
+1693,Global Positioning Systems Service providers,1689,Communications,N
+1694,Global Positioning Systems Retailers,1689,Communications,N
+1699,Radio Communication Wholesalers,1689,Communications,N
+1700,Radio Communication Manufacturers,1689,Communications,N
+1701,Radio Communication Service providers,1689,Communications,N
+1702,Radio Communication Associations,1689,Communications,N
+1703,Radio Communication Retailers,1689,Communications,N
+1704,Satellite Communications Service providers,1689,Communications,N
+1706,Telephone Messaging Service Service providers,1689,Communications,N
+1709,Human Resources,141,Business to Business,N
+1712,Outsourcing Service providers,1709,Human Resources,N
+1715,Computers and Internet,141,Business to Business,N
+1722,Energy and Environment,141,Business to Business,N
+1724,Energy Conservation and Efficiency Service providers,1722,Energy and Environment,N
+1728,Breeders Service providers,573,Pets,N
+1730,Grocery Stores Retailers,13,Shopping and Specialty Stores,N
+1737,Accommodations Organizations Associations,1497,Accommodations,N
+1738,Vegetarian and Vegan Foods Distributors,1271,Food and Beverage Suppliers,N
+1739,Vegetarian and Vegan Foods Wholesalers,1271,Food and Beverage Suppliers,N
+1740,Vegetarian and Vegan Foods Associations,1271,Food and Beverage Suppliers,N
+1741,Vegetarian and Vegan Foods Retailers,1271,Food and Beverage Suppliers,N
+1753,Tax Law Professionals,142,Lawyers,N
+1792,Pontiac Dealers Dealers,121,New Cars,N
+1793,Pontiac Dealers Manufacturers,121,New Cars,N
+1798,Toyota Dealers Dealers,121,New Cars,N
+1799,Toyota Dealers Manufacturers,121,New Cars,N
+1800,Vauxhall Dealers Dealers,121,New Cars,N
+1801,Vauxhall Dealers Manufacturers,121,New Cars,N
+1847,Gambling,29,Arts and Entertainment,N
+1861,Nutrition Schools Schools,528,Specialty Schools and Instruction,N
+1874,Antennas and Towers Contractors,1689,Communications,N
+1876,Townhouse Rentals Rentals,1128,Rental Listings,N
+1880,Home Care Products Retailers,1086,Home Care,N
+1881,Home Care Products Distributors,1086,Home Care,N
+1882,Appliances Repairs,770,Home and Garden,N
+1884,Appliances Retailers,770,Home and Garden,N
+1885,Appliances Equipment and Supplies,770,Home and Garden,N
+1886,Appliances Rentals,770,Home and Garden,N
+1887,Appliances Manufacturers,770,Home and Garden,N
+1888,Appliances Wholesalers,770,Home and Garden,N
+1952,Stir-Fry Restaurants Place,612,Restaurants,N
+1980,Dental Equipment Manufacturers,1064,Dental Services,N
+1981,Dental Equipment Wholesalers,1064,Dental Services,N
+1982,Dental Equipment Service providers,1064,Dental Services,N
+1990,Currency Exchange Brokers,1492,Trip Planning,N
+1991,Currency Exchange Service providers,1492,Trip Planning,N
+1996,Talent,29,Arts and Entertainment,N
+1997,Actors Professionals,1996,Talent,N
+2016,Car Shows Events,75,Automotive,N
+2017,Miscellaneous,141,Business to Business,N
+2032,Carpet Cleaning Service providers,770,Home and Garden,N
+2033,Carpet Cleaning Rentals,770,Home and Garden,N
+2034,Carpet Cleaning Equipment and Supplies,770,Home and Garden,N
+2104,Housewares,13,Shopping and Specialty Stores,N
+2119,Biking,1135,Sports and Recreation,N
+2124,Other,0,NULL,N
+2141,Skiing - Snowboarding,1135,Sports and Recreation,N
+2165,Ceilings Manufacturers,463,Construction,N
+2166,Ceilings Contractors,463,Construction,N
+2167,Ceilings Publishers,463,Construction,N
+2168,Ceilings Associations,463,Construction,N
+2195,Interior Decorators Equipment and Supplies,770,Home and Garden,N
+2196,Interior Decorators Service providers,770,Home and Garden,N
+2227,Car Loans Service providers,75,Automotive,N
+2234,Tattoo Removal Service providers,737,Beauty,N
+2235,Tattoo Removal Manufacturers,737,Beauty,N
+2257,Biomedical Engineers Firms,207,Engineers,N
+2258,Biomedical Engineers Associations,207,Engineers,N
+2259,Biomedical Engineers Professionals,207,Engineers,N
+2266,Data Processing Service providers,235,Business Services,N
+2267,Data Processing Firms,235,Business Services,N
+2273,Entertainment Bureaus Organizations,29,Arts and Entertainment,N
+2275,Gastroenterologists Place,1000,Physicians and Surgeons,N
+2276,Gastroenterologists Associations,1000,Physicians and Surgeons,N
+2277,Gastroenterologists Professionals,1000,Physicians and Surgeons,N
+2282,Human Factors Engineers Firms,207,Engineers,N
+2283,Human Factors Engineers Professionals,207,Engineers,N
+2327,Other Adult Entertainment Retailers,1621,Adult Entertainment,N
+2328,Other Adult Entertainment Associations,1621,Adult Entertainment,N
+2329,Other Adult Entertainment Wholesalers,1621,Adult Entertainment,N
+2330,Other Adult Entertainment Manufacturers,1621,Adult Entertainment,N
+2331,Other Adult Entertainment Place,1621,Adult Entertainment,N
+2332,Other Adult Entertainment Service providers,1621,Adult Entertainment,N
+2333,Other Adult Entertainment Distributors,1621,Adult Entertainment,N
+2334,Other Adult Entertainment Online Retailers,1621,Adult Entertainment,N
+2335,Orthotics and Prosthetics,999,Health and Personal Care,N
+2349,Other Talent Professionals,1996,Talent,N
+2350,Other Talent Associations,1996,Talent,N
+2351,Other Talent Publishers,1996,Talent,N
+2352,Other Talent Resources,1996,Talent,N
+2353,Environmental Service providers,1722,Energy and Environment,N
+2354,Environmental Manufacturers,1722,Energy and Environment,N
+2355,Environmental Wholesalers,1722,Energy and Environment,N
+2356,Agriculture,141,Business to Business,N
+2357,Other Food and Beverage Supply Manufacturers,1271,Food and Beverage Suppliers,N
+2358,Other Food and Beverage Supply Wholesalers,1271,Food and Beverage Suppliers,N
+2359,Other Food and Beverage Supply Distributors,1271,Food and Beverage Suppliers,N
+2360,Other Food and Beverage Supply Retailers,1271,Food and Beverage Suppliers,N
+2361,Other Food and Beverage Supply Associations,1271,Food and Beverage Suppliers,N
+2364,Other Restaurant Supply Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+2365,Other Restaurant Supply Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+2366,Other Restaurant Supply Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",N
+2371,Trucking,141,Business to Business,N
+2372,Materials,141,Business to Business,N
+2373,Plastics Distributors,2372,Materials,N
+2374,Plastics Associations,2372,Materials,N
+2375,Plastics Manufacturers,2372,Materials,N
+2387,Rubber Distributors,2372,Materials,N
+2388,Rubber Associations,2372,Materials,N
+2389,Rubber Manufacturers,2372,Materials,N
+2394,Answering Services Service providers,1689,Communications,N
+2400,Video Gaming Retailers,400,Computers and Electronics,N
+2412,Aerospace Industries Associations,2124,Other,N
+2413,Aircraft Retailers,2124,Other,N
+2414,Aircraft Manufacturers,2124,Other,N
+2415,Aircraft Service providers,2124,Other,N
+2416,Aircraft Equipment and Supplies Distributors,2124,Other,N
+2417,Aircraft Equipment and Supplies Retailers,2124,Other,N
+2418,Aircraft Equipment and Supplies Manufacturers,2124,Other,N
+2419,Aircraft Equipment and Supplies Service providers,2124,Other,N
+2420,Aircraft Servicing and Maintenance Service providers,2124,Other,N
+2432,Auto Buyers Service providers,2124,Other,N
+2434,Business Brokers Associations,2124,Other,N
+2435,Business Brokers Brokers,2124,Other,N
+2440,Machinery and Equipment Repairs,463,Construction,N
+2441,Machinery and Equipment Distributors,463,Construction,N
+2442,Machinery and Equipment Retailers,463,Construction,N
+2443,Machinery and Equipment Wholesalers,463,Construction,N
+2444,Machinery and Equipment Associations,463,Construction,N
+2445,Machinery and Equipment Rentals,463,Construction,N
+2446,Machinery and Equipment Manufacturers,463,Construction,N
+2447,Machinery and Equipment Service providers,463,Construction,N
+2448,Conversions Service providers,2124,Other,N
+2460,Hunting,1135,Sports and Recreation,N
+2490,Waste Management,141,Business to Business,N
+2497,Neurologists Associations,1000,Physicians and Surgeons,N
+2498,Neurologists Professionals,1000,Physicians and Surgeons,N
+2499,Neurologists Place,1000,Physicians and Surgeons,N
+2509,Municipal Services,566,Family and Community,N
+2512,Guided Tours Service providers,1184,Tourism,N
+2513,Other Senior Services Service providers,1092,Senior Services,N
+2514,Satellite Equipment & Systems Retailers,2124,Other,N
+2539,Miscellaneous Organizations,1689,Communications,N
+2540,Miscellaneous Service providers,1689,Communications,N
+2545,Other,75,Automotive,N
+2547,Electric Car Dealers Dealers,2545,Other,N
+2548,Electric Car Dealers Manufacturers,2545,Other,N
+2549,Electric Car Dealers Wholesalers,2545,Other,N
+2550,Electric Car Dealers Service providers,2545,Other,N
+2688,Beer Making Equipment and Supplies,1576,Wine and Liquor Stores,N
+2689,Beer Making Retailers,1576,Wine and Liquor Stores,N
+2692,Photography,29,Arts and Entertainment,N
+2695,Aerial Photographers Professionals,2692,Photography,N
+2696,Stock Photography Professionals,323,Advertising,N
+2697,Stock Photography Online Retailers,323,Advertising,N
+2698,Stock Photography Service providers,323,Advertising,N
+2699,Stock Photography Retailers,323,Advertising,N
+2700,Bank Equipment & Supplies Manufacturers,305,Business Financial Services,N
+2701,Bank Equipment & Supplies Wholesalers,305,Business Financial Services,N
+2707,Furniture Cleaning Manufacturers,770,Home and Garden,N
+2708,Furniture Cleaning Rentals,770,Home and Garden,N
+2709,Furniture Cleaning Wholesalers,770,Home and Garden,N
+2710,Furniture Cleaning Designers,770,Home and Garden,N
+2711,Furniture Cleaning Repairs,770,Home and Garden,N
+2712,Furniture Cleaning Retailers,770,Home and Garden,N
+2713,Furniture Cleaning Used,770,Home and Garden,N
+2714,Furniture Cleaning Equipment and Supplies,770,Home and Garden,N
+2715,Fur Farms Place,2124,Other,N
+2725,Salvage and Surplus Dealers,2124,Other,N
+2727,Kinesiotherapists Associations,1000,Physicians and Surgeons,N
+2728,Kinesiotherapists Professionals,1000,Physicians and Surgeons,N
+2729,Kinesiotherapists Place,1000,Physicians and Surgeons,N
+2730,Community Clubs,566,Family and Community,N
+2739,Relationship Counselling Professionals,590,Family and Social Services,N
+2740,"Organizations, Associations & Unions ",141,Business to Business,N
+2752,Skating,1135,Sports and Recreation,N
+2759,Equestrian,1135,Sports and Recreation,N
+2763,Boilers Manufacturers,519,Property Maintenance,N
+2764,Boilers Wholesalers,519,Property Maintenance,N
+2765,Boilers Service providers,519,Property Maintenance,N
+2772,Fishing Industries,2124,Other,N
+2773,Hatcheries Equipment and Supplies,2772,Fishing Industries,N
+2774,Hatcheries Place,2772,Fishing Industries,N
+2775,Packers Equipment and Supplies,2772,Fishing Industries,N
+2776,Packers Service providers,2772,Fishing Industries,N
+2777,Commercial Fishermen Professionals,2772,Fishing Industries,N
+2778,Commercial Fishermen Service providers,2772,Fishing Industries,N
+2787,Printing Equipment & Supplies Manufacturers,235,Business Services,N
+2788,Printing Equipment & Supplies Wholesalers,235,Business Services,N
+2789,Printing Equipment & Supplies Service providers,235,Business Services,N
+2790,Travel Clinics Place,1030,Hospitals and Clinics,N
+2791,Travel Clinics Associations,1030,Hospitals and Clinics,N
+2792,Travel Clinics Professionals,1030,Hospitals and Clinics,N
+2807,Marketing,141,Business to Business,N
+2845,Plants,770,Home and Garden,N
+2872,Art Appraisals Service providers,42,Art,N
+2921,Sewing and Crafts,13,Shopping and Specialty Stores,N
+2929,Manufacturing,141,Business to Business,N
+2959,Franchising Franchisors,141,Business to Business,N
+2984,Environmental Consultants Consultants,1722,Energy and Environment,N
+2986,Engines Retailers,76,Auto Parts & Services,N
+2987,Engines Repairs,76,Auto Parts & Services,N
+2988,Engines Manufacturers,76,Auto Parts & Services,N
+2989,Engines Wholesalers,76,Auto Parts & Services,N
+3007,Foundations Contractors,463,Construction,N
+3026,Government Offices and Services,566,Family and Community,N
+3032,Airport Parking Place,1520,Transportation,N
+3046,Taxidermists Service providers,2460,Hunting,N
+3047,Tools Repairs,13,Shopping and Specialty Stores,N
+3048,Tools Manufacturers,13,Shopping and Specialty Stores,N
+3049,Tools Wholesalers,13,Shopping and Specialty Stores,N
+3050,Tools Rentals,13,Shopping and Specialty Stores,N
+3051,Tools Retailers,13,Shopping and Specialty Stores,N
+3055,Water Delivery Service providers,235,Business Services,N
+3056,Water Delivery Equipment and Supplies,235,Business Services,N
+3131,Saturn Dealers Dealers,121,New Cars,N
+3132,Saturn Dealers Manufacturers,121,New Cars,N
+3145,Dummy cat for testing Artificial,30,Amusement,N
+3150,RAILINGS 2 Manufacturers,770,Home and Garden,N
+3151,RAILINGS 2 Contractors,770,Home and Garden,N
+1,Massage Parlours Place,1621,Adult Entertainment,Y
+2,Erotic Dancers Place,1621,Adult Entertainment,Y
+3,Escorts Service providers,1621,Adult Entertainment,Y
+4,Bathhouses Place,1621,Adult Entertainment,Y
+5,Dating Services Service providers,1621,Adult Entertainment,Y
+6,Sex Shops Online Retailers,1621,Adult Entertainment,Y
+7,Sex Shops Distributors,1621,Adult Entertainment,Y
+8,Sex Shops Retailers,1621,Adult Entertainment,Y
+9,Astrologers Associations,1621,Adult Entertainment,Y
+10,Astrologers Publishers,1621,Adult Entertainment,Y
+11,Astrologers Service providers,1621,Adult Entertainment,Y
+12,Psychics Service providers,1621,Adult Entertainment,Y
+16,Furs Wholesalers,13,Shopping and Specialty Stores,Y
+17,Furs Manufacturers,13,Shopping and Specialty Stores,Y
+18,Furs Service providers,13,Shopping and Specialty Stores,Y
+19,Furs Cleaning,13,Shopping and Specialty Stores,Y
+20,Furs Retailers,13,Shopping and Specialty Stores,Y
+21,Fabrics and Textiles Retailers,2921,Sewing and Crafts,Y
+22,Fabrics and Textiles Manufacturers,2921,Sewing and Crafts,Y
+23,Fabrics and Textiles Wholesalers,2921,Sewing and Crafts,Y
+24,Leather Retailers,13,Shopping and Specialty Stores,Y
+25,Leather Repairs,13,Shopping and Specialty Stores,Y
+26,Leather Manufacturers,13,Shopping and Specialty Stores,Y
+27,Leather Wholesalers,13,Shopping and Specialty Stores,Y
+28,Tailoring & Alterations Service providers,1628,Clothing Services,Y
+31,Amusement Parks Place,30,Amusement,Y
+32,Arcades Place,30,Amusement,Y
+33,Go-Kart Tracks Place,30,Amusement,Y
+34,Waterparks Place,30,Amusement,Y
+35,Laser Games Place,30,Amusement,Y
+36,Bowling Service providers,30,Amusement,Y
+37,Bowling Retailers,30,Amusement,Y
+38,Bowling Wholesalers,30,Amusement,Y
+39,Bowling Place,30,Amusement,Y
+40,Miniature Golf Place,30,Amusement,Y
+41,Zoos Place,30,Amusement,Y
+43,Art Galleries Associations,42,Art,Y
+44,Art Galleries Place,42,Art,Y
+50,Artists Studios,42,Art,Y
+51,Artists Professionals,42,Art,Y
+52,Casinos Associations,1847,Gambling,Y
+53,Casinos Service providers,1847,Gambling,Y
+54,Casinos Place,1847,Gambling,Y
+55,Casinos Wholesalers,1847,Gambling,Y
+57,Concert Venues Place,56,Performing Arts,Y
+58,Opera Companies Organizations,56,Performing Arts,Y
+59,Ballet Theatres Place,56,Performing Arts,Y
+60,Ballet Theatres Associations,56,Performing Arts,Y
+61,Theatres & Play Houses Place,56,Performing Arts,Y
+62,Theatres & Play Houses Associations,56,Performing Arts,Y
+65,Museums and Historical Sites Associations,29,Arts and Entertainment,Y
+66,Museums and Historical Sites Place,29,Arts and Entertainment,Y
+68,Movie Theatres Place,67,Movies,Y
+72,Used Books Retailers,13,Shopping and Specialty Stores,Y
+73,Editors Service providers,71,"Literature, Books and Writing",Y
+74,Book Publishing Publishers,71,"Literature, Books and Writing",Y
+77,Auto Glass Service providers,76,Auto Parts & Services,Y
+79,Auto Glass Resources,76,Auto Parts & Services,Y
+80,Auto Glass Associations,76,Auto Parts & Services,Y
+81,Auto Glass Manufacturers,76,Auto Parts & Services,Y
+82,Auto Parts Manufacturers,76,Auto Parts & Services,Y
+83,Auto Parts Retailers,76,Auto Parts & Services,Y
+84,Auto Parts Used,76,Auto Parts & Services,Y
+85,Auto Parts Distributors,76,Auto Parts & Services,Y
+86,Auto Parts Online Retailers,76,Auto Parts & Services,Y
+87,Auto Parts Wholesalers,76,Auto Parts & Services,Y
+88,Auto Parts Associations,76,Auto Parts & Services,Y
+89,Tires Retailers,76,Auto Parts & Services,Y
+90,Tires Equipment and Supplies,76,Auto Parts & Services,Y
+91,Tires Manufacturers,76,Auto Parts & Services,Y
+92,Tires Service providers,76,Auto Parts & Services,Y
+93,Tires Used,76,Auto Parts & Services,Y
+94,Tires Distributors,76,Auto Parts & Services,Y
+95,Towing Manufacturers,76,Auto Parts & Services,Y
+96,Towing Wholesalers,76,Auto Parts & Services,Y
+97,Towing Service providers,76,Auto Parts & Services,Y
+98,Wrecking Service providers,76,Auto Parts & Services,Y
+99,Wrecking Distributors,76,Auto Parts & Services,Y
+100,Car Washes Service providers,76,Auto Parts & Services,Y
+101,Car Washes Equipment and Supplies,76,Auto Parts & Services,Y
+102,Car Washes Place,76,Auto Parts & Services,Y
+103,Car Washes Wholesalers,76,Auto Parts & Services,Y
+104,Parking Service providers,1520,Transportation,Y
+105,Parking Place,1520,Transportation,Y
+106,Transmission Services Service providers,76,Auto Parts & Services,Y
+107,Transmission Services Manufacturers,76,Auto Parts & Services,Y
+108,Transmission Services Wholesalers,76,Auto Parts & Services,Y
+109,Car Customizing,75,Automotive,N
+110,Auto Interiors Retailers,76,Auto Parts & Services,Y
+111,Auto Interiors Service providers,76,Auto Parts & Services,Y
+112,Car Alarms Retailers,76,Auto Parts & Services,Y
+113,Car Alarms Manufacturers,76,Auto Parts & Services,Y
+114,Car Alarms Service providers,76,Auto Parts & Services,Y
+115,Auto Audio Visual Wholesalers,76,Auto Parts & Services,Y
+116,Auto Audio Visual Manufacturers,76,Auto Parts & Services,Y
+117,Auto Audio Visual Service providers,76,Auto Parts & Services,Y
+118,Auto Audio Visual Retailers,76,Auto Parts & Services,Y
+119,Car Leasing Service providers,75,Automotive,Y
+122,Car Rentals Service providers,1520,Transportation,Y
+124,Consumer Trucks Service providers,123,Trucks,Y
+125,Consumer Trucks Manufacturers,123,Trucks,Y
+126,Consumer Trucks Dealers,123,Trucks,Y
+127,Truck Repairs & Services Service providers,2371,Trucking,Y
+128,Truck Rentals Associations,123,Trucks,Y
+129,Truck Rentals Service providers,123,Trucks,Y
+130,Truck Rentals Resources,123,Trucks,Y
+132,All Terrain Vehicles Rentals,131,Other Vehicles,Y
+133,All Terrain Vehicles Dealers,131,Other Vehicles,Y
+134,All Terrain Vehicles Manufacturers,131,Other Vehicles,Y
+135,Recreational Vehicles Wholesalers,131,Other Vehicles,Y
+136,Recreational Vehicles Repairs,131,Other Vehicles,Y
+137,Recreational Vehicles Retailers,131,Other Vehicles,Y
+138,Recreational Vehicles Dealers,131,Other Vehicles,Y
+139,Recreational Vehicles Rentals,131,Other Vehicles,Y
+140,Recreational Vehicles Manufacturers,131,Other Vehicles,Y
+143,Civil Litigation Firms,142,Lawyers,Y
+145,Civil Litigation Professionals,142,Lawyers,Y
+146,Corporate Law Firms,142,Lawyers,Y
+148,Corporate Law Professionals,142,Lawyers,Y
+150,Criminal Lawyers Professionals,142,Lawyers,Y
+151,Criminal Lawyers Firms,142,Lawyers,Y
+153,Employment Law Professionals,142,Lawyers,Y
+154,Employment Law Firms,142,Lawyers,Y
+156,Entertainment & Media Law Professionals,142,Lawyers,Y
+157,Entertainment & Media Law Firms,142,Lawyers,Y
+158,Family & Divorce Law Firms,142,Lawyers,Y
+160,Family & Divorce Law Professionals,142,Lawyers,Y
+162,General Practice Firms,142,Lawyers,Y
+163,General Practice Resources,142,Lawyers,Y
+164,General Practice Professionals,142,Lawyers,Y
+165,Immigration & Citizenship Law Firms,142,Lawyers,Y
+167,Immigration & Citizenship Law Professionals,142,Lawyers,Y
+168,Intellectual Property Law Professionals,142,Lawyers,Y
+169,Intellectual Property Law Firms,142,Lawyers,Y
+174,Legal Services Service providers,142,Lawyers,Y
+177,Personal Injury Lawyers Professionals,142,Lawyers,Y
+178,Personal Injury Lawyers Firms,142,Lawyers,Y
+180,Real Estate Law Professionals,142,Lawyers,Y
+181,Real Estate Law Firms,142,Lawyers,Y
+182,Will & Estate Law Firms,142,Lawyers,Y
+184,Will & Estate Law Professionals,142,Lawyers,Y
+186,Insurance Agents Firms,185,Insurance,Y
+187,Insurance Agents Publishers,185,Insurance,Y
+188,Insurance Agents Professionals,185,Insurance,Y
+189,Insurance Agents Associations,185,Insurance,Y
+192,Life and Health Insurance Professionals,185,Insurance,Y
+193,Life and Health Insurance Associations,185,Insurance,Y
+194,Life and Health Insurance Firms,185,Insurance,Y
+195,Life and Health Insurance Publishers,185,Insurance,Y
+196,Medical Insurance Publishers,185,Insurance,Y
+197,Medical Insurance Professionals,185,Insurance,Y
+198,Medical Insurance Brokers,185,Insurance,Y
+199,Medical Insurance Firms,185,Insurance,Y
+200,Medical Insurance Associations,185,Insurance,Y
+201,Car Insurance Publishers,185,Insurance,Y
+202,Car Insurance Professionals,185,Insurance,Y
+203,Car Insurance Brokers,185,Insurance,Y
+204,Car Insurance Firms,185,Insurance,Y
+205,Car Insurance Organizations,185,Insurance,Y
+206,Car Insurance Associations,185,Insurance,Y
+208,Acoustic Engineers Professionals,207,Engineers,Y
+209,Acoustic Engineers Firms,207,Engineers,Y
+210,Acoustic Engineers Associations,207,Engineers,Y
+213,Agricultural Engineers Associations,207,Engineers,Y
+214,Agricultural Engineers Professionals,207,Engineers,Y
+215,Agricultural Engineers Firms,207,Engineers,Y
+216,Environmental Engineers Associations,207,Engineers,Y
+217,Environmental Engineers Professionals,207,Engineers,Y
+218,Environmental Engineers Firms,207,Engineers,Y
+219,Mechanical Engineers Professionals,207,Engineers,Y
+220,Mechanical Engineers Firms,207,Engineers,Y
+221,Mechanical Engineers Associations,207,Engineers,Y
+222,Consulting Engineers Firms,207,Engineers,Y
+223,Consulting Engineers Associations,207,Engineers,Y
+224,Consulting Engineers Professionals,207,Engineers,Y
+225,Aeronautical Engineers Firms,207,Engineers,Y
+226,Aeronautical Engineers Associations,207,Engineers,Y
+227,Aeronautical Engineers Professionals,207,Engineers,Y
+228,Civil Engineers Professionals,207,Engineers,Y
+229,Civil Engineers Firms,207,Engineers,Y
+230,Civil Engineers Associations,207,Engineers,Y
+231,Computer Engineers Publishers,207,Engineers,Y
+232,Computer Engineers Professionals,207,Engineers,Y
+233,Computer Engineers Associations,207,Engineers,Y
+234,Computer Engineers Firms,207,Engineers,Y
+236,Office Supplies and Equipment Retailers,235,Business Services,Y
+237,Office Supplies and Equipment Manufacturers,235,Business Services,Y
+238,Printing Consultants,235,Business Services,Y
+239,Printing Brokers,235,Business Services,Y
+240,Printing Service providers,235,Business Services,Y
+241,Mail Service Equipment and Supplies,235,Business Services,Y
+242,Signs Service providers,235,Business Services,Y
+243,Signs Rentals,235,Business Services,Y
+244,Signs Manufacturers,235,Business Services,Y
+245,Signs Wholesalers,235,Business Services,Y
+246,Shredding Retailers,235,Business Services,Y
+247,Shredding Service providers,235,Business Services,Y
+248,Copywriting Service providers,2807,Marketing,Y
+249,Vending Machines Distributors,235,Business Services,Y
+256,Translators Equipment and Supplies,235,Business Services,Y
+257,Translators Service providers,235,Business Services,Y
+258,Liquidators Service providers,350,Logistics,Y
+259,Distribution Service providers,350,Logistics,Y
+260,Distribution Distributors,350,Logistics,Y
+262,Security Guards Service providers,261,Security & Safety,Y
+263,Surveillance Retailers,261,Security & Safety,Y
+264,Surveillance Wholesalers,261,Security & Safety,Y
+265,Surveillance Manufacturers,261,Security & Safety,Y
+266,Surveillance Service providers,261,Security & Safety,Y
+267,Safety Equipment Manufacturers,261,Security & Safety,Y
+268,Safety Equipment Wholesalers,261,Security & Safety,Y
+269,Fire Protection Retailers,261,Security & Safety,Y
+270,Fire Protection Wholesalers,261,Security & Safety,Y
+271,Fire Protection Associations,261,Security & Safety,Y
+272,Fire Protection Manufacturers,261,Security & Safety,Y
+273,Fire Protection Service providers,261,Security & Safety,Y
+274,Fire Protection Consultants,261,Security & Safety,Y
+276,ATM's Place,275,Financial Services,Y
+277,ATM's Equipment and Supplies,275,Financial Services,Y
+278,ATM's Service providers,275,Financial Services,Y
+279,Credit Unions Service providers,275,Financial Services,Y
+280,Financial Planning Consultants,275,Financial Services,Y
+281,Financial Planning Firms,275,Financial Services,Y
+282,Investment Services Firms,275,Financial Services,Y
+283,Mortgages Firms,275,Financial Services,Y
+284,Financial Appraisers Service providers,275,Financial Services,Y
+285,Banking Associations,275,Financial Services,Y
+286,Banking Service providers,275,Financial Services,Y
+287,Cheque Cashing Service Service providers,275,Financial Services,Y
+288,Court Reporting Service providers,142,Lawyers,Y
+289,Tax Return Preparation Associations,275,Financial Services,Y
+290,Tax Return Preparation Service providers,275,Financial Services,Y
+291,Tax Return Preparation Consultants,275,Financial Services,Y
+292,Tax Return Preparation Publishers,275,Financial Services,Y
+293,Currency Traders Brokers,275,Financial Services,Y
+294,Bankruptcies-Trustees Service providers,275,Financial Services,Y
+295,Bankruptcies-Trustees Professionals,275,Financial Services,Y
+296,Bankruptcies-Trustees Associations,275,Financial Services,Y
+297,Bankruptcies-Trustees Publishers,275,Financial Services,Y
+298,Farm Equipment Wholesalers,2356,Agriculture,Y
+299,Farm Equipment Manufacturers,2356,Agriculture,Y
+300,Farm Equipment Repairs,2356,Agriculture,Y
+301,Asset Management Service providers,275,Financial Services,Y
+302,Asset Management Professionals,275,Financial Services,Y
+303,Asset Management Firms,275,Financial Services,Y
+304,Asset Management Schools,275,Financial Services,Y
+308,Payroll Services Service providers,305,Business Financial Services,Y
+309,Collection Agencies Firms,305,Business Financial Services,Y
+312,Venture Capital Firms,305,Business Financial Services,Y
+313,Trust Companies Service providers,305,Business Financial Services,Y
+314,Farm Supplies Wholesalers,2356,Agriculture,Y
+317,Money Transfer Services Service providers,275,Financial Services,Y
+322,Credit Reporting Service providers,305,Business Financial Services,Y
+324,Advertising Agencies Firms,323,Advertising,Y
+326,Call Centres Service providers,2807,Marketing,Y
+327,Market Research Firms,2807,Marketing,Y
+328,Online Marketing Service providers,2807,Marketing,Y
+329,Public Relations Firms,2807,Marketing,Y
+330,Graphic Design Publishers,2807,Marketing,Y
+331,Graphic Design Service providers,2807,Marketing,Y
+332,Graphic Design Firms,2807,Marketing,Y
+333,Graphic Design Associations,2807,Marketing,Y
+334,Sand and Gravel Service providers,463,Construction,Y
+335,Sand and Gravel Equipment and Supplies,463,Construction,Y
+336,Sand and Gravel Wholesalers,463,Construction,Y
+341,Exhibit & Display Services Service providers,337,Meetings and Conventions,Y
+342,Public Speakers Service providers,337,Meetings and Conventions,Y
+349,Marketing Training Consultants,2807,Marketing,Y
+351,Shipping Service providers,350,Logistics,Y
+352,Couriers Service providers,350,Logistics,Y
+353,Customs Brokers Service providers,350,Logistics,Y
+354,Customs Brokers Consultants,350,Logistics,Y
+355,Freight Forwarders Service providers,350,Logistics,Y
+356,Freight Forwarders Consultants,350,Logistics,Y
+357,Inventory Management Service providers,350,Logistics,Y
+358,Warehousing Service providers,350,Logistics,Y
+360,Management Consultants Consultants,359,Consultants,Y
+361,Human Resource Consultants Consultants,359,Consultants,Y
+365,Business Consultants Consultants,359,Consultants,Y
+367,Marketing Consultants Consultants,359,Consultants,Y
+369,Training Consultants Consultants,359,Consultants,Y
+371,Textiles Designers,2807,Marketing,Y
+372,Textiles Wholesalers,2807,Marketing,Y
+373,Textiles Equipment and Supplies,2807,Marketing,Y
+374,Textiles Manufacturers,2807,Marketing,Y
+375,Textiles Brokers,2807,Marketing,Y
+377,Display Services Used,376,Retailers' Equipment and Supplies,Y
+378,Display Services Retailers,376,Retailers' Equipment and Supplies,Y
+379,Display Services Wholesalers,376,Retailers' Equipment and Supplies,Y
+380,Display Services Manufacturers,376,Retailers' Equipment and Supplies,Y
+381,Display Services Service providers,376,Retailers' Equipment and Supplies,Y
+386,Point of Sale (POS) Systems Retailers,376,Retailers' Equipment and Supplies,Y
+387,Point of Sale (POS) Systems Wholesalers,376,Retailers' Equipment and Supplies,Y
+388,Point of Sale (POS) Systems Manufacturers,376,Retailers' Equipment and Supplies,Y
+389,Point of Sale (POS) Systems Service providers,376,Retailers' Equipment and Supplies,Y
+402,Computers Manufacturers,401,Computers,Y
+403,Computers Wholesalers,401,Computers,Y
+404,Computers Rentals,401,Computers,Y
+405,Computers Retailers,401,Computers,Y
+406,Computers Repairs,401,Computers,Y
+407,Software Manufacturers,401,Computers,Y
+408,Software Retailers,401,Computers,Y
+409,Software Online Retailers,401,Computers,Y
+410,Home Networking and Wiring Service providers,401,Computers,Y
+411,Used Computers Retailers,401,Computers,Y
+412,Used Computers Service providers,401,Computers,Y
+417,Audio - Stereo Equipment Retailers,413,Electronics,Y
+418,Audio - Stereo Equipment Repairs,413,Electronics,Y
+419,Audio - Stereo Equipment Manufacturers,413,Electronics,Y
+420,Audio - Stereo Equipment Wholesalers,413,Electronics,Y
+435,Cable Television Service providers,434,Media Services,Y
+436,Internet Service Providers Service providers,427,Internet,Y
+437,Radio Stations Stations,434,Media Services,Y
+438,Radio Stations Service providers,434,Media Services,Y
+439,Satellite Television Repairs,434,Media Services,Y
+440,Satellite Television Retailers,434,Media Services,Y
+441,Satellite Television Wholesalers,434,Media Services,Y
+442,Satellite Television Manufacturers,434,Media Services,Y
+443,Satellite Television Service providers,434,Media Services,Y
+445,CD and DVD Duplication - Restoration Service providers,444,Multimedia Services,Y
+446,Video Equipment Retailers,444,Multimedia Services,Y
+447,Video Equipment Wholesalers,444,Multimedia Services,Y
+448,Video Equipment Manufacturers,444,Multimedia Services,Y
+449,Video Equipment Service providers,444,Multimedia Services,Y
+450,Video Equipment Repairs,444,Multimedia Services,Y
+451,Video Conversion Service providers,444,Multimedia Services,Y
+453,Cellular and Wireless Phones Wholesalers,452,Communications,Y
+454,Cellular and Wireless Phones Manufacturers,452,Communications,Y
+455,Cellular and Wireless Phones Service providers,452,Communications,Y
+456,Cellular and Wireless Phones Retailers,452,Communications,Y
+468,Concrete Equipment and Supplies,463,Construction,Y
+469,Concrete Contractors,463,Construction,Y
+470,Concrete Repairs,463,Construction,Y
+471,Concrete Retailers,463,Construction,Y
+472,Concrete Publishers,463,Construction,Y
+473,Concrete Associations,463,Construction,Y
+474,Concrete Laboratories,463,Construction,Y
+475,Concrete Manufacturers,463,Construction,Y
+476,Concrete Wholesalers,463,Construction,Y
+477,Electrical Firms,463,Construction,Y
+478,Electrical Consultants,463,Construction,Y
+479,Electrical Repairs,463,Construction,Y
+480,Electrical Manufacturers,463,Construction,Y
+481,Electrical Wholesalers,463,Construction,Y
+482,Electrical Equipment and Supplies,463,Construction,Y
+483,Electrical Contractors,463,Construction,Y
+484,Electrical Retailers,463,Construction,Y
+485,Commercial Interiors Equipment and Supplies,463,Construction,Y
+486,Commercial Interiors Designers,463,Construction,Y
+490,Glazing Manufacturers,463,Construction,Y
+491,Glazing Equipment and Supplies,463,Construction,Y
+492,Glazing Contractors,463,Construction,Y
+493,Glazing Retailers,463,Construction,Y
+500,Paving & Asphalt Contractors,463,Construction,Y
+501,Paving & Asphalt Wholesalers,463,Construction,Y
+502,Paving & Asphalt Manufacturers,463,Construction,Y
+503,Paving & Asphalt Equipment and Supplies,463,Construction,Y
+508,Commercial Roofing Contractors,519,Property Maintenance,Y
+509,Commercial Roofing Consultants,519,Property Maintenance,Y
+510,Commercial Roofing Manufacturers,519,Property Maintenance,Y
+511,Drafting Services Service providers,463,Construction,Y
+512,Drafting Services Consultants,463,Construction,Y
+513,Building Restoration Associations,463,Construction,Y
+514,Building Restoration Contractors,463,Construction,Y
+515,Surveying Services Contractors,463,Construction,Y
+516,Surveying Services Equipment and Supplies,463,Construction,Y
+517,Surveying Services Associations,463,Construction,Y
+518,Surveying Services Publishers,463,Construction,Y
+520,Property Management Associations,1112,Real Estate and Rentals,Y
+521,Property Management Service providers,1112,Real Estate and Rentals,Y
+522,Nursery Schools Schools,1403,Nursery and K-12 Schools,Y
+523,Preschools Associations,1403,Nursery and K-12 Schools,Y
+524,Preschools Schools,1403,Nursery and K-12 Schools,Y
+525,Junior and Senior Kindergarten Schools,1403,Nursery and K-12 Schools,Y
+526,Elementary Schools Schools,1403,Nursery and K-12 Schools,Y
+527,Secondary Schools Schools,1403,Nursery and K-12 Schools,Y
+529,Aircraft Flying Schools Schools,528,Specialty Schools and Instruction,Y
+530,Aircraft Flying Schools Instructors,528,Specialty Schools and Instruction,Y
+531,Art Schools Schools,528,Specialty Schools and Instruction,Y
+532,Asian Fast Food Place,663,Fast Food,Y
+533,Computer Training Instructors,1392,"Adult, Career and Continuing Education",Y
+534,Computer Training Schools,1392,"Adult, Career and Continuing Education",Y
+535,Computer Training Associations,1392,"Adult, Career and Continuing Education",Y
+536,Computer Training Service providers,1392,"Adult, Career and Continuing Education",Y
+537,Cooking Schools Schools,528,Specialty Schools and Instruction,Y
+538,Driving Instruction Instructors,528,Specialty Schools and Instruction,Y
+539,Driving Instruction Associations,528,Specialty Schools and Instruction,Y
+540,Driving Instruction Schools,528,Specialty Schools and Instruction,Y
+542,Language Schools Instructors,528,Specialty Schools and Instruction,Y
+543,Language Schools Schools,528,Specialty Schools and Instruction,Y
+544,Management Schools Schools,1392,"Adult, Career and Continuing Education",Y
+545,Music Instruction Instrumental Instructors,528,Specialty Schools and Instruction,Y
+546,Music Instruction Instrumental Schools,528,Specialty Schools and Instruction,Y
+547,Music Instruction Vocal Instructors,528,Specialty Schools and Instruction,Y
+548,Music Instruction Vocal Schools,528,Specialty Schools and Instruction,Y
+551,Performing Arts Schools Instructors,528,Specialty Schools and Instruction,Y
+552,Performing Arts Schools Schools,528,Specialty Schools and Instruction,Y
+554,Etiquette Schools Schools,528,Specialty Schools and Instruction,Y
+555,Beauty Schools Schools,528,Specialty Schools and Instruction,Y
+558,Religious Schools Schools,528,Specialty Schools and Instruction,Y
+560,Career Counselling Service providers,559,Career Services,Y
+561,Employee Training Service providers,559,Career Services,Y
+562,Employee Training Consultants,559,Career Services,Y
+563,Resume Services Service providers,559,Career Services,Y
+565,Employment Agencies Service providers,559,Career Services,Y
+568,Sleepover Camps Associations,567,Camps,Y
+569,Sleepover Camps Service providers,567,Camps,Y
+570,Sleepover Camps Place,567,Camps,Y
+571,Day Camps Place,567,Camps,Y
+572,Day Camps Associations,567,Camps,Y
+578,Pet Training Service providers,573,Pets,Y
+579,Pet Groomers Service providers,573,Pets,Y
+580,Pet Walkers Service providers,573,Pets,Y
+581,Boarders and Kennels Place,573,Pets,Y
+582,Boarders and Kennels Service providers,573,Pets,Y
+583,Pet Cemeteries Place,573,Pets,Y
+584,Animal Hospitals & Veterinarians Place,573,Pets,Y
+585,Animal Hospitals & Veterinarians Equipment and Supplies,573,Pets,Y
+586,Animal Hospitals & Veterinarians Associations,573,Pets,Y
+587,Animal Hospitals & Veterinarians Service providers,573,Pets,Y
+588,Parks & Playgrounds Place,566,Family and Community,Y
+589,Parks & Playgrounds Designers,566,Family and Community,Y
+591,Childcare Services Equipment and Supplies,590,Family and Social Services,Y
+592,Childcare Services Service providers,590,Family and Social Services,Y
+593,Childcare Services Associations,590,Family and Social Services,Y
+594,Family Counselling Professionals,590,Family and Social Services,Y
+595,Family Counselling Service providers,590,Family and Social Services,Y
+596,Social and Welfare Services Organizations,590,Family and Social Services,Y
+597,Social and Welfare Services Service providers,590,Family and Social Services,Y
+599,Churches Place,598,Religious Establishments,Y
+600,Churches Equipment and Supplies,598,Religious Establishments,Y
+601,Synagogues Place,598,Religious Establishments,Y
+602,Mosques Place,598,Religious Establishments,Y
+603,Temples Place,598,Religious Establishments,Y
+604,Mandirs Place,598,Religious Establishments,Y
+605,Meeting Houses Place,598,Religious Establishments,Y
+606,Libraries Place,566,Family and Community,Y
+607,Libraries Associations,566,Family and Community,Y
+608,Libraries Equipment and Supplies,566,Family and Community,Y
+613,African Restaurants Place,612,Restaurants,Y
+614,Asian Restaurants Place,612,Restaurants,Y
+615,Bistros Place,612,Restaurants,Y
+616,Breakfast Restaurants Place,612,Restaurants,Y
+617,Cajun & Creole Restaurants Place,612,Restaurants,Y
+618,Californian Restaurants Place,612,Restaurants,Y
+619,Canadian Restaurants Place,612,Restaurants,Y
+620,Caribbean Restaurants Place,612,Restaurants,Y
+621,Chinese Restaurants Place,612,Restaurants,Y
+622,Cuban Restaurants Place,612,Restaurants,Y
+623,Delicatessens Place,612,Restaurants,Y
+624,Diners Place,612,Restaurants,Y
+626,English - British Restaurants Place,612,Restaurants,Y
+627,Ethiopian Restaurants Place,612,Restaurants,Y
+628,European Restaurants Place,612,Restaurants,Y
+629,Fish & Chips Place,663,Fast Food,Y
+630,French Restaurants Place,612,Restaurants,Y
+631,Fusion Restaurants Place,612,Restaurants,Y
+632,Greek Restaurants Place,612,Restaurants,Y
+633,Grill Restaurants Place,612,Restaurants,Y
+635,Indian Restaurants Place,612,Restaurants,Y
+638,Jamaican Restaurants Place,612,Restaurants,Y
+639,Japanese Restaurants Place,612,Restaurants,Y
+640,Korean Restaurants Place,612,Restaurants,Y
+641,Kosher Restaurants Place,612,Restaurants,Y
+642,Latin American Restaurants Place,612,Restaurants,Y
+643,Mediterranean Restaurants Place,612,Restaurants,Y
+644,Mexican Restaurants Place,612,Restaurants,Y
+645,Middle Eastern Restaurants Place,612,Restaurants,Y
+646,Moroccan Restaurants Place,612,Restaurants,Y
+647,Pan-Asian Restaurants Place,612,Restaurants,Y
+648,Persian Restaurants Place,612,Restaurants,Y
+649,Portuguese Restaurants Place,612,Restaurants,Y
+650,Seafood Restaurants Place,612,Restaurants,Y
+653,Spanish Restaurants Place,612,Restaurants,Y
+654,Steak Houses Place,612,Restaurants,Y
+655,Sushi Restaurants Place,612,Restaurants,Y
+657,Tapas Restaurants Place,612,Restaurants,Y
+659,Thai Restaurants Place,612,Restaurants,Y
+660,Tibetan Restaurants Place,612,Restaurants,Y
+661,Vegetarian Restaurants Place,612,Restaurants,Y
+662,Vietnamese Restaurants Place,612,Restaurants,Y
+664,Hamburgers Place,663,Fast Food,Y
+665,Sandwiches and Submarines Place,663,Fast Food,Y
+666,Pizza Wholesalers,663,Fast Food,Y
+667,Pizza Place,663,Fast Food,Y
+668,Pitas and Wraps Place,663,Fast Food,Y
+669,"Tacos, Burritos and Fajitas Place",663,Fast Food,Y
+670,Greek Fast Food Place,663,Fast Food,Y
+671,Carry Out Fast Food Place,663,Fast Food,Y
+674,Florists Retailers,13,Shopping and Specialty Stores,Y
+675,Florists Equipment and Supplies,13,Shopping and Specialty Stores,Y
+676,Florists Online Retailers,13,Shopping and Specialty Stores,Y
+677,Florists Wholesalers,13,Shopping and Specialty Stores,Y
+681,Collectibles & Hobby Shop Manufacturers,13,Shopping and Specialty Stores,Y
+682,Collectibles & Hobby Shop Wholesalers,13,Shopping and Specialty Stores,Y
+683,Collectibles & Hobby Shop Retailers,13,Shopping and Specialty Stores,Y
+684,Cigar and Tobacco Shops Retailers,13,Shopping and Specialty Stores,Y
+685,Cigar and Tobacco Shops Manufacturers,13,Shopping and Specialty Stores,Y
+686,Cigar and Tobacco Shops Wholesalers,13,Shopping and Specialty Stores,Y
+687,Antiques and Collectibles Retailers,13,Shopping and Specialty Stores,Y
+688,Antiques and Collectibles Service providers,13,Shopping and Specialty Stores,Y
+689,Luggage Retailers,13,Shopping and Specialty Stores,Y
+690,Luggage Wholesalers,13,Shopping and Specialty Stores,Y
+691,Luggage Online Retailers,13,Shopping and Specialty Stores,Y
+692,Luggage Service providers,13,Shopping and Specialty Stores,Y
+693,Luggage Repairs,13,Shopping and Specialty Stores,Y
+694,Luggage Manufacturers,13,Shopping and Specialty Stores,Y
+695,Pet Stores Retailers,13,Shopping and Specialty Stores,Y
+696,Pet Stores Manufacturers,13,Shopping and Specialty Stores,Y
+697,Pet Stores Wholesalers,13,Shopping and Specialty Stores,Y
+698,Photography Supplies Wholesalers,13,Shopping and Specialty Stores,Y
+699,Photography Supplies Retailers,13,Shopping and Specialty Stores,Y
+700,Photography Supplies Repairs,13,Shopping and Specialty Stores,Y
+701,Photography Supplies Manufacturers,13,Shopping and Specialty Stores,Y
+703,Musical Instruments Retailers,702,Music,Y
+704,Musical Instruments Professionals,702,Music,Y
+705,Musical Instruments Repairs,702,Music,Y
+706,Musical Instruments Manufacturers,702,Music,Y
+707,Musical Instruments Wholesalers,702,Music,Y
+708,Musical Instruments Equipment and Supplies,702,Music,Y
+709,Record Stores Wholesalers,702,Music,Y
+710,Record Stores Retailers,702,Music,Y
+715,Video Stores Rentals,13,Shopping and Specialty Stores,Y
+716,Video Stores Retailers,13,Shopping and Specialty Stores,Y
+717,Pharmacies and Drug Stores Retailers,13,Shopping and Specialty Stores,Y
+718,Pharmacies and Drug Stores Wholesalers,13,Shopping and Specialty Stores,Y
+719,Pharmacies and Drug Stores Consultants,13,Shopping and Specialty Stores,Y
+720,Pharmacies and Drug Stores Service providers,13,Shopping and Specialty Stores,Y
+721,Pawn Shops Retailers,13,Shopping and Specialty Stores,Y
+722,Pawn Shops Brokers,13,Shopping and Specialty Stores,Y
+723,Pawn Shops Associations,13,Shopping and Specialty Stores,Y
+724,Pawn Shops Service providers,13,Shopping and Specialty Stores,Y
+729,Yoga Studios Studios,1630,Fitness,Y
+730,Nutritionists Place,725,Nutrition,Y
+731,Nutritionists Professionals,725,Nutrition,Y
+732,Health and Natural Foods Place,725,Nutrition,Y
+733,Health and Natural Foods Wholesalers,725,Nutrition,Y
+734,Health and Natural Foods Manufacturers,725,Nutrition,Y
+735,Health and Natural Foods Retailers,725,Nutrition,Y
+736,Health and Natural Foods Distributors,725,Nutrition,Y
+738,Hair Salons and Stylists Retailers,737,Beauty,Y
+739,Hair Salons and Stylists Place,737,Beauty,Y
+740,Hair Salons and Stylists Service providers,737,Beauty,Y
+741,Hair Salons and Stylists Manufacturers,737,Beauty,Y
+742,Nail Care Service providers,737,Beauty,Y
+743,Nail Care Place,737,Beauty,Y
+744,Nail Care Manufacturers,737,Beauty,Y
+745,Tanning Salons Service providers,737,Beauty,Y
+746,Tanning Salons Place,737,Beauty,Y
+747,Tanning Salons Equipment and Supplies,737,Beauty,Y
+748,Tanning Salons Manufacturers,737,Beauty,Y
+749,Bath and Body Manufacturers,737,Beauty,Y
+750,Bath and Body Retailers,737,Beauty,Y
+751,Cosmetic Artists and Studios Service providers,1193,Weddings and Events,Y
+752,Cosmetics Manufacturers,737,Beauty,Y
+753,Cosmetics Wholesalers,737,Beauty,Y
+754,Cosmetics Retailers,737,Beauty,Y
+755,Fragrances Retailers,737,Beauty,Y
+756,Fragrances Manufacturers,737,Beauty,Y
+757,Fragrances Wholesalers,737,Beauty,Y
+758,Body Art Service providers,737,Beauty,Y
+759,Body Art Place,737,Beauty,Y
+760,Body Art Manufacturers,737,Beauty,Y
+761,Skin Care Retailers,737,Beauty,Y
+762,Skin Care Place,737,Beauty,Y
+763,Skin Care Service providers,737,Beauty,Y
+764,Skin Care Manufacturers,737,Beauty,Y
+771,Real Estate Agents Service providers,1113,Real Estate Services,Y
+772,Real Estate Agents Professionals,1113,Real Estate Services,Y
+773,Real Estate Agents Associations,1113,Real Estate Services,Y
+774,Real Estate Agents Firms,1113,Real Estate Services,Y
+775,Air Conditioning Wholesalers,770,Home and Garden,Y
+776,Air Conditioning Repairs,770,Home and Garden,Y
+777,Air Conditioning Contractors,770,Home and Garden,Y
+778,Air Conditioning Retailers,770,Home and Garden,Y
+779,Air Conditioning Equipment and Supplies,770,Home and Garden,Y
+780,Air Conditioning Cleaning,770,Home and Garden,Y
+781,Air Conditioning Manufacturers,770,Home and Garden,Y
+782,Alarms Wholesalers,770,Home and Garden,Y
+783,Alarms Manufacturers,770,Home and Garden,Y
+784,Alarms Service providers,770,Home and Garden,Y
+785,Alarms Contractors,770,Home and Garden,Y
+786,Alarms Retailers,770,Home and Garden,Y
+787,Awnings Manufacturers,770,Home and Garden,Y
+788,Awnings Cleaning,770,Home and Garden,Y
+789,Awnings Distributors,770,Home and Garden,Y
+790,Awnings Retailers,770,Home and Garden,Y
+791,Awnings Contractors,770,Home and Garden,Y
+792,Basements Contractors,770,Home and Garden,Y
+793,Bathrooms Manufacturers,770,Home and Garden,Y
+794,Bathrooms Retailers,770,Home and Garden,Y
+795,Bathrooms Designers,770,Home and Garden,Y
+797,Bathrooms Wholesalers,770,Home and Garden,Y
+798,Bathrooms Contractors,770,Home and Garden,Y
+799,Carpet Repairs,770,Home and Garden,Y
+800,Carpet Manufacturers,770,Home and Garden,Y
+801,Carpet Service providers,770,Home and Garden,Y
+802,Carpet Equipment and Supplies,770,Home and Garden,Y
+803,Carpet Contractors,770,Home and Garden,Y
+804,Carpet Rentals,770,Home and Garden,Y
+805,Carpet Retailers,770,Home and Garden,Y
+806,Carpet Wholesalers,770,Home and Garden,Y
+807,Janitorial Services Contractors,519,Property Maintenance,Y
+808,Janitorial Services Service providers,519,Property Maintenance,Y
+809,Janitorial Services Equipment and Supplies,519,Property Maintenance,Y
+810,Janitorial Services Manufacturers,519,Property Maintenance,Y
+811,Janitorial Services Wholesalers,519,Property Maintenance,Y
+812,Closets Contractors,770,Home and Garden,Y
+813,Closets Resources,770,Home and Garden,Y
+814,Closets Manufacturers,770,Home and Garden,Y
+815,Closets Retailers,770,Home and Garden,Y
+816,Custom Homes Contractors,770,Home and Garden,Y
+817,Custom Homes Associations,770,Home and Garden,Y
+818,Custom Homes Publishers,770,Home and Garden,Y
+819,Decking Contractors,770,Home and Garden,Y
+820,Decking Cleaning,770,Home and Garden,Y
+821,Decking Manufacturers,770,Home and Garden,Y
+822,Demolition Distributors,463,Construction,Y
+823,Demolition Contractors,463,Construction,Y
+824,Demolition Manufacturers,463,Construction,Y
+825,Demolition Associations,463,Construction,Y
+826,Junk Removal Service providers,770,Home and Garden,Y
+827,Junk Removal Associations,770,Home and Garden,Y
+828,Eavestroughing Manufacturers,770,Home and Garden,Y
+829,Eavestroughing Contractors,770,Home and Garden,Y
+830,Electricians Manufacturers,770,Home and Garden,Y
+831,Electricians Contractors,770,Home and Garden,Y
+832,Fences Manufacturers,770,Home and Garden,Y
+833,Fences Contractors,770,Home and Garden,Y
+834,Fences Wholesalers,770,Home and Garden,Y
+835,Fireplaces Retailers,770,Home and Garden,Y
+836,Fireplaces Manufacturers,770,Home and Garden,Y
+837,Fireplaces Wholesalers,770,Home and Garden,Y
+838,Fireplaces Contractors,770,Home and Garden,Y
+839,Flooring Wholesalers,770,Home and Garden,Y
+840,Flooring Cleaning,770,Home and Garden,Y
+841,Flooring Contractors,770,Home and Garden,Y
+842,Flooring Retailers,770,Home and Garden,Y
+843,Flooring Equipment and Supplies,770,Home and Garden,Y
+844,Flooring Manufacturers,770,Home and Garden,Y
+845,Garage Doors Contractors,770,Home and Garden,Y
+846,Garage Doors Manufacturers,770,Home and Garden,Y
+847,Glass Wholesalers,770,Home and Garden,Y
+848,Glass Distributors,770,Home and Garden,Y
+849,Glass Retailers,770,Home and Garden,Y
+850,Glass Contractors,770,Home and Garden,Y
+851,Glass Manufacturers,770,Home and Garden,Y
+852,Handyman Service providers,770,Home and Garden,Y
+853,Hardware Manufacturers,770,Home and Garden,Y
+854,Hardware Wholesalers,770,Home and Garden,Y
+855,Hardware Distributors,770,Home and Garden,Y
+856,Hardware Retailers,770,Home and Garden,Y
+857,Heating Contractors,770,Home and Garden,Y
+858,Heating Wholesalers,770,Home and Garden,Y
+859,Heating Manufacturers,770,Home and Garden,Y
+860,Home Inspection Associations,770,Home and Garden,Y
+861,Home Inspection Service providers,770,Home and Garden,Y
+862,Home Theatre Manufacturers,770,Home and Garden,Y
+863,Home Theatre Retailers,770,Home and Garden,Y
+864,Hot Tubs Associations,770,Home and Garden,Y
+865,Hot Tubs Manufacturers,770,Home and Garden,Y
+866,Hot Tubs Rentals,770,Home and Garden,Y
+867,Hot Tubs Wholesalers,770,Home and Garden,Y
+868,Hot Tubs Contractors,770,Home and Garden,Y
+869,Hot Tubs Repairs,770,Home and Garden,Y
+870,Hot Tubs Retailers,770,Home and Garden,Y
+871,Hot Tubs Equipment and Supplies,770,Home and Garden,Y
+872,Furniture Used,770,Home and Garden,Y
+873,Furniture Retailers,770,Home and Garden,Y
+874,Furniture Equipment and Supplies,770,Home and Garden,Y
+875,Furniture Rentals,770,Home and Garden,Y
+876,Furniture Manufacturers,770,Home and Garden,Y
+877,Furniture Wholesalers,770,Home and Garden,Y
+878,Furniture Repairs,770,Home and Garden,Y
+879,Furniture Designers,770,Home and Garden,Y
+880,Kitchens Resources,770,Home and Garden,Y
+881,Kitchens Associations,770,Home and Garden,Y
+882,Kitchens Designers,770,Home and Garden,Y
+883,Kitchens Manufacturers,770,Home and Garden,Y
+884,Kitchens Retailers,770,Home and Garden,Y
+885,Kitchens Contractors,770,Home and Garden,Y
+886,Kitchens Distributors,770,Home and Garden,Y
+887,Landscaping Designers,770,Home and Garden,Y
+888,Landscaping Manufacturers,770,Home and Garden,Y
+889,Landscaping Equipment and Supplies,770,Home and Garden,Y
+890,Landscaping Contractors,770,Home and Garden,Y
+891,Landscaping Distributors,770,Home and Garden,Y
+892,Landscaping Publishers,770,Home and Garden,Y
+893,Landscaping Associations,770,Home and Garden,Y
+894,Lighting Equipment and Supplies,770,Home and Garden,Y
+895,Lighting Contractors,770,Home and Garden,Y
+896,Lighting Manufacturers,770,Home and Garden,Y
+897,Lighting Wholesalers,770,Home and Garden,Y
+898,Lighting Consultants,770,Home and Garden,Y
+899,Lighting Repairs,770,Home and Garden,Y
+900,Lighting Designers,770,Home and Garden,Y
+901,Lighting Retailers,770,Home and Garden,Y
+902,Locksmiths Wholesalers,770,Home and Garden,Y
+903,Locksmiths Distributors,770,Home and Garden,Y
+904,Locksmiths Service providers,770,Home and Garden,Y
+905,Locksmiths Manufacturers,770,Home and Garden,Y
+906,Lumber Yards Retailers,770,Home and Garden,Y
+907,Lumber Yards Brokers,770,Home and Garden,Y
+908,Lumber Yards Distributors,770,Home and Garden,Y
+909,Lumber Yards Wholesalers,770,Home and Garden,Y
+910,Lumber Yards Producers,770,Home and Garden,Y
+911,Mouldings Retailers,770,Home and Garden,Y
+912,Mouldings Manufacturers,770,Home and Garden,Y
+913,Mouldings Wholesalers,770,Home and Garden,Y
+914,Mouldings Distributors,770,Home and Garden,Y
+915,Movers Equipment and Supplies,770,Home and Garden,Y
+916,Movers Associations,770,Home and Garden,Y
+917,Movers Retailers,770,Home and Garden,Y
+918,Movers Contractors,770,Home and Garden,Y
+919,Painting Wholesalers,770,Home and Garden,Y
+920,Painting Contractors,770,Home and Garden,Y
+921,Painting Retailers,770,Home and Garden,Y
+922,Painting Equipment and Supplies,770,Home and Garden,Y
+923,Painting Associations,770,Home and Garden,Y
+924,Painting Manufacturers,770,Home and Garden,Y
+925,Pavers Manufacturers,770,Home and Garden,Y
+926,Pavers Contractors,770,Home and Garden,Y
+927,Pavers Equipment and Supplies,770,Home and Garden,Y
+928,Plumbers Retailers,770,Home and Garden,Y
+929,Plumbers Contractors,770,Home and Garden,Y
+930,Plumbers Headquarters,770,Home and Garden,Y
+931,Plumbers Manufacturers,770,Home and Garden,Y
+932,Plumbers Wholesalers,770,Home and Garden,Y
+933,Plumbers Distributors,770,Home and Garden,Y
+935,Pools Wholesalers,770,Home and Garden,Y
+936,Pools Contractors,770,Home and Garden,Y
+937,Pools Manufacturers,770,Home and Garden,Y
+938,Pools Retailers,770,Home and Garden,Y
+939,Pools Associations,770,Home and Garden,Y
+940,Pools Equipment and Supplies,770,Home and Garden,Y
+941,Pools Distributors,770,Home and Garden,Y
+942,Railings Manufacturers,770,Home and Garden,Y
+943,Railings Distributors,770,Home and Garden,Y
+944,Railings Contractors,770,Home and Garden,Y
+950,Roofing Equipment and Supplies,770,Home and Garden,Y
+951,Roofing Consultants,770,Home and Garden,Y
+952,Roofing Distributors,770,Home and Garden,Y
+953,Roofing Wholesalers,770,Home and Garden,Y
+954,Roofing Associations,770,Home and Garden,Y
+955,Roofing Contractors,770,Home and Garden,Y
+956,Roofing Manufacturers,770,Home and Garden,Y
+957,Siding Manufacturers,770,Home and Garden,Y
+958,Siding Associations,770,Home and Garden,Y
+959,Siding Distributors,770,Home and Garden,Y
+960,Siding Publishers,770,Home and Garden,Y
+961,Siding Contractors,770,Home and Garden,Y
+962,Skylights Publishers,770,Home and Garden,Y
+963,Skylights Manufacturers,770,Home and Garden,Y
+964,Skylights Contractors,770,Home and Garden,Y
+965,Self Storage Associations,770,Home and Garden,Y
+966,Self Storage Publishers,770,Home and Garden,Y
+967,Self Storage Service providers,770,Home and Garden,Y
+968,Sunrooms Manufacturers,770,Home and Garden,Y
+969,Sunrooms Associations,770,Home and Garden,Y
+970,Sunrooms Distributors,770,Home and Garden,Y
+971,Sunrooms Publishers,770,Home and Garden,Y
+972,Sunrooms Contractors,770,Home and Garden,Y
+973,Tiles Distributors,770,Home and Garden,Y
+974,Tiles Retailers,770,Home and Garden,Y
+975,Tiles Contractors,770,Home and Garden,Y
+976,Tiles Manufacturers,770,Home and Garden,Y
+977,Tiles Associations,770,Home and Garden,Y
+978,Waterproofing Associations,770,Home and Garden,Y
+979,Waterproofing Manufacturers,770,Home and Garden,Y
+980,Waterproofing Contractors,770,Home and Garden,Y
+981,Waterproofing Equipment and Supplies,770,Home and Garden,Y
+982,Window Coverings Wholesalers,770,Home and Garden,Y
+983,Window Coverings Contractors,770,Home and Garden,Y
+984,Window Coverings Cleaning,770,Home and Garden,Y
+985,Window Coverings Manufacturers,770,Home and Garden,Y
+986,Window Coverings Service providers,770,Home and Garden,Y
+987,Window Coverings Associations,770,Home and Garden,Y
+988,Window Coverings Publishers,770,Home and Garden,Y
+989,Window Coverings Distributors,770,Home and Garden,Y
+990,Window Coverings Retailers,770,Home and Garden,Y
+991,Windows and Doors Repairs,770,Home and Garden,Y
+992,Windows and Doors Distributors,770,Home and Garden,Y
+993,Windows and Doors Retailers,770,Home and Garden,Y
+994,Windows and Doors Publishers,770,Home and Garden,Y
+995,Windows and Doors Contractors,770,Home and Garden,Y
+996,Windows and Doors Manufacturers,770,Home and Garden,Y
+997,Windows and Doors Wholesalers,770,Home and Garden,Y
+998,Windows and Doors Associations,770,Home and Garden,Y
+1001,Family Doctors Place,1000,Physicians and Surgeons,Y
+1002,Family Doctors Associations,1000,Physicians and Surgeons,Y
+1003,Physiotherapy Service providers,1030,Hospitals and Clinics,Y
+1004,Physiotherapy Equipment and Supplies,1030,Hospitals and Clinics,Y
+1005,Physiotherapy Place,1030,Hospitals and Clinics,Y
+1006,Physiotherapy Professionals,1030,Hospitals and Clinics,Y
+1007,Physiotherapy Associations,1030,Hospitals and Clinics,Y
+1009,Radiologists Place,1000,Physicians and Surgeons,Y
+1010,Radiologists Associations,1000,Physicians and Surgeons,Y
+1011,Pediatricians Place,1000,Physicians and Surgeons,Y
+1012,Podiatrists Equipment and Supplies,1000,Physicians and Surgeons,Y
+1013,Podiatrists Associations,1000,Physicians and Surgeons,Y
+1014,Podiatrists Professionals,1000,Physicians and Surgeons,Y
+1015,Podiatrists Place,1000,Physicians and Surgeons,Y
+1016,Dermatologists Professionals,1000,Physicians and Surgeons,Y
+1017,Dermatologists Associations,1000,Physicians and Surgeons,Y
+1018,Dermatologists Place,1000,Physicians and Surgeons,Y
+1019,Dermatologists Manufacturers,1000,Physicians and Surgeons,Y
+1020,Obstetricians Place,1000,Physicians and Surgeons,Y
+1021,Obstetricians Associations,1000,Physicians and Surgeons,Y
+1022,Gynecologists Associations,1000,Physicians and Surgeons,Y
+1023,Gynecologists Place,1000,Physicians and Surgeons,Y
+1027,Cosmetic Surgeons Manufacturers,1000,Physicians and Surgeons,Y
+1028,Cosmetic Surgeons Associations,1000,Physicians and Surgeons,Y
+1029,Cosmetic Surgeons Place,1000,Physicians and Surgeons,Y
+1031,Blood Banks and Donor Clinics Place,1030,Hospitals and Clinics,Y
+1032,Fertility Clinics and Reproductive Medicine Place,1030,Hospitals and Clinics,Y
+1033,Sexual Health Clinics Place,1030,Hospitals and Clinics,Y
+1034,Sexual Health Clinics Service providers,1030,Hospitals and Clinics,Y
+1035,Sexual Health Clinics Resources,1030,Hospitals and Clinics,Y
+1036,Sleep Clinics Place,1030,Hospitals and Clinics,Y
+1037,Vein Clinics Service providers,1030,Hospitals and Clinics,Y
+1038,Vein Clinics Place,1030,Hospitals and Clinics,Y
+1039,Hospitals Resources,1030,Hospitals and Clinics,Y
+1040,Hospitals Place,1030,Hospitals and Clinics,Y
+1041,Rehabilitation Clinics Associations,1030,Hospitals and Clinics,Y
+1042,Rehabilitation Clinics Organizations,1030,Hospitals and Clinics,Y
+1043,Rehabilitation Clinics Place,1030,Hospitals and Clinics,Y
+1044,Medical Clinics Place,1030,Hospitals and Clinics,Y
+1047,Hearing Clinics Place,1030,Hospitals and Clinics,Y
+1048,Hearing Clinics Manufacturers,1030,Hospitals and Clinics,Y
+1049,Hearing Clinics Service providers,1030,Hospitals and Clinics,Y
+1051,Optometrists Professionals,1050,Eye Care,Y
+1052,Optometrists Associations,1050,Eye Care,Y
+1053,Optometrists Service providers,1050,Eye Care,Y
+1054,Optometrists Place,1050,Eye Care,Y
+1055,Opticians Wholesalers,1050,Eye Care,Y
+1056,Opticians Associations,1050,Eye Care,Y
+1057,Opticians Retailers,1050,Eye Care,Y
+1058,Opticians Equipment and Supplies,1050,Eye Care,Y
+1059,Opticians Manufacturers,1050,Eye Care,Y
+1060,Eyewear Retailers,1050,Eye Care,Y
+1061,Eyewear Manufacturers,1050,Eye Care,Y
+1062,Eye Surgery Place,1050,Eye Care,Y
+1063,Eye Surgery Service providers,1050,Eye Care,Y
+1065,Dentists Associations,1064,Dental Services,Y
+1066,Dentists Professionals,1064,Dental Services,Y
+1067,Dentists Place,1064,Dental Services,Y
+1068,Orthodontists Place,1064,Dental Services,Y
+1069,Orthodontists Associations,1064,Dental Services,Y
+1071,Acupuncture Place,1070,Alternative Medicine,Y
+1072,Acupuncture Associations,1070,Alternative Medicine,Y
+1073,Acupuncture Wholesalers,1070,Alternative Medicine,Y
+1074,Hypnotherapy Service providers,1070,Alternative Medicine,Y
+1075,Hypnotherapy Place,1070,Alternative Medicine,Y
+1076,Chiropractors Place,1070,Alternative Medicine,Y
+1077,Chiropractors Equipment and Supplies,1070,Alternative Medicine,Y
+1078,Chiropractors Associations,1070,Alternative Medicine,Y
+1079,Chiropractors Professionals,1070,Alternative Medicine,Y
+1080,Massage Therapy Place,1070,Alternative Medicine,Y
+1081,Massage Therapy Equipment and Supplies,1070,Alternative Medicine,Y
+1082,Massage Therapy Associations,1070,Alternative Medicine,Y
+1083,Massage Therapy Professionals,1070,Alternative Medicine,Y
+1084,Reflexology Place,1070,Alternative Medicine,Y
+1085,Reflexology Associations,1070,Alternative Medicine,Y
+1087,Nurses Associations,1086,Home Care,Y
+1088,Nurses Service providers,1086,Home Care,Y
+1089,Mobility Devices Retailers,1086,Home Care,Y
+1090,Mobility Devices Manufacturers,1086,Home Care,Y
+1091,Mobility Devices Rentals,1086,Home Care,Y
+1093,Retirement Homes and Communities Place,1092,Senior Services,Y
+1095,Psychologists Associations,1094,"Mental Health, Therapists and Counselors",Y
+1096,Psychologists Professionals,1094,"Mental Health, Therapists and Counselors",Y
+1097,Psychologists Place,1094,"Mental Health, Therapists and Counselors",Y
+1098,Psychiatrists Professionals,1094,"Mental Health, Therapists and Counselors",Y
+1099,Psychiatrists Place,1094,"Mental Health, Therapists and Counselors",Y
+1100,Psychiatrists Associations,1094,"Mental Health, Therapists and Counselors",Y
+1101,Therapy and Counselling Service providers,1094,"Mental Health, Therapists and Counselors",Y
+1102,Therapy and Counselling Place,1094,"Mental Health, Therapists and Counselors",Y
+1103,Therapy and Counselling Professionals,1094,"Mental Health, Therapists and Counselors",Y
+1104,Therapy and Counselling Associations,1094,"Mental Health, Therapists and Counselors",Y
+1105,Mental and Addiction Care Facilities Associations,1094,"Mental Health, Therapists and Counselors",Y
+1106,Mental and Addiction Care Facilities Service providers,1094,"Mental Health, Therapists and Counselors",Y
+1107,Mental and Addiction Care Facilities Place,1094,"Mental Health, Therapists and Counselors",Y
+1108,Bars & Pubs Place,1627,Nightlife,Y
+1109,Lounges Place,1627,Nightlife,Y
+1110,Sports Bars Place,1627,Nightlife,Y
+1111,Clubs Place,1627,Nightlife,Y
+1114,Property Appraisers Service providers,1113,Real Estate Services,Y
+1116,New Homes Brokers,1115,Real Estate,Y
+1117,New Homes Place,1115,Real Estate,Y
+1119,Condominiums Place,1115,Real Estate,Y
+1124,Mobile Homes Manufacturers,1115,Real Estate,Y
+1125,Mobile Homes Repairs,1115,Real Estate,Y
+1126,Mobile Homes Dealers,1115,Real Estate,Y
+1129,Apartment and Condo Rentals Associations,1128,Rental Listings,Y
+1130,Apartment and Condo Rentals Service providers,1128,Rental Listings,Y
+1131,Apartment and Condo Rentals Place,1128,Rental Listings,Y
+1134,Mobile Home Rentals Rentals,1128,Rental Listings,Y
+1138,Horseback Riding Instructors,2759,Equestrian,Y
+1139,Horseback Riding Place,2759,Equestrian,Y
+1140,Gymnastics Lessons Place,1137,Lessons and Instruction,Y
+1141,Swimming and Diving Lessons Service providers,1137,Lessons and Instruction,Y
+1142,Martial Arts Instruction Associations,1137,Lessons and Instruction,Y
+1143,Martial Arts Instruction Equipment and Supplies,1137,Lessons and Instruction,Y
+1144,Martial Arts Instruction Instructors,1137,Lessons and Instruction,Y
+1145,Boxing Instruction Place,1137,Lessons and Instruction,Y
+1146,Sewing Service providers,2921,Sewing and Crafts,Y
+1147,Sewing Instructors,2921,Sewing and Crafts,Y
+1148,Sewing Retailers,2921,Sewing and Crafts,Y
+1149,Sewing Wholesalers,2921,Sewing and Crafts,Y
+1150,Sewing Manufacturers,2921,Sewing and Crafts,Y
+1152,Dance Companies & Instruction Place,1137,Lessons and Instruction,Y
+1153,Skating Lessons Service providers,2752,Skating,Y
+1155,Soccer Organizations,1154,Leagues,Y
+1156,Hockey Organizations,1154,Leagues,Y
+1157,Football Organizations,1154,Leagues,Y
+1159,Basketball Organizations,1154,Leagues,Y
+1160,Baseball Organizations,1154,Leagues,Y
+1163,Public Golf Courses Designers,1162,Golf,Y
+1164,Public Golf Courses Service providers,1162,Golf,Y
+1165,Public Golf Courses Associations,1162,Golf,Y
+1166,Public Golf Courses Place,1162,Golf,Y
+1167,Golf Instruction Service providers,1162,Golf,Y
+1168,Golf Equipment & Apparel Retailers,1162,Golf,Y
+1169,Golf Equipment & Apparel Manufacturers,1162,Golf,Y
+1170,Golf Equipment & Apparel Wholesalers,1162,Golf,Y
+1171,Driving Ranges Place,1162,Golf,Y
+1173,Community Pools Place,1172,Pools,Y
+1174,Community Centres and Arenas Place,1135,Sports and Recreation,Y
+1176,Campgrounds Place,1175,Camping,Y
+1177,Camping Equipment and Supplies Retailers,1175,Camping,Y
+1178,Camping Equipment and Supplies Manufacturers,1175,Camping,Y
+1179,Camping Equipment and Supplies Wholesalers,1175,Camping,Y
+1180,Canoe Rentals Rentals,1175,Camping,Y
+1181,Camping Organizations Associations,1175,Camping,Y
+1182,Guided Wilderness Tours Service providers,1175,Camping,Y
+1185,Bus Tours Service providers,1184,Tourism,Y
+1186,Walking Tours Service providers,1184,Tourism,Y
+1187,Boat Tours Service providers,1184,Tourism,Y
+1188,Rafting Tours Service providers,1184,Tourism,Y
+1189,Helicopter & Plane Tours Service providers,1184,Tourism,Y
+1190,Tourist Attractions Place,1184,Tourism,Y
+1191,Tourist Attractions Events,1184,Tourism,Y
+1192,Tourist Attractions Service providers,1184,Tourism,Y
+1194,Amusement Rentals Rentals,1193,Weddings and Events,Y
+1195,Audio Visual Service providers,1193,Weddings and Events,Y
+1196,Audio Visual Repairs,1193,Weddings and Events,Y
+1197,Audio Visual Manufacturers,1193,Weddings and Events,Y
+1198,Audio Visual Dealers,1193,Weddings and Events,Y
+1199,Audio Visual Consultants,1193,Weddings and Events,Y
+1200,Banquet Halls Place,1193,Weddings and Events,Y
+1201,Banquet Halls Headquarters,1193,Weddings and Events,Y
+1202,Baskets Retailers,13,Shopping and Specialty Stores,Y
+1203,Baskets Manufacturers,13,Shopping and Specialty Stores,Y
+1204,Baskets Wholesalers,13,Shopping and Specialty Stores,Y
+1205,Bridal Shops Retailers,1193,Weddings and Events,Y
+1206,Bridal Shops Wholesalers,1193,Weddings and Events,Y
+1207,Catering Service providers,1193,Weddings and Events,Y
+1208,Disc Jockeys Service providers,1193,Weddings and Events,Y
+1209,Event Consultants Service providers,1193,Weddings and Events,Y
+1210,Event Decor Headquarters,1193,Weddings and Events,Y
+1211,Event Decor Service providers,1193,Weddings and Events,Y
+1212,Event Venues Place,1193,Weddings and Events,Y
+1213,Favours Retailers,1193,Weddings and Events,Y
+1214,Floral Designers Service providers,1193,Weddings and Events,Y
+1215,Gift Registries Retailers,1193,Weddings and Events,Y
+1216,Invitations Service providers,1193,Weddings and Events,Y
+1217,Jewellery Shops Repairs,680,Jewellery,Y
+1218,Jewellery Shops Designers,680,Jewellery,Y
+1219,Jewellery Shops Retailers,680,Jewellery,Y
+1220,Jewellery Shops Equipment and Supplies,680,Jewellery,Y
+1221,Jewellery Shops Manufacturers,680,Jewellery,Y
+1222,Jewellery Shops Wholesalers,680,Jewellery,Y
+1225,Party Rentals Service providers,1193,Weddings and Events,Y
+1226,Party Rentals Rentals,1193,Weddings and Events,Y
+1227,Party Supplies Retailers,1193,Weddings and Events,Y
+1228,Wedding Photographers Professionals,1193,Weddings and Events,Y
+1229,Wedding Photographers Service providers,1193,Weddings and Events,Y
+1230,Promotions Manufacturers,2807,Marketing,Y
+1231,Promotions Wholesalers,2807,Marketing,Y
+1232,Promotions Service providers,2807,Marketing,Y
+1234,Spas Manufacturers,737,Beauty,Y
+1235,Spas Retailers,737,Beauty,Y
+1236,Spas Place,737,Beauty,Y
+1237,Wedding Cakes Service providers,1193,Weddings and Events,Y
+1238,Tent Rental Rentals,1193,Weddings and Events,Y
+1239,Travel Agents Service providers,1492,Trip Planning,Y
+1240,Tuxedos Retailers,1193,Weddings and Events,Y
+1241,Tuxedos Rentals,1193,Weddings and Events,Y
+1242,Tuxedos Service providers,1193,Weddings and Events,Y
+1243,Videographers Service providers,1193,Weddings and Events,Y
+1244,Wedding Consultants Service providers,1193,Weddings and Events,Y
+1246,Art Publishers Publishers,42,Art,Y
+1247,Adoption Agencies Service providers,590,Family and Social Services,Y
+1250,Tennis Clubs Contractors,1249,Tennis,Y
+1251,Tennis Clubs Place,1249,Tennis,Y
+1252,"Preparatory, Boarding and Private Schools Schools",1403,Nursery and K-12 Schools,Y
+1253,Home Owners Insurance Professionals,185,Insurance,Y
+1254,Home Owners Insurance Brokers,185,Insurance,Y
+1255,Home Owners Insurance Firms,185,Insurance,Y
+1256,Home Owners Insurance Associations,185,Insurance,Y
+1257,Home Owners Insurance Publishers,185,Insurance,Y
+1258,Insurance Adjusters Service providers,185,Insurance,Y
+1259,Buffet Restaurants Place,612,Restaurants,Y
+1260,Hungarian Restaurants Place,612,Restaurants,Y
+1261,Long Term Care Centres Place,1092,Senior Services,Y
+1262,Long Term Care Centres Consultants,1092,Senior Services,Y
+1264,Paintball Place,30,Amusement,Y
+1265,Motorcycles Repairs,75,Automotive,Y
+1266,Motorcycles Service providers,75,Automotive,Y
+1267,Motorcycles Dealers,75,Automotive,Y
+1268,Motorcycles Rentals,75,Automotive,Y
+1269,Motorcycles Manufacturers,75,Automotive,Y
+1270,Motorcycles Wholesalers,75,Automotive,Y
+1284,Beverage - Non-Alcoholic Distributors,1271,Food and Beverage Suppliers,Y
+1285,Beverage - Non-Alcoholic Wholesalers,1271,Food and Beverage Suppliers,Y
+1286,Beverage - Non-Alcoholic Manufacturers,1271,Food and Beverage Suppliers,Y
+1295,Desserts and Dessert Products Distributors,1271,Food and Beverage Suppliers,Y
+1296,Desserts and Dessert Products Wholesalers,1271,Food and Beverage Suppliers,Y
+1297,Meats Manufacturers,1271,Food and Beverage Suppliers,Y
+1298,Meats Equipment and Supplies,1271,Food and Beverage Suppliers,Y
+1299,Meats Distributors,1271,Food and Beverage Suppliers,Y
+1300,Meats Wholesalers,1271,Food and Beverage Suppliers,Y
+1301,Fish and Seafood Products Manufacturers,1271,Food and Beverage Suppliers,Y
+1302,Fish and Seafood Products Distributors,1271,Food and Beverage Suppliers,Y
+1303,Fish and Seafood Products Wholesalers,1271,Food and Beverage Suppliers,Y
+1304,Beer and Ale Associations,1271,Food and Beverage Suppliers,Y
+1305,Beer and Ale Manufacturers,1271,Food and Beverage Suppliers,Y
+1306,Beer and Ale Distributors,1271,Food and Beverage Suppliers,Y
+1307,Beer and Ale Wholesalers,1271,Food and Beverage Suppliers,Y
+1308,Bakery Products Wholesalers,1271,Food and Beverage Suppliers,Y
+1309,Bakery Products Distributors,1271,Food and Beverage Suppliers,Y
+1326,Baking Equipment Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1327,Baking Equipment Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1328,Baking Equipment Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1329,"Bar Equipment, Railings and Supplies Service providers",1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1330,"Bar Equipment, Railings and Supplies Manufacturers",1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1331,"Bar Equipment, Railings and Supplies Wholesalers",1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1332,Cafeteria and Catering Equipment Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1333,Cafeteria and Catering Equipment Repairs,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1334,Cafeteria and Catering Equipment Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1335,Cafeteria and Catering Equipment Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1336,Coffee Equipment Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1337,Coffee Equipment Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1338,Dishwashing Equipment and Supplies Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1339,Dishwashing Equipment and Supplies Service providers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1340,Dishwashing Equipment and Supplies Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1344,Paper Products Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1345,Paper Products Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1354,Refrigeration Equipment Manufacturers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1355,Refrigeration Equipment Repairs,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1356,Refrigeration Equipment Contractors,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1357,Refrigeration Equipment Wholesalers,1273,"Restaurant Equipment, Furnishings and Supplies",Y
+1372,Fashion Accessories Manufacturers,13,Shopping and Specialty Stores,Y
+1373,Fashion Accessories Wholesalers,13,Shopping and Specialty Stores,Y
+1374,Fashion Accessories Retailers,13,Shopping and Specialty Stores,Y
+1377,Electronics Stores Repairs,413,Electronics,Y
+1378,Electronics Stores Manufacturers,413,Electronics,Y
+1379,Electronics Stores Wholesalers,413,Electronics,Y
+1380,Electronics Stores Rentals,413,Electronics,Y
+1381,Electronics Stores Retailers,413,Electronics,Y
+1385,Notaries Public Professionals,142,Lawyers,Y
+1386,Notaries Public Associations,142,Lawyers,Y
+1387,Notaries Public Publishers,142,Lawyers,Y
+1388,Personal Loans Service providers,275,Financial Services,Y
+1389,Personal Loans Associations,275,Financial Services,Y
+1390,Streaming Media Service providers,444,Multimedia Services,Y
+1393,Adult Education Schools,1392,"Adult, Career and Continuing Education",Y
+1399,Nanny Service Service providers,590,Family and Social Services,Y
+1402,Technical Schools Schools,1392,"Adult, Career and Continuing Education",Y
+1404,Middle Schools Schools,1403,Nursery and K-12 Schools,Y
+1406,Colleges Schools,1405,Post Secondary Studies,Y
+1407,Universities Schools,1405,Post Secondary Studies,Y
+1408,Universities Associations,1405,Post Secondary Studies,Y
+1410,Graduate and PhD Programs Schools,1405,Post Secondary Studies,Y
+1411,Law Schools Schools,1405,Post Secondary Studies,Y
+1412,Medical Schools Schools,1405,Post Secondary Studies,Y
+1413,Nursing Schools Schools,1405,Post Secondary Studies,Y
+1415,Academic Counselling Service providers,1414,Student Resources,Y
+1416,Financial Aid Service providers,1414,Student Resources,Y
+1417,Tutoring Service providers,1414,Student Resources,Y
+1418,Truck Driving Instruction Schools,528,Specialty Schools and Instruction,Y
+1419,Abuse Treatment Centres and Shelters Place,590,Family and Social Services,Y
+1420,Art Supply Stores Retailers,2921,Sewing and Crafts,Y
+1421,Art Supply Stores Manufacturers,2921,Sewing and Crafts,Y
+1422,Art Supply Stores Wholesalers,2921,Sewing and Crafts,Y
+1424,Book Stores Wholesalers,13,Shopping and Specialty Stores,Y
+1425,Book Stores Online Retailers,13,Shopping and Specialty Stores,Y
+1426,Book Stores Retailers,13,Shopping and Specialty Stores,Y
+1427,Hat Shops Wholesalers,13,Shopping and Specialty Stores,Y
+1428,Hat Shops Retailers,13,Shopping and Specialty Stores,Y
+1429,Hat Shops Manufacturers,13,Shopping and Specialty Stores,Y
+1430,Novelty Shops Wholesalers,13,Shopping and Specialty Stores,Y
+1431,Novelty Shops Retailers,13,Shopping and Specialty Stores,Y
+1438,"Ear, Nose and Throat Surgeons Associations",1000,Physicians and Surgeons,Y
+1439,"Ear, Nose and Throat Surgeons Place",1000,Physicians and Surgeons,Y
+1449,Neurosurgeon Publishers,1000,Physicians and Surgeons,Y
+1450,Neurosurgeon Place,1000,Physicians and Surgeons,Y
+1451,Neurosurgeon Professionals,1000,Physicians and Surgeons,Y
+1452,Neurosurgeon Associations,1000,Physicians and Surgeons,Y
+1457,Orthopedics Place,1000,Physicians and Surgeons,Y
+1458,Orthopedics Associations,1000,Physicians and Surgeons,Y
+1459,Orthopedics Professionals,1000,Physicians and Surgeons,Y
+1470,Cancer Treatment Centres Associations,1030,Hospitals and Clinics,Y
+1471,Cancer Treatment Centres Place,1030,Hospitals and Clinics,Y
+1472,Quit Smoking Service providers,1030,Hospitals and Clinics,Y
+1473,Oral Surgeons Place,1064,Dental Services,Y
+1474,Oral Surgeons Associations,1064,Dental Services,Y
+1475,Naturopathy Place,1070,Alternative Medicine,Y
+1476,Naturopathy Associations,1070,Alternative Medicine,Y
+1480,Gay Bars Place,1627,Nightlife,Y
+1481,Collector's Items and Memorabilia Manufacturers,1135,Sports and Recreation,Y
+1482,Collector's Items and Memorabilia Wholesalers,1135,Sports and Recreation,Y
+1483,Collector's Items and Memorabilia Retailers,1135,Sports and Recreation,Y
+1488,Fishing Retailers,1486,Fishing,Y
+1489,Fishing Manufacturers,1486,Fishing,Y
+1490,Fishing Wholesalers,1486,Fishing,Y
+1493,Travel Insurance Service providers,185,Insurance,Y
+1494,Travel Insurance Brokers,185,Insurance,Y
+1495,Trip Advisors Service providers,1492,Trip Planning,Y
+1496,Trip Advisors Resources,1492,Trip Planning,Y
+1498,Bed & Breakfasts Place,1497,Accommodations,Y
+1499,Cabins and Cottages Place,1497,Accommodations,Y
+1500,Hunting and Fishing Lodges Place,1497,Accommodations,Y
+1501,Hostels Place,1497,Accommodations,Y
+1502,Hotels Place,1497,Accommodations,Y
+1503,Hotels Consultants,1497,Accommodations,Y
+1504,Hotels Equipment and Supplies,1497,Accommodations,Y
+1505,Hotels Associations,1497,Accommodations,Y
+1507,Inns Place,1497,Accommodations,Y
+1508,Chalets Place,1497,Accommodations,Y
+1509,Motels Place,1497,Accommodations,Y
+1513,Family Resorts Place,1510,Resorts,Y
+1514,Golf Resorts Place,1510,Resorts,Y
+1515,Island Resorts Place,1510,Resorts,Y
+1516,Lake Resorts Place,1510,Resorts,Y
+1517,Ski Resorts Place,1510,Resorts,Y
+1518,Ski Resorts Associations,1510,Resorts,Y
+1519,Spa Resorts Place,1510,Resorts,Y
+1521,Flights Associations,1520,Transportation,Y
+1522,Flights Airports,1520,Transportation,Y
+1523,Flights Airlines,1520,Transportation,Y
+1524,Flights Equipment and Supplies,1520,Transportation,Y
+1525,Public Transporation Service providers,1520,Transportation,Y
+1526,Buses Rentals,1520,Transportation,Y
+1527,Buses Distributors,1520,Transportation,Y
+1528,Buses Repairs,1520,Transportation,Y
+1529,Buses Service providers,1520,Transportation,Y
+1530,Private Flights Service providers,1520,Transportation,Y
+1531,Ferries Service providers,1520,Transportation,Y
+1533,Rail Travel Manufacturers,1520,Transportation,Y
+1534,Rail Travel Equipment and Supplies,1520,Transportation,Y
+1535,Rail Travel Contractors,1520,Transportation,Y
+1536,Rail Travel Service providers,1520,Transportation,Y
+1537,Taxis Service providers,1520,Transportation,Y
+1538,Cruise Vacations Service providers,1491,Travel and Transportation,Y
+1540,Business Loans Service providers,305,Business Financial Services,Y
+1541,Office Coffee Service providers,235,Business Services,Y
+1542,Office Catering Service providers,235,Business Services,Y
+1543,Body Guards Service providers,261,Security & Safety,Y
+1544,Bagel Shops Place,673,Bakeries and Desserts,Y
+1545,Bakeries Place,673,Bakeries and Desserts,Y
+1546,Bakeries Wholesalers,673,Bakeries and Desserts,Y
+1547,Pastries and Desserts Place,673,Bakeries and Desserts,Y
+1548,Coffee Shops Place,672,"Coffee, Tea and Juices",Y
+1549,Coffee Shops Distributors,672,"Coffee, Tea and Juices",Y
+1550,Coffee Shops Equipment and Supplies,672,"Coffee, Tea and Juices",Y
+1551,Cafes Place,672,"Coffee, Tea and Juices",Y
+1552,Cafes Retailers,672,"Coffee, Tea and Juices",Y
+1553,Internet Cafes Place,672,"Coffee, Tea and Juices",Y
+1554,Tea Rooms Place,672,"Coffee, Tea and Juices",Y
+1555,Juice Bars Place,672,"Coffee, Tea and Juices",Y
+1556,Bubble Tea Place,672,"Coffee, Tea and Juices",Y
+1557,Donut Shops Franchise,673,Bakeries and Desserts,Y
+1558,Donut Shops Place,673,Bakeries and Desserts,Y
+1559,Ice Cream and Frozen Desserts Distributors,673,Bakeries and Desserts,Y
+1560,Ice Cream and Frozen Desserts Place,673,Bakeries and Desserts,Y
+1561,Ice Cream and Frozen Desserts Manufacturers,673,Bakeries and Desserts,Y
+1562,Ice Cream and Frozen Desserts Wholesalers,673,Bakeries and Desserts,Y
+1563,Meat Shops Retailers,1263,Specialty Shops,Y
+1564,Meat Shops Place,1263,Specialty Shops,Y
+1565,Cheese Shops Retailers,1263,Specialty Shops,Y
+1566,Fish Markets Retailers,1263,Specialty Shops,Y
+1567,Fruit & Vegetable Markets Wholesalers,1263,Specialty Shops,Y
+1568,Fruit & Vegetable Markets Producers,1263,Specialty Shops,Y
+1569,Fruit & Vegetable Markets Retailers,1263,Specialty Shops,Y
+1570,Fruit & Vegetable Markets Brokers,1263,Specialty Shops,Y
+1571,Gourmet Shops Retailers,1263,Specialty Shops,Y
+1577,Comic Books Retailers,13,Shopping and Specialty Stores,Y
+1578,Artificial Limbs Service providers,2335,Orthotics and Prosthetics,Y
+1579,Sporting Goods Manufacturers,1135,Sports and Recreation,Y
+1580,Sporting Goods Wholesalers,1135,Sports and Recreation,Y
+1581,Sporting Goods Associations,1135,Sports and Recreation,Y
+1582,Sporting Goods Retailers,1135,Sports and Recreation,Y
+1588,Halls of Fame Place,1135,Sports and Recreation,Y
+1590,Soccer Fields Place,1484,Venues,Y
+1593,Ice Rinks Equipment and Supplies,1484,Venues,Y
+1594,Ice Rinks Place,1484,Venues,Y
+1595,Volleyball Courts Place,1484,Venues,Y
+1598,Tennis Equipment & Apparel Retailers,1249,Tennis,Y
+1599,Tennis Equipment & Apparel Service providers,1249,Tennis,Y
+1602,Skateboarding Retailers,1485,Extreme Sports,Y
+1603,Surfing Retailers,1485,Extreme Sports,Y
+1607,Rock Climbing Place,1485,Extreme Sports,Y
+1608,White Water Rafting Retailers,1485,Extreme Sports,Y
+1609,Waterskiing Instructors,1485,Extreme Sports,Y
+1610,Waterskiing Retailers,1485,Extreme Sports,Y
+1611,Waterskiing Associations,1485,Extreme Sports,Y
+1612,Waterskiing Manufacturers,1485,Extreme Sports,Y
+1613,Waterskiing Service providers,1485,Extreme Sports,Y
+1614,Sky Diving Service providers,1485,Extreme Sports,Y
+1615,Bungee Jumping Service providers,1485,Extreme Sports,Y
+1616,Website Design Online Retailers,2807,Marketing,Y
+1617,Website Design Associations,2807,Marketing,Y
+1618,Website Design Designers,2807,Marketing,Y
+1619,Website Design Service providers,2807,Marketing,Y
+1620,Website Design Consultants,2807,Marketing,Y
+1622,Adult Video Retailers,1621,Adult Entertainment,Y
+1623,Adult Video Associations,1621,Adult Entertainment,Y
+1625,Adult Video Studios,1621,Adult Entertainment,Y
+1626,Adult Video Online Retailers,1621,Adult Entertainment,Y
+1631,Boat Rentals Service providers,1629,Boating,Y
+1632,Boats Dealers,1629,Boating,Y
+1633,Boats Manufacturers,1629,Boating,Y
+1634,Boating Instruction Instructors,1629,Boating,Y
+1636,Marinas Place,1629,Boating,Y
+1637,Marinas Contractors,1629,Boating,Y
+1639,Furniture and Accessories Online Retailers,1638,Kids and Teens,Y
+1640,Furniture and Accessories Manufacturers,1638,Kids and Teens,Y
+1641,Furniture and Accessories Retailers,1638,Kids and Teens,Y
+1646,Afterschool Programs Service providers,1638,Kids and Teens,Y
+1647,Afterschool Programs Resources,1638,Kids and Teens,Y
+1648,Baby and Child Safety Retailers,1638,Kids and Teens,Y
+1649,Baby and Child Safety Online Retailers,1638,Kids and Teens,Y
+1650,Baby and Child Safety Manufacturers,1638,Kids and Teens,Y
+1651,Baby Supplies Wholesalers,1638,Kids and Teens,Y
+1652,Baby Supplies Online Retailers,1638,Kids and Teens,Y
+1653,Baby Supplies Service providers,1638,Kids and Teens,Y
+1654,Baby Supplies Manufacturers,1638,Kids and Teens,Y
+1655,Baby Supplies Retailers,1638,Kids and Teens,Y
+1659,Certified General Accountants (CGAs) Service providers,1657,Accountants,Y
+1660,Certified Management Accountants (CMAs) Service providers,1657,Accountants,Y
+1661,Certified Management Accountants (CMAs) Associations,1657,Accountants,Y
+1662,Certified Management Accountants (CMAs) Professionals,1657,Accountants,Y
+1663,Chartered Accountants (CAs) Service providers,1657,Accountants,Y
+1664,Chartered Accountants (CAs) Associations,1657,Accountants,Y
+1666,Appraisers,1665,Business Financial Services,N
+1667,Asset Management,1665,Business Financial Services,N
+1668,Banking,1665,Business Financial Services,N
+1669,Bookkeeping Services,1665,Business Financial Services,N
+1670,Business Brokerages,1665,Business Financial Services,N
+1671,Business Credit,1665,Business Financial Services,N
+1672,Business Loans,1665,Business Financial Services,N
+1673,Business Valuation Techniques,1665,Business Financial Services,N
+1674,Collections,1665,Business Financial Services,N
+1675,Credit Reporting,1665,Business Financial Services,N
+1676,Currency Exchange,1665,Business Financial Services,N
+1677,Electronic Funds Transfer,1665,Business Financial Services,N
+1678,Financing,1665,Business Financial Services,N
+1679,Mergers and Acquisitions,1665,Business Financial Services,N
+1682,Payroll Accounting,1665,Business Financial Services,N
+1683,Small Business Finance,1665,Business Financial Services,N
+1684,Tax Return Preparation,1665,Business Financial Services,N
+1685,Trust Companies,1665,Business Financial Services,N
+1686,Trustees,1665,Business Financial Services,N
+1687,Venture Capital,1665,Business Financial Services,N
+1695,Long Distance Telephone Service Service providers,452,Communications,Y
+1696,Paging and Signaling Systems Service providers,1689,Communications,Y
+1697,Phone Systems Repairs,1689,Communications,Y
+1698,Phone Systems Service providers,1689,Communications,Y
+1705,Telephone Companies and Service Providers Service providers,452,Communications,Y
+1708,Teleconferencing Services Service providers,1689,Communications,Y
+1710,Recruitment Service providers,1709,Human Resources,Y
+1711,Employment Service providers,1709,Human Resources,Y
+1713,Workplace Health and Safety Professionals,1709,Human Resources,Y
+1714,Workplace Health and Safety Consultants,1709,Human Resources,Y
+1716,Computer Dealers Wholesalers,1715,Computers and Internet,Y
+1718,Computer Hardware and Accessories Equipment and Supplies,1715,Computers and Internet,Y
+1719,Computer Hardware and Accessories Manufacturers,1715,Computers and Internet,Y
+1720,Software Development Producers,1715,Computers and Internet,Y
+1721,Networking Service providers,1715,Computers and Internet,Y
+1723,Electric Power Utilities Service providers,1722,Energy and Environment,Y
+1725,Natural Gas Utilities Service providers,1722,Energy and Environment,Y
+1726,Oil and Gas Service providers,1722,Energy and Environment,Y
+1727,Oil and Gas Consultants,1722,Energy and Environment,Y
+1729,Convenience Stores Retailers,13,Shopping and Specialty Stores,Y
+1731,Armoured Car Services Service providers,261,Security & Safety,Y
+1732,Packaging and Crating Service providers,350,Logistics,Y
+1733,Packaging and Crating Equipment and Supplies,350,Logistics,Y
+1734,Packaging and Crating Manufacturers,350,Logistics,Y
+1735,Packaging and Crating Wholesalers,350,Logistics,Y
+1736,Tourism Offices Organizations,1184,Tourism,Y
+1742,Boating Organizations Organizations,1629,Boating,Y
+1743,Cosmetic Dentistry Service providers,1064,Dental Services,Y
+1744,Cosmetic Dentistry Place,1064,Dental Services,Y
+1745,Cosmetic Dentistry Professionals,1064,Dental Services,Y
+1746,Cosmetic Dentistry Associations,1064,Dental Services,Y
+1747,Homeopathy Associations,1070,Alternative Medicine,Y
+1748,Homeopathy Place,1070,Alternative Medicine,Y
+1749,Businesss Law Professionals,142,Lawyers,Y
+1750,Businesss Law Firms,142,Lawyers,Y
+1754,Acura Dealers Dealers,121,New Cars,Y
+1755,Acura Dealers Manufacturers,121,New Cars,Y
+1756,Audi Dealers Dealers,121,New Cars,Y
+1757,Audi Dealers Manufacturers,121,New Cars,Y
+1758,BMW Dealers Manufacturers,121,New Cars,Y
+1759,BMW Dealers Dealers,121,New Cars,Y
+1760,Bentley Dealers Manufacturers,121,New Cars,Y
+1761,Bentley Dealers Dealers,121,New Cars,Y
+1762,Buick Dealers Dealers,121,New Cars,Y
+1763,Buick Dealers Manufacturers,121,New Cars,Y
+1764,Cadillac Dealers Manufacturers,121,New Cars,Y
+1765,Cadillac Dealers Dealers,121,New Cars,Y
+1766,Chevrolet Dealers Dealers,121,New Cars,Y
+1767,Chevrolet Dealers Manufacturers,121,New Cars,Y
+1768,Dodge Dealers Manufacturers,121,New Cars,Y
+1769,Dodge Dealers Dealers,121,New Cars,Y
+1770,Ferrari Dealers Dealers,121,New Cars,Y
+1771,Ferrari Dealers Manufacturers,121,New Cars,Y
+1772,Ford Dealers Dealers,121,New Cars,Y
+1773,Ford Dealers Manufacturers,121,New Cars,Y
+1774,GM Dealers Dealers,121,New Cars,Y
+1775,GM Dealers Manufacturers,121,New Cars,Y
+1776,GMC Dealers Dealers,121,New Cars,Y
+1777,GMC Dealers Manufacturers,121,New Cars,Y
+1778,Honda Dealers Dealers,121,New Cars,Y
+1779,Honda Dealers Manufacturers,121,New Cars,Y
+1780,Hyundai Dealers Dealers,121,New Cars,Y
+1781,Hyundai Dealers Manufacturers,121,New Cars,Y
+1782,Kia Dealers Dealers,121,New Cars,Y
+1783,Kia Dealers Manufacturers,121,New Cars,Y
+1784,Lamborghini Dealers Dealers,121,New Cars,Y
+1785,Lamborghini Dealers Manufacturers,121,New Cars,Y
+1786,Mazda Dealers Dealers,121,New Cars,Y
+1787,Mazda Dealers Manufacturers,121,New Cars,Y
+1788,Mercedes-Benz Dealers Manufacturers,121,New Cars,Y
+1789,Mercedes-Benz Dealers Dealers,121,New Cars,Y
+1790,Nissan Dealers Manufacturers,121,New Cars,Y
+1791,Nissan Dealers Dealers,121,New Cars,Y
+1794,Porsche Dealers Manufacturers,121,New Cars,Y
+1795,Porsche Dealers Dealers,121,New Cars,Y
+1796,Saab Dealers Manufacturers,121,New Cars,Y
+1797,Saab Dealers Dealers,121,New Cars,Y
+1802,Volkswagen Dealers Dealers,121,New Cars,Y
+1803,Volkswagen Dealers Manufacturers,121,New Cars,Y
+1804,Volvo Dealers Manufacturers,121,New Cars,Y
+1805,Volvo Dealers Headquarters,121,New Cars,Y
+1806,Volvo Dealers Dealers,121,New Cars,Y
+1835,Bartending Schools Schools,528,Specialty Schools and Instruction,Y
+1836,Acting Schools Schools,528,Specialty Schools and Instruction,Y
+1837,Acting Schools Instructors,528,Specialty Schools and Instruction,Y
+1838,Hair Styling Schools Schools,528,Specialty Schools and Instruction,Y
+1839,Makeup Artistry Schools Schools,528,Specialty Schools and Instruction,Y
+1840,Military Schools Schools,1403,Nursery and K-12 Schools,Y
+1841,Hair Removal Manufacturers,737,Beauty,Y
+1842,Hair Removal Service providers,737,Beauty,Y
+1843,Hair Removal Place,737,Beauty,Y
+1844,Wine Bars Place,1627,Nightlife,Y
+1845,Pool Halls Place,30,Amusement,Y
+1846,Pub Fare Place,612,Restaurants,Y
+1848,Race Tracks Place,1847,Gambling,Y
+1849,Race Tracks Equipment and Supplies,1847,Gambling,Y
+1850,Actuarial Consultants Firms,359,Consultants,Y
+1851,Actuarial Consultants Consultants,359,Consultants,Y
+1852,Business and Financial Schools Schools,528,Specialty Schools and Instruction,Y
+1853,Information Technology Schools Schools,528,Specialty Schools and Instruction,Y
+1854,Healthcare Schools Schools,528,Specialty Schools and Instruction,Y
+1855,Massage Therapy Schools Schools,528,Specialty Schools and Instruction,Y
+1856,Airport Transportation Publishers,1520,Transportation,Y
+1857,Airport Transportation Service providers,1520,Transportation,Y
+1858,Airport Transportation Associations,1520,Transportation,Y
+1859,Design Schools Schools,528,Specialty Schools and Instruction,Y
+1860,Alternative Medicine Schools Schools,528,Specialty Schools and Instruction,Y
+1862,Dental Hygiene Schools Schools,528,Specialty Schools and Instruction,Y
+1873,Travel and Tourism Schools Schools,528,Specialty Schools and Instruction,Y
+1875,Community Centres Place,566,Family and Community,Y
+1877,Hair Transplants Service providers,737,Beauty,Y
+1878,Hair Transplants Place,737,Beauty,Y
+1879,Hair Transplants Manufacturers,737,Beauty,Y
+1890,Weight Loss Clinics Place,725,Nutrition,Y
+1891,Video Production Service providers,444,Multimedia Services,Y
+1892,Frame Shops Retailers,13,Shopping and Specialty Stores,Y
+1893,Frame Shops Equipment and Supplies,13,Shopping and Specialty Stores,Y
+1894,Frame Shops Manufacturers,13,Shopping and Specialty Stores,Y
+1895,Frame Shops Wholesalers,13,Shopping and Specialty Stores,Y
+1896,Audio and Recording Studios Associations,444,Multimedia Services,Y
+1897,Audio and Recording Studios Equipment and Supplies,444,Multimedia Services,Y
+1898,Audio and Recording Studios Place,444,Multimedia Services,Y
+1899,DVD Authoring Service providers,444,Multimedia Services,Y
+1900,Auctions Place,235,Business Services,Y
+1901,Body Shops Manufacturers,76,Auto Parts & Services,Y
+1902,Body Shops Wholesalers,76,Auto Parts & Services,Y
+1903,Body Shops Service providers,76,Auto Parts & Services,Y
+1904,Subaru Dealers Manufacturers,121,New Cars,Y
+1905,Subaru Dealers Headquarters,121,New Cars,Y
+1906,Subaru Dealers Dealers,121,New Cars,Y
+1907,Infiniti Dealers Dealers,121,New Cars,Y
+1908,Infiniti Dealers Manufacturers,121,New Cars,Y
+1909,Land Rover Dealers Dealers,121,New Cars,Y
+1910,Land Rover Dealers Manufacturers,121,New Cars,Y
+1913,Uniforms Service providers,235,Business Services,Y
+1914,Uniforms Rentals,235,Business Services,Y
+1915,Uniforms Retailers,235,Business Services,Y
+1916,Uniforms Wholesalers,235,Business Services,Y
+1917,Uniforms Manufacturers,235,Business Services,Y
+1918,Chrysler Dealers Manufacturers,121,New Cars,Y
+1919,Chrysler Dealers Dealers,121,New Cars,Y
+1921,Lincoln Dealers Dealers,121,New Cars,Y
+1922,Lincoln Dealers Manufacturers,121,New Cars,Y
+1924,Lexus Dealers Manufacturers,121,New Cars,Y
+1925,Lexus Dealers Dealers,121,New Cars,Y
+1927,Aston Martin Dealers Manufacturers,121,New Cars,Y
+1928,Aston Martin Dealers Dealers,121,New Cars,Y
+1930,Jaguar Dealers Manufacturers,121,New Cars,Y
+1931,Jaguar Dealers Dealers,121,New Cars,Y
+1933,Rolls-Royce Dealers Manufacturers,121,New Cars,Y
+1934,Rolls-Royce Dealers Dealers,121,New Cars,Y
+1936,Mitsubishi Dealers Dealers,121,New Cars,Y
+1937,Mitsubishi Dealers Manufacturers,121,New Cars,Y
+1939,Toy Shops Manufacturers,13,Shopping and Specialty Stores,Y
+1940,Toy Shops Wholesalers,13,Shopping and Specialty Stores,Y
+1941,Toy Shops Retailers,13,Shopping and Specialty Stores,Y
+1942,Family Restaurants Place,612,Restaurants,Y
+1943,Dim Sum Restaurants Place,612,Restaurants,Y
+1944,Oyster Bars Place,612,Restaurants,Y
+1945,Turkish Restaurants Place,612,Restaurants,Y
+1946,Dinner Theatres Place,612,Restaurants,Y
+1948,Beer Stores Retailers,1576,Wine and Liquor Stores,Y
+1949,Sports-Themed Restaurants Place,612,Restaurants,Y
+1950,Mongolian Restaurants Place,612,Restaurants,Y
+1951,Contemporary Restaurants Place,612,Restaurants,Y
+1953,Barbecue Restaurants Place,612,Restaurants,Y
+1954,Payday Loans Service providers,275,Financial Services,Y
+1955,Organic Restaurants Place,612,Restaurants,Y
+1957,Performance Parts and Accessories Retailers,76,Auto Parts & Services,Y
+1958,Performance Parts and Accessories Service providers,76,Auto Parts & Services,Y
+1959,Auto Service Wholesalers,76,Auto Parts & Services,Y
+1960,Auto Service Distributors,76,Auto Parts & Services,Y
+1961,Auto Service Service providers,76,Auto Parts & Services,Y
+1962,Auto Service Equipment and Supplies,76,Auto Parts & Services,Y
+1963,Auto Service Associations,76,Auto Parts & Services,Y
+1964,Auto Service Manufacturers,76,Auto Parts & Services,Y
+1965,Laser Therapy Place,1030,Hospitals and Clinics,Y
+1966,Laser Therapy Service providers,1030,Hospitals and Clinics,Y
+1971,Lingerie Retailers,13,Shopping and Specialty Stores,Y
+1972,Lingerie Manufacturers,13,Shopping and Specialty Stores,Y
+1973,Lingerie Wholesalers,13,Shopping and Specialty Stores,Y
+1974,Vintage Stores Retailers,13,Shopping and Specialty Stores,Y
+1975,Dry Cleaners Service providers,1628,Clothing Services,Y
+1976,Dry Cleaners Equipment and Supplies,1628,Clothing Services,Y
+1977,Laundromats Place,1628,Clothing Services,Y
+1978,Laundromats Equipment and Supplies,1628,Clothing Services,Y
+1979,Laundromats Service providers,1628,Clothing Services,Y
+1983,Contacts Associations,1050,Eye Care,Y
+1984,Contacts Retailers,1050,Eye Care,Y
+1985,Contacts Manufacturers,1050,Eye Care,Y
+1988,Pilates Studios Studios,1630,Fitness,Y
+1989,Balloon Tours Service providers,1184,Tourism,Y
+1992,Fashion Consultants Consultants,13,Shopping and Specialty Stores,Y
+1993,Boat Charters Service providers,1629,Boating,N
+1994,Bingo Retailers,30,Amusement,Y
+1995,Bingo Place,30,Amusement,Y
+1998,Modeling Agencies Associations,1996,Talent,Y
+1999,Modeling Agencies Service providers,1996,Talent,Y
+2000,Dancers Organizations,1996,Talent,Y
+2001,Magic Shows Professionals,1996,Talent,Y
+2002,Magic Shows Retailers,1996,Talent,Y
+2003,Comedy Clubs Place,1627,Nightlife,Y
+2006,Brake Shops Wholesalers,76,Auto Parts & Services,Y
+2007,Brake Shops Service providers,76,Auto Parts & Services,Y
+2008,Brake Shops Equipment and Supplies,76,Auto Parts & Services,Y
+2009,Brake Shops Manufacturers,76,Auto Parts & Services,Y
+2010,Detailing Service providers,76,Auto Parts & Services,Y
+2011,Auto Tinting Service providers,76,Auto Parts & Services,Y
+2015,Truck Wash Service providers,2371,Trucking,Y
+2018,Copy Service Retailers,235,Business Services,Y
+2019,Copy Service Manufacturers,235,Business Services,Y
+2020,Copy Service Service providers,235,Business Services,Y
+2021,Office Records Service providers,235,Business Services,Y
+2022,Mechanical Contractors,463,Construction,Y
+2023,Mechanical Retailers,463,Construction,Y
+2024,Mechanical Manufacturers,463,Construction,Y
+2025,Project Managers Firms,463,Construction,Y
+2026,Foster Care Service providers,590,Family and Social Services,Y
+2027,Foster Care Associations,590,Family and Social Services,Y
+2029,Wigs and Toupees Wholesalers,737,Beauty,Y
+2030,Wigs and Toupees Retailers,737,Beauty,Y
+2031,Wigs and Toupees Manufacturers,737,Beauty,Y
+2035,Insulation Contractors,770,Home and Garden,Y
+2036,Insulation Manufacturers,770,Home and Garden,Y
+2037,Insulation Equipment and Supplies,770,Home and Garden,Y
+2038,Insulation Distributors,770,Home and Garden,Y
+2039,Insulation Wholesalers,770,Home and Garden,Y
+2040,Stone Work Publishers,770,Home and Garden,Y
+2041,Stone Work Distributors,770,Home and Garden,Y
+2042,Stone Work Retailers,770,Home and Garden,Y
+2043,Stone Work Contractors,770,Home and Garden,Y
+2044,Stone Work Manufacturers,770,Home and Garden,Y
+2045,Wall Coverings Publishers,770,Home and Garden,Y
+2046,Wall Coverings Contractors,770,Home and Garden,Y
+2047,Wall Coverings Manufacturers,770,Home and Garden,Y
+2048,Wall Coverings Wholesalers,770,Home and Garden,Y
+2049,Wall Coverings Associations,770,Home and Garden,Y
+2050,Wall Coverings Distributors,770,Home and Garden,Y
+2051,Wall Coverings Retailers,770,Home and Garden,Y
+2052,Area Rugs Wholesalers,770,Home and Garden,Y
+2053,Area Rugs Retailers,770,Home and Garden,Y
+2054,Area Rugs Manufacturers,770,Home and Garden,Y
+2055,Duct Cleaning Contractors,770,Home and Garden,Y
+2056,Home Loans Firms,770,Home and Garden,Y
+2057,Interior Designers Publishers,770,Home and Garden,Y
+2058,Interior Designers Designers,770,Home and Garden,Y
+2059,Interior Designers Associations,770,Home and Garden,Y
+2060,Iron Works Contractors,770,Home and Garden,Y
+2061,Iron Works Manufacturers,770,Home and Garden,Y
+2062,Iron Works Distributors,770,Home and Garden,Y
+2063,Lawn Care Wholesalers,770,Home and Garden,Y
+2064,Lawn Care Dealers,770,Home and Garden,Y
+2065,Lawn Care Contractors,770,Home and Garden,Y
+2066,Lawn Care Rentals,770,Home and Garden,Y
+2067,Lawn Care Retailers,770,Home and Garden,Y
+2068,Lawn Care Equipment and Supplies,770,Home and Garden,Y
+2069,Lawn Care Repairs,770,Home and Garden,Y
+2070,Lawn Care Manufacturers,770,Home and Garden,Y
+2071,Marble and Granite Manufacturers,770,Home and Garden,Y
+2072,Marble and Granite Wholesalers,770,Home and Garden,Y
+2073,Marble and Granite Contractors,770,Home and Garden,Y
+2074,Marble and Granite Retailers,770,Home and Garden,Y
+2075,Recycling Associations,770,Home and Garden,Y
+2076,Recycling Service providers,770,Home and Garden,Y
+2077,Recycling Manufacturers,770,Home and Garden,Y
+2078,Recycling Equipment and Supplies,770,Home and Garden,Y
+2079,Stucco Rentals,463,Construction,Y
+2080,Stucco Contractors,463,Construction,Y
+2081,Stucco Manufacturers,463,Construction,Y
+2082,Stucco Associations,463,Construction,Y
+2083,Stucco Distributors,463,Construction,Y
+2084,Lawn Sprinklers Contractors,770,Home and Garden,Y
+2085,Snow Removal Service providers,770,Home and Garden,Y
+2086,Snow Removal Retailers,770,Home and Garden,Y
+2087,Tree Service Manufacturers,770,Home and Garden,Y
+2088,Tree Service Contractors,770,Home and Garden,Y
+2089,Restoration Associations,770,Home and Garden,Y
+2090,Restoration Distributors,770,Home and Garden,Y
+2091,Restoration Contractors,770,Home and Garden,Y
+2092,Barbecues Retailers,770,Home and Garden,Y
+2093,Barbecues Rentals,770,Home and Garden,Y
+2094,Barbecues Resources,770,Home and Garden,Y
+2095,Barbecues Repairs,770,Home and Garden,Y
+2096,Barbecues Manufacturers,770,Home and Garden,Y
+2097,Bed And Bath Retailers,770,Home and Garden,Y
+2098,Bed And Bath Manufacturers,770,Home and Garden,Y
+2099,Bed And Bath Wholesalers,770,Home and Garden,Y
+2100,Garages Contractors,770,Home and Garden,Y
+2101,Garages Retailers,770,Home and Garden,Y
+2102,Garages Manufacturers,770,Home and Garden,Y
+2103,Home Plans Contractors,770,Home and Garden,Y
+2105,Maids Service providers,770,Home and Garden,Y
+2106,Pool Service Service providers,770,Home and Garden,Y
+2107,Bookkeeping Services Service providers,1657,Accountants,Y
+2108,Stock Brokers Firms,275,Financial Services,Y
+2109,Stock Brokers Exchanges,275,Financial Services,Y
+2110,Insurance Firms,185,Insurance,Y
+2111,Insurance Service providers,185,Insurance,Y
+2112,Insurance Publishers,185,Insurance,Y
+2113,Insurance Professionals,185,Insurance,Y
+2114,Insurance Associations,185,Insurance,Y
+2115,Insurance Brokers,185,Insurance,Y
+2116,Paralegal Services Service providers,142,Lawyers,Y
+2117,Costumes and Dancewear Designers,13,Shopping and Specialty Stores,Y
+2118,Costumes and Dancewear Retailers,13,Shopping and Specialty Stores,Y
+2120,Bikes Retailers,2119,Biking,Y
+2121,Bikes Manufacturers,2119,Biking,Y
+2122,Bikes Wholesalers,2119,Biking,Y
+2123,Bike Rentals Rentals,2119,Biking,Y
+2125,Upholstery Manufacturers,770,Home and Garden,Y
+2126,Upholstery Service providers,770,Home and Garden,Y
+2127,Upholstery Cleaning,770,Home and Garden,Y
+2128,Upholstery Distributors,770,Home and Garden,Y
+2129,Upholstery Retailers,770,Home and Garden,Y
+2130,Upholstery Equipment and Supplies,770,Home and Garden,Y
+2131,Upholstery Associations,770,Home and Garden,Y
+2132,Office Furniture Manufacturers,235,Business Services,Y
+2133,Office Furniture Repairs,235,Business Services,Y
+2134,Office Furniture Used,235,Business Services,Y
+2135,Office Furniture Wholesalers,235,Business Services,Y
+2136,Office Furniture Rentals,235,Business Services,Y
+2137,Domain Name Registration Service providers,1715,Computers and Internet,Y
+2139,Search Engine Optimization Service providers,1715,Computers and Internet,Y
+2140,Website Hosting Service providers,1715,Computers and Internet,Y
+2142,Skiing & Snowboarding Equipment & Apparel Retailers,2141,Skiing - Snowboarding,Y
+2143,Skiing & Snowboarding Equipment & Apparel Rentals,2141,Skiing - Snowboarding,Y
+2144,Ski Clubs Place,2141,Skiing - Snowboarding,Y
+2145,Ski Clubs Schools,2141,Skiing - Snowboarding,Y
+2146,Ski Clubs Equipment and Supplies,2141,Skiing - Snowboarding,Y
+2147,Architects Firms,463,Construction,Y
+2148,Architects Equipment and Supplies,463,Construction,Y
+2149,Architects Consultants,463,Construction,Y
+2150,Architects Publishers,463,Construction,Y
+2151,Architects Professionals,463,Construction,Y
+2152,Architects Associations,463,Construction,Y
+2153,Architects Service providers,463,Construction,Y
+2154,Home Builders Associations,770,Home and Garden,Y
+2155,Home Builders Properties,770,Home and Garden,Y
+2156,Home Builders Builders,770,Home and Garden,Y
+2157,Building Supply Distributors,770,Home and Garden,Y
+2158,Building Supply Resources,770,Home and Garden,Y
+2159,Building Supply Manufacturers,770,Home and Garden,Y
+2160,Building Supply Retailers,770,Home and Garden,Y
+2161,Cabinets Manufacturers,770,Home and Garden,Y
+2162,Cabinets Equipment and Supplies,770,Home and Garden,Y
+2163,Cabinets Contractors,770,Home and Garden,Y
+2164,Cabinets Resources,770,Home and Garden,Y
+2169,Contracting Consultants,770,Home and Garden,Y
+2170,Contracting Designers,770,Home and Garden,Y
+2171,Contracting Contractors,770,Home and Garden,Y
+2172,Contracting Resources,770,Home and Garden,Y
+2173,Drainage Contractors,770,Home and Garden,Y
+2174,Drywall Equipment and Supplies,463,Construction,Y
+2175,Drywall Associations,463,Construction,Y
+2176,Drywall Distributors,463,Construction,Y
+2177,Drywall Retailers,463,Construction,Y
+2178,Drywall Contractors,463,Construction,Y
+2179,Drywall Manufacturers,463,Construction,Y
+2180,Excavating Resources,463,Construction,Y
+2181,Excavating Manufacturers,463,Construction,Y
+2182,Excavating Equipment and Supplies,463,Construction,Y
+2183,Excavating Contractors,463,Construction,Y
+2184,Pest Control Service providers,770,Home and Garden,Y
+2185,Pest Control Equipment and Supplies,770,Home and Garden,Y
+2186,Pest Control Manufacturers,770,Home and Garden,Y
+2187,Pest Control Wholesalers,770,Home and Garden,Y
+2188,Playscapes Wholesalers,770,Home and Garden,Y
+2189,Playscapes Manufacturers,770,Home and Garden,Y
+2190,Playscapes Dealers,770,Home and Garden,Y
+2197,Masonry Contractors,463,Construction,Y
+2198,Masonry Manufacturers,463,Construction,Y
+2199,Masonry Equipment and Supplies,463,Construction,Y
+2200,Masonry Distributors,463,Construction,Y
+2201,Masonry Resources,463,Construction,Y
+2202,Mirrors Retailers,770,Home and Garden,Y
+2203,Mirrors Manufacturers,770,Home and Garden,Y
+2204,Mirrors Wholesalers,770,Home and Garden,Y
+2205,Garden Centres Wholesalers,770,Home and Garden,Y
+2206,Garden Centres Retailers,770,Home and Garden,Y
+2207,Garden Centres Equipment and Supplies,770,Home and Garden,Y
+2208,Ready Mix Manufacturers,463,Construction,Y
+2209,Ready Mix Contractors,463,Construction,Y
+2210,Shopping Malls Place,13,Shopping and Specialty Stores,Y
+2211,Sunglasses Online Retailers,13,Shopping and Specialty Stores,Y
+2212,Sunglasses Wholesalers,13,Shopping and Specialty Stores,Y
+2213,Sunglasses Manufacturers,13,Shopping and Specialty Stores,Y
+2214,Sunglasses Retailers,13,Shopping and Specialty Stores,Y
+2215,Karaoke Bars Place,1627,Nightlife,Y
+2216,AIDS/HIV Clinics Place,1030,Hospitals and Clinics,Y
+2217,Orchestras and Bands Service providers,1996,Talent,Y
+2218,Orchestras and Bands Professionals,1996,Talent,Y
+2219,Musicians Producers,1996,Talent,Y
+2220,Musicians Professionals,1996,Talent,Y
+2221,Musicians Composers,1996,Talent,Y
+2222,Musicians Associations,1996,Talent,Y
+2223,Balloons Retailers,1193,Weddings and Events,Y
+2224,Retail Labels Wholesalers,376,Retailers' Equipment and Supplies,Y
+2225,Retail Labels Manufacturers,376,Retailers' Equipment and Supplies,Y
+2226,Retail Labels Equipment and Supplies,376,Retailers' Equipment and Supplies,Y
+2228,Global Cuisine Place,612,Restaurants,Y
+2229,Gaming Retailers,13,Shopping and Specialty Stores,Y
+2230,Gaming Manufacturers,13,Shopping and Specialty Stores,Y
+2231,Beauty and Hair Supplies Retailers,737,Beauty,Y
+2232,Beauty and Hair Supplies Manufacturers,737,Beauty,Y
+2233,Beauty and Hair Supplies Wholesalers,737,Beauty,Y
+2236,Chimneys Contractors,770,Home and Garden,Y
+2237,Chimneys Cleaning,770,Home and Garden,Y
+2238,Chimneys Equipment and Supplies,770,Home and Garden,Y
+2243,Clocks Online Retailers,680,Jewellery,Y
+2244,Clocks Service providers,680,Jewellery,Y
+2245,Clocks Repairs,680,Jewellery,Y
+2246,Clocks Manufacturers,680,Jewellery,Y
+2247,Clocks Retailers,680,Jewellery,Y
+2248,Clocks Wholesalers,680,Jewellery,Y
+2249,Compressors Wholesalers,463,Construction,Y
+2250,Compressors Manufacturers,463,Construction,Y
+2251,Compressors Rentals,463,Construction,Y
+2252,Compressors Service providers,463,Construction,Y
+2253,Compressors Repairs,463,Construction,Y
+2254,Compressors Distributors,463,Construction,Y
+2255,Compressors Retailers,463,Construction,Y
+2256,Computing Consultants Consultants,359,Consultants,Y
+2260,Business and Trade Organizations Associations,2740,"Organizations, Associations & Unions",Y
+2261,Business and Trade Organizations Organizations,2740,"Organizations, Associations & Unions",Y
+2262,Chemical Engineers Associations,207,Engineers,Y
+2263,Chemical Engineers Professionals,207,Engineers,Y
+2264,Chemical Engineers Firms,207,Engineers,Y
+2265,"Consulates, Foreign Offices, and Embassies Place",566,Family and Community,Y
+2268,Elevators Equipment and Supplies,519,Property Maintenance,Y
+2269,Elevators Consultants,519,Property Maintenance,Y
+2270,Elevators Manufacturers,519,Property Maintenance,Y
+2271,Elevators Repairs,519,Property Maintenance,Y
+2272,Elevators Contractors,519,Property Maintenance,Y
+2274,Fraternal Organizations Organizations,2730,Community Clubs,Y
+2284,Industrial Engineers Professionals,207,Engineers,Y
+2285,Industrial Engineers Firms,207,Engineers,Y
+2286,Industrial Engineers Associations,207,Engineers,Y
+2287,Medical Laboratories Laboratories,999,Health and Personal Care,Y
+2288,Medical Laboratories Equipment and Supplies,999,Health and Personal Care,Y
+2289,Medical Laboratories Place,999,Health and Personal Care,Y
+2290,Marine Engineers Associations,207,Engineers,Y
+2291,Marine Engineers Professionals,207,Engineers,Y
+2292,Marine Engineers Firms,207,Engineers,Y
+2293,Charities Charities,566,Family and Community,Y
+2294,Post Offices Place,566,Family and Community,Y
+2295,Politics Professionals,566,Family and Community,Y
+2296,Politics Consultants,566,Family and Community,Y
+2297,Politics Organizations,566,Family and Community,Y
+2298,Saunas Retailers,770,Home and Garden,Y
+2299,Saunas Manufacturers,770,Home and Garden,Y
+2300,Saunas Distributors,770,Home and Garden,Y
+2301,Structural Engineers Professionals,207,Engineers,Y
+2302,Structural Engineers Firms,207,Engineers,Y
+2303,Structural Engineers Associations,207,Engineers,Y
+2304,Swimwear Wholesalers,13,Shopping and Specialty Stores,Y
+2305,Swimwear Manufacturers,13,Shopping and Specialty Stores,Y
+2306,Swimwear Retailers,13,Shopping and Specialty Stores,Y
+2307,Swimwear Online Retailers,13,Shopping and Specialty Stores,Y
+2312,Water Services Equipment and Supplies,770,Home and Garden,Y
+2313,Water Services Service providers,770,Home and Garden,Y
+2314,Welding Equipment and Supplies,463,Construction,Y
+2315,Welding Associations,463,Construction,Y
+2316,Welding Rentals,463,Construction,Y
+2317,Welding Contractors,463,Construction,Y
+2318,Welding Retailers,463,Construction,Y
+2319,Welding Repairs,463,Construction,Y
+2320,Welding Consultants,463,Construction,Y
+2321,Welding Manufacturers,463,Construction,Y
+2322,Sheet Metal Contractors,463,Construction,Y
+2323,Sheet Metal Equipment and Supplies,463,Construction,Y
+2324,Sheet Metal Manufacturers,463,Construction,Y
+2325,Wineries Equipment and Supplies,609,Food and Dining,Y
+2326,Wineries Place,609,Food and Dining,Y
+2336,Other Physicians and Surgeons Associations,1000,Physicians and Surgeons,Y
+2337,Other Physicians and Surgeons Place,1000,Physicians and Surgeons,Y
+2338,Other Physicians and Surgeons Consultants,1000,Physicians and Surgeons,Y
+2339,Other Physicians and Surgeons Professionals,1000,Physicians and Surgeons,Y
+2340,Auto Electric Service Dealers,76,Auto Parts & Services,Y
+2341,Auto Electric Service Manufacturers,76,Auto Parts & Services,Y
+2342,Auto Electric Service Wholesalers,76,Auto Parts & Services,Y
+2343,Auto Electric Service Service providers,76,Auto Parts & Services,Y
+2344,Used Car Dealers Associations,75,Automotive,Y
+2345,Used Car Dealers Dealers,75,Automotive,Y
+2346,Other Engineers Firms,207,Engineers,Y
+2347,Other Engineers Associations,207,Engineers,Y
+2348,Other Engineers Professionals,207,Engineers,Y
+2362,Meal Delivery Service providers,1086,Home Care,Y
+2363,More Restaurants Place,612,Restaurants,Y
+2370,Agencies and Managers Service providers,1996,Talent,Y
+2376,Metals Retailers,2372,Materials,Y
+2377,Metals Contractors,2372,Materials,Y
+2378,Metals Manufacturers,2372,Materials,Y
+2379,Metals Wholesalers,2372,Materials,Y
+2380,Metals Associations,2372,Materials,Y
+2381,Metals Distributors,2372,Materials,Y
+2382,Steel Foundries,2372,Materials,Y
+2383,Steel Contractors,2372,Materials,Y
+2384,Steel Wholesalers,2372,Materials,Y
+2385,Steel Associations,2372,Materials,Y
+2386,Steel Distributors,2372,Materials,Y
+2390,Family Planning and Parenting Resources Associations,590,Family and Social Services,Y
+2391,Family Planning and Parenting Resources Resources,590,Family and Social Services,Y
+2392,Family Planning and Parenting Resources Place,590,Family and Social Services,Y
+2393,Family Planning and Parenting Resources Service providers,590,Family and Social Services,Y
+2395,Antique & Classic Cars Resources,131,Other Vehicles,Y
+2396,Antique & Classic Cars Wholesalers,131,Other Vehicles,Y
+2397,Antique & Classic Cars Dealers,131,Other Vehicles,Y
+2398,Antique & Classic Cars Service providers,131,Other Vehicles,Y
+2399,Antique & Classic Cars Publishers,131,Other Vehicles,Y
+2404,Video Game Stores Rentals,400,Computers and Electronics,Y
+2405,Video Game Stores Manufacturers,400,Computers and Electronics,Y
+2406,Video Game Stores Wholesalers,400,Computers and Electronics,Y
+2407,Video Game Stores Retailers,400,Computers and Electronics,Y
+2409,Adhesives and Sealants Wholesalers,463,Construction,Y
+2410,Adhesives and Sealants Manufacturers,463,Construction,Y
+2411,Adhesives and Sealants Equipment and Supplies,463,Construction,Y
+2421,Ambulance Service Associations,1030,Hospitals and Clinics,Y
+2422,Ambulance Service Service providers,1030,Hospitals and Clinics,Y
+2423,Ambulance Service Manufacturers,1030,Hospitals and Clinics,Y
+2424,Ambulance Service Wholesalers,1030,Hospitals and Clinics,Y
+2425,Architectural Engineers Firms,207,Engineers,Y
+2426,Architectural Engineers Publishers,207,Engineers,Y
+2427,Architectural Engineers Professionals,207,Engineers,Y
+2428,Architectural Engineers Associations,207,Engineers,Y
+2429,Army and Navy Goods Retailers,13,Shopping and Specialty Stores,Y
+2430,Arts Organizations and Information Organizations,29,Arts and Entertainment,Y
+2431,Asian Markets Retailers,1263,Specialty Shops,Y
+2433,Biking Tours Service providers,1184,Tourism,Y
+2436,Cardiologists Associations,1000,Physicians and Surgeons,Y
+2437,Cardiologists Place,1000,Physicians and Surgeons,Y
+2438,Registered Dieticians Place,725,Nutrition,Y
+2439,Registered Dieticians Professionals,725,Nutrition,Y
+2449,Credit and Debt Counselling Service providers,275,Financial Services,Y
+2450,Marketing Service providers,2807,Marketing,Y
+2451,Marketing Associations,2807,Marketing,Y
+2452,Marketing Publishers,2807,Marketing,Y
+2453,Direct Mail Distributors,2807,Marketing,Y
+2454,Direct Mail Service providers,2807,Marketing,Y
+2455,Discount Stores Retailers,13,Shopping and Specialty Stores,Y
+2461,Guns and Gunsmiths Retailers,2460,Hunting,Y
+2462,Guns and Gunsmiths Wholesalers,2460,Hunting,Y
+2463,Hunting Equipment and Apparel Retailers,2460,Hunting,Y
+2473,Personal Trainers Service providers,1630,Fitness,Y
+2474,Medical Supply Manufacturers,999,Health and Personal Care,Y
+2475,Medical Supply Wholesalers,999,Health and Personal Care,Y
+2481,Security Systems Retailers,261,Security & Safety,Y
+2482,Security Systems Consultants,261,Security & Safety,Y
+2483,Environmental Law Professionals,142,Lawyers,Y
+2484,Environmental Law Firms,142,Lawyers,Y
+2485,Environmental Law Associations,142,Lawyers,Y
+2486,Boating Equipment and Supplies Manufacturers,1629,Boating,Y
+2487,Boating Equipment and Supplies Wholesalers,1629,Boating,Y
+2488,Boating Equipment and Supplies Distributors,1629,Boating,Y
+2489,Boating Equipment and Supplies Retailers,1629,Boating,Y
+2494,Biohazardous Service providers,2490,Waste Management,Y
+2495,Biohazardous Contractors,2490,Waste Management,Y
+2496,Biohazardous Associations,2490,Waste Management,Y
+2500,Newspapers Publishers,434,Media Services,Y
+2501,Newspapers Associations,434,Media Services,Y
+2507,Photo Labs Retailers,13,Shopping and Specialty Stores,Y
+2508,Photo Labs Wholesalers,13,Shopping and Specialty Stores,Y
+2510,Overhead Doors Contractors,519,Property Maintenance,Y
+2511,Real Estate Developers Firms,1112,Real Estate and Rentals,Y
+2515,School & Teaching Supply Retailers,1391,Education and Employment,Y
+2516,School & Teaching Supply Manufacturers,1391,Education and Employment,Y
+2517,School & Teaching Supply Wholesalers,1391,Education and Employment,Y
+2518,Sporting Venues Place,1484,Venues,Y
+2519,Sporting Venues Associations,1484,Venues,Y
+2520,Sporting Venues Service providers,1484,Venues,Y
+2521,Kid's Parties Service providers,1193,Weddings and Events,Y
+2526,Farmers Markets Retailers,1263,Specialty Shops,Y
+2527,Cheese and Dairy Equipment and Supplies,1271,Food and Beverage Suppliers,Y
+2528,Cheese and Dairy Manufacturers,1271,Food and Beverage Suppliers,Y
+2529,Cheese and Dairy Producers,1271,Food and Beverage Suppliers,Y
+2530,Cheese and Dairy Distributors,1271,Food and Beverage Suppliers,Y
+2531,Cheese and Dairy Wholesalers,1271,Food and Beverage Suppliers,Y
+2532,Scubadiving Instructors,1485,Extreme Sports,Y
+2533,Scubadiving Service providers,1485,Extreme Sports,Y
+2534,Scubadiving Retailers,1485,Extreme Sports,Y
+2535,Other Lawyers Firms,142,Lawyers,Y
+2536,Other Lawyers Service providers,142,Lawyers,Y
+2537,Other Lawyers Professionals,142,Lawyers,Y
+2538,Other Lawyers Associations,142,Lawyers,Y
+2541,Youth Organizations and Centres Organizations,1638,Kids and Teens,Y
+2542,Beds & Mattresses Manufacturers,770,Home and Garden,Y
+2543,Beds & Mattresses Wholesalers,770,Home and Garden,Y
+2544,Beds & Mattresses Retailers,770,Home and Garden,Y
+2546,Automobile & Truck Brokers Brokers,2545,Other,Y
+2551,Automobile Fuel Conversion Service providers,2545,Other,Y
+2552,Roadside Assistance Service providers,76,Auto Parts & Services,Y
+2553,Automobile Storage Service providers,2545,Other,Y
+2554,Auto Licensing Service providers,2545,Other,Y
+2555,Automobile Transportation Service providers,75,Automotive,Y
+2556,Automobile Transportation Associations,75,Automotive,Y
+2557,Fast Food Chicken Place,663,Fast Food,Y
+2558,Montessori Schools,1403,Nursery and K-12 Schools,Y
+2559,Private Golf Courses Place,1162,Golf,Y
+2562,Other Entertainment Place,30,Amusement,Y
+2565,Cafeterias Place,612,Restaurants,Y
+2566,Food Management Service providers,1272,Food Services and Consultants,Y
+2567,Blues & Jazz Clubs Place,1627,Nightlife,Y
+2568,Menswear Manufacturers,14,Apparel,Y
+2569,Menswear Wholesalers,14,Apparel,Y
+2570,Menswear Retailers,14,Apparel,Y
+2572,Convention Centres Place,337,Meetings and Conventions,Y
+2573,Fashion Designers Designers,13,Shopping and Specialty Stores,Y
+2574,Carriages Service providers,1520,Transportation,Y
+2575,Clowns Professionals,1996,Talent,Y
+2576,Religious Camps Place,567,Camps,Y
+2577,Food Banks Place,590,Family and Social Services,Y
+2578,Aesthetics Manufacturers,737,Beauty,Y
+2579,Aesthetics Service providers,737,Beauty,Y
+2580,Aesthetics Place,737,Beauty,Y
+2581,Barbers Service providers,737,Beauty,Y
+2582,Barbers Place,737,Beauty,Y
+2583,Barbers Equipment and Supplies,737,Beauty,Y
+2584,Barbers Manufacturers,737,Beauty,Y
+2585,Religious Organizations Organizations,598,Religious Establishments,Y
+2586,Religious Organizations Place,598,Religious Establishments,Y
+2587,Auto Appraisals Service providers,2545,Other,Y
+2589,Mufflers Manufacturers,76,Auto Parts & Services,Y
+2590,Mufflers Service providers,76,Auto Parts & Services,Y
+2591,Radiators Manufacturers,76,Auto Parts & Services,Y
+2592,Radiators Wholesalers,76,Auto Parts & Services,Y
+2593,Radiators Service providers,76,Auto Parts & Services,Y
+2594,Rustproofing Service providers,76,Auto Parts & Services,Y
+2595,Womenswear Manufacturers,14,Apparel,Y
+2596,Womenswear Wholesalers,14,Apparel,Y
+2597,Womenswear Retailers,14,Apparel,Y
+2598,Children's Apparel Online Retailers,14,Apparel,Y
+2599,Children's Apparel Wholesalers,14,Apparel,Y
+2600,Children's Apparel Manufacturers,14,Apparel,Y
+2601,Children's Apparel Retailers,14,Apparel,Y
+2602,Maternity Wear Retailers,14,Apparel,Y
+2603,Men's and Women's Apparel Retailers,14,Apparel,Y
+2604,Men's and Women's Apparel Manufacturers,14,Apparel,Y
+2605,Men's and Women's Apparel Wholesalers,14,Apparel,Y
+2606,Workwear Wholesalers,14,Apparel,Y
+2607,Workwear Retailers,14,Apparel,Y
+2608,Workwear Manufacturers,14,Apparel,Y
+2609,Shoe Repair Service providers,15,Footwear,Y
+2610,Shoe Repair Equipment and Supplies,15,Footwear,Y
+2611,Shoe Stores Retailers,15,Footwear,Y
+2612,Shoe Stores Equipment and Supplies,15,Footwear,Y
+2613,Shoe Stores Manufacturers,15,Footwear,Y
+2614,Shoe Stores Wholesalers,15,Footwear,Y
+2615,Orthopedic Shoes Online Retailers,15,Footwear,Y
+2616,Orthopedic Shoes Service providers,15,Footwear,Y
+2617,Orthopedic Shoes Manufacturers,15,Footwear,Y
+2618,Orthopedic Shoes Retailers,15,Footwear,Y
+2619,Orthopedic Shoes Wholesalers,15,Footwear,Y
+2620,Orthopedic Shoes Designers,15,Footwear,Y
+2622,Automobile Consultants Service providers,2545,Other,Y
+2623,Auto Inspection & Emissions Testing Service providers,76,Auto Parts & Services,Y
+2627,Awards and Trophies Manufacturers,1135,Sports and Recreation,Y
+2628,Awards and Trophies Wholesalers,1135,Sports and Recreation,Y
+2629,Awards and Trophies Retailers,1135,Sports and Recreation,Y
+2630,X-Ray and Imaging Clinics Equipment and Supplies,1030,Hospitals and Clinics,Y
+2631,X-Ray and Imaging Clinics Place,1030,Hospitals and Clinics,Y
+2632,Anaesthetists Associations,1000,Physicians and Surgeons,Y
+2633,Anaesthetists Place,1000,Physicians and Surgeons,Y
+2639,Holistic Medicine Distributors,1070,Alternative Medicine,Y
+2640,Holistic Medicine Associations,1070,Alternative Medicine,Y
+2641,Holistic Medicine Place,1070,Alternative Medicine,Y
+2642,Sports Medicine Clinics Associations,1030,Hospitals and Clinics,Y
+2643,Sports Medicine Clinics Place,1030,Hospitals and Clinics,Y
+2644,Asthma and Respiratory Clinics Place,1030,Hospitals and Clinics,Y
+2645,Allergy Clinics Place,1030,Hospitals and Clinics,Y
+2646,Allergy Clinics Equipment and Supplies,1030,Hospitals and Clinics,Y
+2647,Schools Place,1391,Education and Employment,Y
+2648,Schools Schools,1391,Education and Employment,Y
+2649,Osteopathy Clinics Place,1030,Hospitals and Clinics,Y
+2650,Truck Stops Place,2371,Trucking,Y
+2651,Trucks Equipments & Parts Manufacturers,2371,Trucking,Y
+2652,Trucks Equipments & Parts Wholesalers,2371,Trucking,Y
+2653,Truck Bodies Wholesalers,2371,Trucking,Y
+2654,Truck Bodies Manufacturers,2371,Trucking,Y
+2655,Trucks Manufacturers,2371,Trucking,Y
+2656,Cargo Transport Professionals,350,Logistics,Y
+2657,Cargo Transport Service providers,350,Logistics,Y
+2658,Truck Painting & Lettering Service providers,2371,Trucking,Y
+2659,Forklifts Wholesalers,350,Logistics,Y
+2660,Freight Containers Service providers,350,Logistics,Y
+2661,Freight Containers Manufacturers,350,Logistics,Y
+2662,Freight Containers Wholesalers,350,Logistics,Y
+2663,Religious Books and Resources Place,598,Religious Establishments,Y
+2664,Religious Books and Resources Online Retailers,598,Religious Establishments,Y
+2665,Religious Books and Resources Retailers,598,Religious Establishments,Y
+2666,Department Stores Online Retailers,13,Shopping and Specialty Stores,Y
+2667,Department Stores Retailers,13,Shopping and Specialty Stores,Y
+2668,Vitamins and Supplements Manufacturers,725,Nutrition,Y
+2669,Vitamins and Supplements Distributors,725,Nutrition,Y
+2670,Vitamins and Supplements Retailers,725,Nutrition,Y
+2671,Chinese Medicine Place,1070,Alternative Medicine,Y
+2672,Eating Disorder Clinics Place,1030,Hospitals and Clinics,Y
+2673,Business Insurance Firms,185,Insurance,Y
+2674,E-Learning Service providers,1391,Education and Employment,Y
+2675,E-Learning Schools,1391,Education and Employment,Y
+2676,Speech Pathology Professionals,1030,Hospitals and Clinics,Y
+2677,Speech Pathology Associations,1030,Hospitals and Clinics,Y
+2678,Speech Pathology Service providers,1030,Hospitals and Clinics,Y
+2679,Speech Pathology Place,1030,Hospitals and Clinics,Y
+2680,Occupational Therapy Service providers,1030,Hospitals and Clinics,Y
+2681,Occupational Therapy Place,1030,Hospitals and Clinics,Y
+2682,Boat Repairs Repairs,1629,Boating,Y
+2683,Docks Equipment and Supplies,1629,Boating,Y
+2684,Docks Place,1629,Boating,Y
+2685,Docks Builders,1629,Boating,Y
+2686,Docks Manufacturers,1629,Boating,Y
+2687,Wine Making Retailers,1576,Wine and Liquor Stores,Y
+2690,Liquor Stores Retailers,1576,Wine and Liquor Stores,Y
+2691,Marine Service Stations Service providers,1629,Boating,Y
+2693,Commercial Photographers Professionals,2692,Photography,Y
+2694,Portrait Photographers Professionals,2692,Photography,Y
+2703,Boat Transporting Service providers,1629,Boating,Y
+2704,Marine Supplies Manufacturers,1629,Boating,Y
+2705,Marine Supplies Wholesalers,1629,Boating,Y
+2706,Marine Supplies Retailers,1629,Boating,Y
+2716,Apartments - Furnished Place,1128,Rental Listings,Y
+2717,Building Inspectors Service providers,519,Property Maintenance,Y
+2718,Endodontists Place,1064,Dental Services,Y
+2719,Periodontists Associations,1064,Dental Services,Y
+2720,Periodontists Place,1064,Dental Services,Y
+2721,Dentures Service providers,1064,Dental Services,Y
+2722,Dentures Associations,1064,Dental Services,Y
+2723,Shiatsu Therapy Place,1070,Alternative Medicine,Y
+2724,Golf Carts Dealers,1162,Golf,Y
+2726,Scrap Metal Service providers,463,Construction,Y
+2731,English Language Schools Schools,528,Specialty Schools and Instruction,Y
+2732,French Language Schools Schools,528,Specialty Schools and Instruction,Y
+2733,Special Interest Clubs Organizations,2730,Community Clubs,Y
+2734,Special Interest Clubs Clubs,2730,Community Clubs,Y
+2735,Other Sports Leagues Organizations,1154,Leagues,Y
+2736,Educational Development Associations,590,Family and Social Services,Y
+2737,Educational Development Resources,590,Family and Social Services,Y
+2738,Educational Development Place,590,Family and Social Services,Y
+2741,Police Departments Service providers,2509,Municipal Services,Y
+2742,Sports Management Firms,1135,Sports and Recreation,Y
+2743,Prints and Posters Retailers,13,Shopping and Specialty Stores,Y
+2744,Orthotics Service providers,2335,Orthotics and Prosthetics,Y
+2747,Tennis Instruction Instructors,1249,Tennis,Y
+2748,Batting Cages Place,30,Amusement,Y
+2749,Magazine Shops Publishers,13,Shopping and Specialty Stores,Y
+2750,Magazine Shops Retailers,13,Shopping and Specialty Stores,Y
+2751,Magazine Shops Distributors,13,Shopping and Specialty Stores,Y
+2753,Skating Equipment and Supplies Retailers,2752,Skating,Y
+2754,Skating Equipment and Supplies Service providers,2752,Skating,Y
+2755,Sewage Services Manufacturers,2509,Municipal Services,Y
+2756,Sewage Services Contractors,2509,Municipal Services,Y
+2757,Sewage Services Service providers,2509,Municipal Services,Y
+2758,Accountants Service providers,1657,Accountants,Y
+2760,Horse Breeders and Dealers Service providers,2759,Equestrian,Y
+2761,Horse Breeders and Dealers Dealers,2759,Equestrian,Y
+2762,Stables Place,2759,Equestrian,Y
+2766,Horse Transporting Service providers,2759,Equestrian,Y
+2767,Horse Transporting Wholesalers,2759,Equestrian,Y
+2768,Equestrian Equipment and Supplies Retailers,2759,Equestrian,Y
+2769,Horse Training Service providers,2759,Equestrian,Y
+2770,Aromatherapy Service providers,1070,Alternative Medicine,Y
+2771,Aromatherapy Place,1070,Alternative Medicine,Y
+2779,Commercial Property Rentals Place,1128,Rental Listings,Y
+2780,Fishing Tours Service providers,1486,Fishing,Y
+2782,Log Homes Builders,770,Home and Garden,Y
+2783,Snowmobiling Retailers,1485,Extreme Sports,Y
+2784,Trailer Parks Place,1497,Accommodations,Y
+2785,Retirement Planning Service providers,1092,Senior Services,Y
+2786,Retirement Planning Firms,1092,Senior Services,Y
+2793,Breast Clinics Place,1030,Hospitals and Clinics,Y
+2794,Wind Sports Retailers,1485,Extreme Sports,Y
+2795,Wind Sports Associations,1485,Extreme Sports,Y
+2796,Wind Sports Service providers,1485,Extreme Sports,Y
+2797,Crematoriums Service providers,1245,Funerals,Y
+2798,Caskets Wholesalers,1245,Funerals,Y
+2799,Caskets Retailers,1245,Funerals,Y
+2800,Monuments Retailers,1245,Funerals,Y
+2801,Funeral Homes Service providers,1245,Funerals,Y
+2802,Funeral Homes Place,1245,Funerals,Y
+2803,Funeral Homes Equipment and Supplies,1245,Funerals,Y
+2804,Funeral Homes Associations,1245,Funerals,Y
+2805,Cemeteries Place,1245,Funerals,Y
+2806,Hospices Place,1030,Hospitals and Clinics,Y
+2808,Aerial Advertising Service providers,323,Advertising,Y
+2809,Online Advertising Service providers,323,Advertising,Y
+2810,Directory Advertising Service providers,323,Advertising,Y
+2811,Fax Advertising Service providers,323,Advertising,Y
+2812,Indoor Advertising Service providers,323,Advertising,Y
+2813,Magazine Advertising Service providers,323,Advertising,Y
+2814,Movie Advertising Service providers,323,Advertising,Y
+2815,Newspaper Advertising Service providers,323,Advertising,Y
+2816,Outdoor Advertising Service providers,323,Advertising,Y
+2817,Radio Advertising Service providers,323,Advertising,Y
+2818,Television Advertising Service providers,323,Advertising,Y
+2819,Transit Advertising Service providers,323,Advertising,Y
+2820,Building Maintenance Service providers,519,Property Maintenance,Y
+2821,Building Supplies Distributors,463,Construction,Y
+2822,Building Supplies Retailers,463,Construction,Y
+2823,Building Supplies Used,463,Construction,Y
+2824,Building Supplies Manufacturers,463,Construction,Y
+2825,Building Supplies Wholesalers,463,Construction,Y
+2826,Building Structures Manufacturers,463,Construction,Y
+2827,Outdoor Furniture Wholesalers,770,Home and Garden,Y
+2828,Outdoor Furniture Retailers,770,Home and Garden,Y
+2829,Outdoor Furniture Manufacturers,770,Home and Garden,Y
+2830,Credit Card Equipment & Supplies Wholesalers,305,Business Financial Services,Y
+2831,Credit Card Equipment & Supplies Service providers,305,Business Financial Services,Y
+2832,Credit Card Equipment & Supplies Manufacturers,305,Business Financial Services,Y
+2833,Gas Stations Equipment and Supplies,2545,Other,Y
+2834,Gas Stations Place,2545,Other,Y
+2838,Portable Toilets Manufacturers,463,Construction,Y
+2839,Portable Toilets Rentals,463,Construction,Y
+2844,Flea Markets Place,13,Shopping and Specialty Stores,Y
+2846,Key Cutting and Engraving Retailers,13,Shopping and Specialty Stores,Y
+2847,Trailers Equipment and Supplies,75,Automotive,Y
+2848,Trailers Repairs,75,Automotive,Y
+2849,Trailers Manufacturers,75,Automotive,Y
+2850,Trailers Wholesalers,75,Automotive,Y
+2851,Trailers Dealers,75,Automotive,Y
+2852,Trailers Rentals,75,Automotive,Y
+2853,Trailers Retailers,75,Automotive,Y
+2854,Window Cleaning Contractors,770,Home and Garden,Y
+2855,Window Cleaning Equipment and Supplies,770,Home and Garden,Y
+2856,Washrooms Wholesalers,463,Construction,Y
+2857,Washrooms Repairs,463,Construction,Y
+2858,Washrooms Contractors,463,Construction,Y
+2859,Washrooms Manufacturers,463,Construction,Y
+2860,Washrooms Equipment and Supplies,463,Construction,Y
+2861,Washrooms Designers,463,Construction,Y
+2862,Watches Wholesalers,680,Jewellery,Y
+2863,Watches Retailers,680,Jewellery,Y
+2864,Watches Repairs,680,Jewellery,Y
+2865,Gift Shops Manufacturers,13,Shopping and Specialty Stores,Y
+2866,Gift Shops Retailers,13,Shopping and Specialty Stores,Y
+2867,Gift Shops Online Retailers,13,Shopping and Specialty Stores,Y
+2868,Gift Shops Wholesalers,13,Shopping and Specialty Stores,Y
+2869,Greeting Cards Manufacturers,13,Shopping and Specialty Stores,Y
+2870,Greeting Cards Wholesalers,13,Shopping and Specialty Stores,Y
+2871,Greeting Cards Retailers,13,Shopping and Specialty Stores,Y
+2873,Jewellery Appraisals Service providers,680,Jewellery,Y
+2874,Arbitrators Professionals,142,Lawyers,Y
+2875,Vacuums Manufacturers,770,Home and Garden,Y
+2876,Vacuums Wholesalers,770,Home and Garden,Y
+2877,Vacuums Repairs,770,Home and Garden,Y
+2878,Vacuums Retailers,770,Home and Garden,Y
+2879,Vacuums Equipment and Supplies,770,Home and Garden,Y
+2880,Alcohol Home Delivery Service providers,1576,Wine and Liquor Stores,Y
+2881,Senior Services Organizations,1092,Senior Services,Y
+2882,Senior Services Service providers,1092,Senior Services,Y
+2883,Bags Manufacturers,2017,Miscellaneous,Y
+2884,Bags Wholesalers,2017,Miscellaneous,Y
+2885,Boxes Manufacturers,2017,Miscellaneous,Y
+2886,Boxes Wholesalers,2017,Miscellaneous,Y
+2887,Truck Refrigeration Manufacturers,2371,Trucking,Y
+2888,Holiday Decorations Wholesalers,770,Home and Garden,Y
+2889,Holiday Decorations Service providers,770,Home and Garden,Y
+2890,Holiday Decorations Retailers,770,Home and Garden,Y
+2891,Caulking Manufacturers,463,Construction,Y
+2892,Caulking Contractors,463,Construction,Y
+2893,Caulking Wholesalers,463,Construction,Y
+2894,Water Heaters Wholesalers,519,Property Maintenance,Y
+2895,Water Heaters Repairs,519,Property Maintenance,Y
+2896,Water Heaters Manufacturers,519,Property Maintenance,Y
+2897,Water Heaters Dealers,519,Property Maintenance,Y
+2898,Water Heaters Rentals,519,Property Maintenance,Y
+2899,Counter Tops Manufacturers,770,Home and Garden,Y
+2900,Counter Tops Contractors,770,Home and Garden,Y
+2901,Telecommunications Contractors,1689,Communications,Y
+2902,Telecommunications Consultants,1689,Communications,Y
+2903,Telecommunications Wholesalers,1689,Communications,Y
+2904,Television Broadcasting Producers,434,Media Services,Y
+2905,Television Broadcasting Broadcasters,434,Media Services,Y
+2906,Television Broadcasting Equipment and Supplies,434,Media Services,Y
+2907,Stationery Manufacturers,13,Shopping and Specialty Stores,Y
+2908,Stationery Wholesalers,13,Shopping and Specialty Stores,Y
+2909,Stationery Retailers,13,Shopping and Specialty Stores,Y
+2910,Hosiery Retailers,13,Shopping and Specialty Stores,Y
+2911,Hosiery Manufacturers,13,Shopping and Specialty Stores,Y
+2912,Hosiery Wholesalers,13,Shopping and Specialty Stores,Y
+2913,Curling Place,1135,Sports and Recreation,Y
+2914,Curling Retailers,1135,Sports and Recreation,Y
+2915,Farms Place,2356,Agriculture,Y
+2916,Animal Feed Wholesalers,2356,Agriculture,Y
+2917,Animal Feed Manufacturers,2356,Agriculture,Y
+2918,Fertilizing Equipment and Supplies,2356,Agriculture,Y
+2919,Fertilizing Wholesalers,2356,Agriculture,Y
+2920,Fertilizing Manufacturers,2356,Agriculture,Y
+2922,T-Shirts Retailers,14,Apparel,Y
+2923,T-Shirts Custom,14,Apparel,Y
+2924,T-Shirts Manufacturers,14,Apparel,Y
+2925,T-Shirts Wholesalers,14,Apparel,Y
+2926,Community Services and Organizations Organizations,566,Family and Community,Y
+2927,Cultural Organizations Organizations,2730,Community Clubs,Y
+2928,Consignment Stores Retailers,13,Shopping and Specialty Stores,Y
+2930,Automation Systems Manufacturers,2929,Manufacturing,Y
+2931,Automation Systems Consultants,2929,Manufacturing,Y
+2932,Automation Systems Wholesalers,2929,Manufacturing,Y
+2933,Bearings Manufacturers,2929,Manufacturing,Y
+2934,Bearings Contractors,2929,Manufacturing,Y
+2935,Bookbinders Equipment and Supplies,2929,Manufacturing,Y
+2936,Bookbinders Manufacturers,2929,Manufacturing,Y
+2937,Audio Visual Post Production Service providers,444,Multimedia Services,Y
+2938,Chemicals Consultants,2372,Materials,Y
+2939,Chemicals Wholesalers,2372,Materials,Y
+2940,Chemicals Equipment and Supplies,2372,Materials,Y
+2941,Chemicals Manufacturers,2372,Materials,Y
+2942,Chemicals Brokers,2372,Materials,Y
+2943,City Halls Place,2509,Municipal Services,Y
+2944,Coatings Manufacturers,2929,Manufacturing,Y
+2945,Coin Dealers Retailers,13,Shopping and Specialty Stores,Y
+2946,Control Systems Wholesalers,463,Construction,Y
+2947,Control Systems Manufacturers,463,Construction,Y
+2948,Conveyors Manufacturers,2929,Manufacturing,Y
+2949,Conveyors Wholesalers,2929,Manufacturing,Y
+2950,Cooperatives Place,590,Family and Social Services,Y
+2951,Industrial Designers Firms,2929,Manufacturing,Y
+2952,Diaper Services Service providers,1638,Kids and Teens,Y
+2953,Tool and Die Makers Wholesalers,2929,Manufacturing,Y
+2954,Tool and Die Makers Manufacturers,2929,Manufacturing,Y
+2955,Tool and Die Makers Equipment and Supplies,2929,Manufacturing,Y
+2956,Drilling Wholesalers,463,Construction,Y
+2957,Drilling Manufacturers,463,Construction,Y
+2958,Drilling Contractors,463,Construction,Y
+2960,Automated Doors Wholesalers,519,Property Maintenance,Y
+2961,Automated Doors Service providers,519,Property Maintenance,Y
+2962,Automated Doors Manufacturers,519,Property Maintenance,Y
+2963,Dressmakers Equipment and Supplies,1628,Clothing Services,Y
+2964,Dressmakers Service providers,1628,Clothing Services,Y
+2965,Asbestos Removal Service providers,519,Property Maintenance,Y
+2966,Asbestos Removal Equipment and Supplies,519,Property Maintenance,Y
+2967,Ceramics and Pottery Equipment and Supplies,2921,Sewing and Crafts,Y
+2968,Ceramics and Pottery Retailers,2921,Sewing and Crafts,Y
+2969,Ceramics Manufacturers,2929,Manufacturing,Y
+2970,Importers Service providers,350,Logistics,Y
+2971,China and Tableware Wholesalers,2104,Housewares,Y
+2972,China and Tableware Retailers,2104,Housewares,Y
+2973,China and Tableware Repairs,2104,Housewares,Y
+2974,China and Tableware Manufacturers,2104,Housewares,Y
+2975,Exporters Service providers,350,Logistics,Y
+2976,Small Appliances Manufacturers,2104,Housewares,Y
+2977,Small Appliances Wholesalers,2104,Housewares,Y
+2978,Small Appliances Retailers,2104,Housewares,Y
+2979,Small Appliances Repairs,2104,Housewares,Y
+2980,Crane Wholesalers,463,Construction,Y
+2981,Crane Service providers,463,Construction,Y
+2982,Crane Rentals,463,Construction,Y
+2983,Crane Manufacturers,463,Construction,Y
+2985,Employee Benefit Plans Firms,1709,Human Resources,Y
+2990,Environmental Organizations Organizations,1722,Energy and Environment,Y
+2991,Craft Supply Place,2921,Sewing and Crafts,Y
+2992,Craft Supply Wholesalers,2921,Sewing and Crafts,Y
+2993,Craft Supply Manufacturers,2921,Sewing and Crafts,Y
+2994,Craft Supply Retailers,2921,Sewing and Crafts,Y
+2995,Fiber Glass Wholesalers,2929,Manufacturing,Y
+2996,Fiber Glass Manufacturers,2929,Manufacturing,Y
+2997,Fire Departments Service providers,2509,Municipal Services,Y
+2998,First Aid Service Instructors,2509,Municipal Services,Y
+2999,First Aid Service Equipment and Supplies,2509,Municipal Services,Y
+3000,First Aid Service Service providers,2509,Municipal Services,Y
+3001,Grocery Stores Place,13,Shopping and Specialty Stores,N
+3002,Grocery Stores Wholesalers,13,Shopping and Specialty Stores,N
+3003,Grocery Stores Retailers,13,Shopping and Specialty Stores,N
+3004,Trade Shows and Expos Events,337,Meetings and Conventions,Y
+3005,Factory Outlet Stores Wholesalers,13,Shopping and Specialty Stores,Y
+3006,Factory Outlet Stores Retailers,13,Shopping and Specialty Stores,Y
+3008,Executive Search Consultants Firms,1709,Human Resources,Y
+3017,Fire Extinguishers Retailers,261,Security & Safety,Y
+3018,Fire Extinguishers Manufacturers,261,Security & Safety,Y
+3019,Fire Extinguishers Wholesalers,261,Security & Safety,Y
+3020,Hemp Products Retailers,13,Shopping and Specialty Stores,Y
+3021,Home Technology Retailers,770,Home and Garden,Y
+3027,Municipal Government Place,3026,Government Offices and Services,Y
+3028,County Offices Place,3026,Government Offices and Services,Y
+3029,Federal Government Place,3026,Government Offices and Services,Y
+3030,Provincial Government Place,3026,Government Offices and Services,Y
+3031,Aboriginal Government Offices Place,3026,Government Offices and Services,Y
+3033,Hospital Equipment and Supplies Repairs,1030,Hospitals and Clinics,Y
+3034,Hospital Equipment and Supplies Wholesalers,1030,Hospitals and Clinics,Y
+3035,Hospital Equipment and Supplies Manufacturers,1030,Hospitals and Clinics,Y
+3036,Government Housing Place,590,Family and Social Services,Y
+3038,Hydroponics Equipment & Supplies Retailers,2845,Plants,Y
+3039,Government Relations Consultants Consultants,359,Consultants,Y
+3040,Machine Shops Equipment and Supplies,2929,Manufacturing,Y
+3041,Machine Shops Service providers,2929,Manufacturing,Y
+3042,Labour Organizations and Unions Organizations,2740,"Organizations, Associations & Unions",Y
+3043,Greenhouses Equipment and Supplies,2845,Plants,Y
+3044,Greenhouses Place,2845,Plants,Y
+3045,Greenhouses Builders,2845,Plants,Y
+3052,Ventilation Manufacturers,463,Construction,Y
+3053,Ventilation Contractors,463,Construction,Y
+3054,Ventilation Wholesalers,463,Construction,Y
+3057,Western Apparel Retailers,14,Apparel,Y
+3058,Carpenters Contractors,770,Home and Garden,Y
+3059,Carpenters Equipment and Supplies,770,Home and Garden,Y
+3060,Immigration Services Service providers,566,Family and Community,Y
+3061,Investigators Service providers,261,Security & Safety,Y
+3062,Kitchenware Manufacturers,2104,Housewares,Y
+3063,Kitchenware Wholesalers,2104,Housewares,Y
+3064,Kitchenware Retailers,2104,Housewares,Y
+3065,Dental Laboratories Place,1064,Dental Services,Y
+3066,Lottery Agents Retailers,1847,Gambling,Y
+3067,Mailbox Stores Retailers,235,Business Services,Y
+3068,Youth Mental Services Place,1094,"Mental Health, Therapists and Counselors",Y
+3069,Midwives Professionals,1070,Alternative Medicine,Y
+3070,Motion Picture Production Consultants,67,Movies,Y
+3071,Motion Picture Production Service providers,67,Movies,Y
+3072,Motion Picture Production Professionals,67,Movies,Y
+3073,Motion Picture Production Rentals,67,Movies,Y
+3074,Motion Picture Production Place,67,Movies,Y
+3075,Motion Picture Production Firms,67,Movies,Y
+3076,Motion Picture Production Equipment and Supplies,67,Movies,Y
+3077,Film Distributors Distributors,67,Movies,Y
+3078,Motivation Consultants Professionals,337,Meetings and Conventions,Y
+3079,Outplacement Consultants Consultants,1709,Human Resources,Y
+3080,Opthamologists Place,1050,Eye Care,Y
+3081,Opthamologists Professionals,1050,Eye Care,Y
+3082,Pianos Service providers,702,Music,Y
+3083,Pianos Retailers,702,Music,Y
+3084,Pianos Rentals,702,Music,Y
+3085,Shelving Wholesalers,2017,Miscellaneous,Y
+3086,Shelving Manufacturers,2017,Miscellaneous,Y
+3087,Cold Storage Service providers,350,Logistics,Y
+3088,Disability Services Service providers,590,Family and Social Services,Y
+3089,Manufacturers' Agents and Representatives Firms,2929,Manufacturing,Y
+3090,Silk Screen Printing Equipment and Supplies,14,Apparel,Y
+3091,Silk Screen Printing Service providers,14,Apparel,Y
+3092,Quilting Retailers,2921,Sewing and Crafts,Y
+3093,Ticket Services Service providers,1193,Weddings and Events,Y
+3094,Staircases Contractors,770,Home and Garden,Y
+3095,Staircases Manufacturers,770,Home and Garden,Y
+3096,Event Promotions Service providers,1193,Weddings and Events,Y
+3097,Bookkeeping Systems Wholesalers,305,Business Financial Services,Y
+3098,Aluminum Wholesalers,2372,Materials,Y
+3099,Aluminum Manufacturers,2372,Materials,Y
+3100,Animal Shelters Place,573,Pets,Y
+3101,Lawyer Referral Service Service providers,142,Lawyers,Y
+3102,"Oil, Lube, Filter Equipment and Supplies",76,Auto Parts & Services,Y
+3103,"Oil, Lube, Filter Service providers",76,Auto Parts & Services,Y
+3104,Computer Programming Contractors,1715,Computers and Internet,Y
+3105,Dental Hygienists & Technicians Professionals,1064,Dental Services,Y
+3106,Dental Hygienists & Technicians Place,1064,Dental Services,Y
+3107,Artificial Plants Wholesalers,2845,Plants,Y
+3108,Artificial Plants Retailers,2845,Plants,Y
+3109,Artificial Plants Manufacturers,2845,Plants,Y
+3113,Home Decor Retailers,770,Home and Garden,Y
+3114,Septic Tanks Wholesalers,770,Home and Garden,Y
+3115,Septic Tanks Manufacturers,770,Home and Garden,Y
+3116,Septic Tanks Cleaning,770,Home and Garden,Y
+3117,Septic Tanks Contractors,770,Home and Garden,Y
+3118,Maple Syrup Retailers,1263,Specialty Shops,Y
+3119,Maple Syrup Producers,1263,Specialty Shops,Y
+3120,Baker's Supply Wholesalers,1271,Food and Beverage Suppliers,Y
+3121,Baker's Supply Manufacturers,1271,Food and Beverage Suppliers,Y
+3122,Concrete Cutting and Coring Manufacturers,463,Construction,Y
+3123,Concrete Cutting and Coring Contractors,463,Construction,Y
+3124,Middle Eastern Fast Food Place,663,Fast Food,Y
+3125,Thrift Shops Retailers,13,Shopping and Specialty Stores,Y
+3126,Sod and Sodding Service Service providers,519,Property Maintenance,Y
+3128,Wine Shops Retailers,1576,Wine and Liquor Stores,Y
+3129,Patio Restaurants & Bars Place,612,Restaurants,Y
+3130,Traffic Tickets Service providers,75,Automotive,Y
+3133,Rental Equipment Rentals,463,Construction,Y
+3134,Summerlicious Restaurants Place,612,Restaurants,Y
+3135,Faux Finish Contractors,770,Home and Garden,Y
+3136,Synthetic Lawns Contractors,770,Home and Garden,Y
+3137,Moving Supplies Retailers,13,Shopping and Specialty Stores,Y
+3138,Moving Supplies Manufacturers,13,Shopping and Specialty Stores,Y
+3139,Moving Supplies Wholesalers,13,Shopping and Specialty Stores,Y
+3140,Mobile Storage Rentals,770,Home and Garden,Y
+3141,Shutters Contractors,770,Home and Garden,Y
+3142,Shutters Retailers,770,Home and Garden,Y
+3143,Public Squares Place,566,Family and Community,Y
+3146,House Sitters Service providers,770,Home and Garden,Y
+3147,Gourmet Hamburgers Place,612,Restaurants,Y
+3148,Jeep Dealers Dealers,121,New Cars,Y
+3149,Iron Railings Manufacturers,3150,RAILINGS 2 Manufacturers,Y
+3152,IRON RAILINGS 2 Manufacturers,3150,RAILINGS 2 Manufacturers,Y
+3153,Closets New Manufacturers,770,Home and Garden,Y
+3154,Wall Beds Manufacturers,770,Home and Garden,Y
